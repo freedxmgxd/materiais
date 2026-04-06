@@ -1,0 +1,48 @@
+{
+  "name": "Yttrium Aluminum Garnet (YAG)",
+  "density": 4.56,
+  "molecular_weight": 29.680903279804404,
+  "total_atom_density": 0.09252064065140865,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.32255178003815144,
+      "atom_frac": 0.5985419999999999,
+      "atom_density": 0.055377489296775426
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00013058234797705057,
+      "atom_frac": 0.000228,
+      "atom_density": 2.1094706068521174e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0007458993452532856,
+      "atom_frac": 0.00123,
+      "atom_density": 0.00011380038800123264
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.22726345416144125,
+      "atom_frac": 0.25,
+      "atom_density": 0.023130160162852163
+    },
+    {
+      "Z": 39,
+      "A": 89,
+      "element": "Y",
+      "weight_frac": 0.449308284107177,
+      "atom_frac": 0.15,
+      "atom_density": 0.013878096097711297
+    }
+  ]
+}

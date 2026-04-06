@@ -1,0 +1,40 @@
+{
+  "name": "Thorium Dioxide",
+  "density": 10.0,
+  "molecular_weight": 88.01221580512201,
+  "total_atom_density": 0.0684239193947158,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.12086242656806358,
+      "atom_frac": 0.66504699919,
+      "atom_density": 0.045505122266274185
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 4.893012663453553e-05,
+      "atom_frac": 0.00025333346,
+      "atom_density": 1.733406824702446e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0002794937446390122,
+      "atom_frac": 0.0013666673500000001,
+      "atom_density": 9.351273659578985e-05
+    },
+    {
+      "Z": 90,
+      "A": 232,
+      "element": "Th",
+      "weight_frac": 0.8788091495606628,
+      "atom_frac": 0.333333,
+      "atom_density": 0.0228079503235988
+    }
+  ]
+}

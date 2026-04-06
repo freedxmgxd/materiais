@@ -1,0 +1,80 @@
+{
+  "name": "Earth, Typical Western U.S.",
+  "density": 1.52,
+  "molecular_weight": 13.399579757829448,
+  "total_atom_density": 0.0683129928000277,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.02382893216031032,
+      "atom_frac": 0.316818561675,
+      "atom_density": 0.021642824122619406
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 5.477074392670786e-06,
+      "atom_frac": 3.6438325e-05,
+      "atom_density": 2.4892110333700695e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5972761939762682,
+      "atom_frac": 0.5003621581700001,
+      "atom_density": 0.03418123650847354
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00024180219309591873,
+      "atom_frac": 0.00019060078000000003,
+      "atom_density": 1.3020509711819665e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0013811981504785935,
+      "atom_frac": 0.0010282410500000003,
+      "atom_density": 7.024222344534294e-05
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.08044576474931327,
+      "atom_frac": 0.039951,
+      "atom_density": 0.0027291723753539066
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.27267868640338594,
+      "atom_frac": 0.13059975698999998,
+      "atom_density": 0.008921660258943236
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.014347207759645562,
+      "atom_frac": 0.00663456905,
+      "atom_density": 0.0004532272677439366
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.009794737533109584,
+      "atom_frac": 0.004378673959999999,
+      "atom_density": 0.0002991203227031487
+    }
+  ]
+}

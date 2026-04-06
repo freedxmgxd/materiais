@@ -1,0 +1,64 @@
+{
+  "name": "P-10 Gas",
+  "density": 0.001561,
+  "molecular_weight": 26.826619579002184,
+  "total_atom_density": 3.50419168493299e-05,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.010732496731385805,
+      "atom_frac": 0.28568114289,
+      "atom_density": 1.0010814854572915e-05
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.466861822486743e-06,
+      "atom_frac": 3.285711e-05,
+      "atom_density": 1.1513761165292861e-09
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.031609518072255774,
+      "atom_frac": 0.07066470970000001,
+      "atom_density": 2.4762268814894365e-06
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.000370465534758894,
+      "atom_frac": 0.0007642903,
+      "atom_density": 2.678219714134941e-08
+    },
+    {
+      "Z": 18,
+      "A": 36,
+      "element": "Ar",
+      "weight_frac": 0.0028753139105701067,
+      "atom_frac": 0.002144570952,
+      "atom_density": 7.514987697747226e-08
+    },
+    {
+      "Z": 18,
+      "A": 38,
+      "element": "Ar",
+      "weight_frac": 0.0005722114346679894,
+      "atom_frac": 0.000404357053,
+      "atom_density": 1.4169446228666084e-08
+    },
+    {
+      "Z": 18,
+      "A": 40,
+      "element": "Ar",
+      "weight_frac": 0.9538375274545389,
+      "atom_frac": 0.6403080719950001,
+      "atom_density": 2.2437622216803538e-05
+    }
+  ]
+}

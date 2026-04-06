@@ -1,0 +1,48 @@
+{
+  "name": "Germanium, High Purity",
+  "density": 5.323,
+  "molecular_weight": 72.6275501207549,
+  "total_atom_density": 0.044137321460220015,
+  "nuclides": [
+    {
+      "Z": 32,
+      "A": 70,
+      "element": "Ge",
+      "weight_frac": 0.19804355098271484,
+      "atom_frac": 0.2057,
+      "atom_density": 0.009079047024367256
+    },
+    {
+      "Z": 32,
+      "A": 72,
+      "element": "Ge",
+      "weight_frac": 0.2718336193477924,
+      "atom_frac": 0.2745,
+      "atom_density": 0.012115694740830395
+    },
+    {
+      "Z": 32,
+      "A": 73,
+      "element": "Ge",
+      "weight_frac": 0.07781576081718804,
+      "atom_frac": 0.0775,
+      "atom_density": 0.003420642413167051
+    },
+    {
+      "Z": 32,
+      "A": 74,
+      "element": "Ge",
+      "weight_frac": 0.37150130821622646,
+      "atom_frac": 0.365,
+      "atom_density": 0.016110122332980304
+    },
+    {
+      "Z": 32,
+      "A": 76,
+      "element": "Ge",
+      "weight_frac": 0.08080576063607828,
+      "atom_frac": 0.0773,
+      "atom_density": 0.0034118149488750068
+    }
+  ]
+}

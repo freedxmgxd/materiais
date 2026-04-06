@@ -1,0 +1,64 @@
+{
+  "name": "Titanium Hydride",
+  "density": 3.75,
+  "molecular_weight": 16.627526102067385,
+  "total_atom_density": 0.13581712463643125,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.040403269842553595,
+      "atom_frac": 0.6665903332950001,
+      "atom_density": 0.09053438237856727
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 9.286681969047838e-06,
+      "atom_frac": 7.6666705e-05,
+      "atom_density": 1.0412651428449508e-05
+    },
+    {
+      "Z": 22,
+      "A": 46,
+      "element": "Ti",
+      "weight_frac": 0.07600023920188907,
+      "atom_frac": 0.0274999725,
+      "atom_density": 0.0037349671925309322
+    },
+    {
+      "Z": 22,
+      "A": 47,
+      "element": "Ti",
+      "weight_frac": 0.07002860282555431,
+      "atom_frac": 0.024799975199999998,
+      "atom_density": 0.003368261322718804
+    },
+    {
+      "Z": 22,
+      "A": 48,
+      "element": "Ti",
+      "weight_frac": 0.7086078490747867,
+      "atom_frac": 0.24573308759999998,
+      "atom_density": 0.033374761385864274
+    },
+    {
+      "Z": 22,
+      "A": 49,
+      "element": "Ti",
+      "weight_frac": 0.05308620575341006,
+      "atom_frac": 0.0180333153,
+      "atom_density": 0.002449233031708163
+    },
+    {
+      "Z": 22,
+      "A": 50,
+      "element": "Ti",
+      "weight_frac": 0.05186454661983727,
+      "atom_frac": 0.0172666494,
+      "atom_density": 0.002345106673613361
+    }
+  ]
+}

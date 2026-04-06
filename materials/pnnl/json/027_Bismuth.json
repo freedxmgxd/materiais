@@ -1,0 +1,16 @@
+{
+  "name": "Bismuth",
+  "density": 9.747,
+  "molecular_weight": 208.980398599,
+  "total_atom_density": 0.028087708886205976,
+  "nuclides": [
+    {
+      "Z": 83,
+      "A": 209,
+      "element": "Bi",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 0.028087708886205976
+    }
+  ]
+}

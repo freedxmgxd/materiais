@@ -1,0 +1,72 @@
+{
+  "name": "Tributyl Phosphate (TBP)",
+  "density": 0.9724,
+  "molecular_weight": 6.052597345016952,
+  "total_atom_density": 0.09675068968275467,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10216559669414156,
+      "atom_frac": 0.6135660454260454,
+      "atom_density": 0.059362938060890276
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3482738114359824e-05,
+      "atom_frac": 7.056821056821057e-05,
+      "atom_density": 6.827523042152229e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.5349288753818502,
+      "atom_frac": 0.2698090909090909,
+      "atom_density": 0.0261042156281316
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.006269399977035733,
+      "atom_frac": 0.002918181818181818,
+      "atom_density": 0.0002823361035287659
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.2396573970597878,
+      "atom_frac": 0.09068818181818182,
+      "atom_density": 0.008774144136984144
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 9.70232612402071e-05,
+      "atom_frac": 3.454545454545455e-05,
+      "atom_density": 3.34229655267698e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0005542065076523796,
+      "atom_frac": 0.0001863636363636364,
+      "atom_density": 1.803081034996792e-05
+    },
+    {
+      "Z": 15,
+      "A": 31,
+      "element": "P",
+      "weight_frac": 0.11630401838017769,
+      "atom_frac": 0.02272702272702273,
+      "atom_density": 0.002198855123275089
+    }
+  ]
+}

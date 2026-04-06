@@ -1,0 +1,32 @@
+{
+  "name": "Uranium, Enriched, Typical Commercial",
+  "density": 18.944492,
+  "molecular_weight": 237.95943734841262,
+  "total_atom_density": 0.0479436322097418,
+  "nuclides": [
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.00030489521827844405,
+      "atom_frac": 0.00031,
+      "atom_density": 1.4862525985019958e-05
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.02959984051218436,
+      "atom_frac": 0.029967,
+      "atom_density": 0.0014367268264293325
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.9700952642695372,
+      "atom_frac": 0.969723,
+      "atom_density": 0.04649204285732745
+    }
+  ]
+}

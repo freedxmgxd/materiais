@@ -1,0 +1,88 @@
+{
+  "name": "Oil, Crude (Heavy, Qayarah, Iraq)",
+  "density": 0.97,
+  "molecular_weight": 5.830722519335438,
+  "total_atom_density": 0.10018443714014687,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10197616856911382,
+      "atom_frac": 0.5899781447100001,
+      "atom_density": 0.059106628352759476
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3439198104851168e-05,
+      "atom_frac": 6.785529000000001e-05,
+      "atom_density": 6.798044035631437e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.7976502669398317,
+      "atom_frac": 0.38757311450000004,
+      "atom_density": 0.0388287943268362
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009348511167331161,
+      "atom_frac": 0.0041918855,
+      "atom_density": 0.0004199616893734431
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.006972794103599057,
+      "atom_frac": 0.0029033930400000005,
+      "atom_density": 0.00029087479750901997
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 2.728745100662553e-05,
+      "atom_frac": 1.0606960000000001e-05,
+      "atom_density": 1.0626523173680523e-06
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.07956233193055272,
+      "atom_frac": 0.0145097225,
+      "atom_density": 0.0014536483817222247
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.0006478258481162124,
+      "atom_frac": 0.00011456250000000001,
+      "atom_density": 1.1477379579868077e-05
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.003781952338166987,
+      "atom_frac": 0.0006491875000000001,
+      "atom_density": 6.50384842859191e-05
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 9.422454176963957e-06,
+      "atom_frac": 1.5275000000000002e-06,
+      "atom_density": 1.5303172773157437e-07
+    }
+  ]
+}

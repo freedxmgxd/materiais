@@ -1,0 +1,72 @@
+{
+  "name": "Cadmium",
+  "density": 8.65,
+  "molecular_weight": 112.4115582660399,
+  "total_atom_density": 0.046340001310823484,
+  "nuclides": [
+    {
+      "Z": 48,
+      "A": 106,
+      "element": "Cd",
+      "weight_frac": 0.011776642614049022,
+      "atom_frac": 0.0125,
+      "atom_density": 0.0005792500163852935
+    },
+    {
+      "Z": 48,
+      "A": 108,
+      "element": "Cd",
+      "weight_frac": 0.00854313603286581,
+      "atom_frac": 0.0089,
+      "atom_density": 0.000412426011666329
+    },
+    {
+      "Z": 48,
+      "A": 110,
+      "element": "Cd",
+      "weight_frac": 0.12211275997541225,
+      "atom_frac": 0.1249,
+      "atom_density": 0.005787866163721853
+    },
+    {
+      "Z": 48,
+      "A": 111,
+      "element": "Cd",
+      "weight_frac": 0.1262835934515873,
+      "atom_frac": 0.128,
+      "atom_density": 0.005931520167785406
+    },
+    {
+      "Z": 48,
+      "A": 112,
+      "element": "Cd",
+      "weight_frac": 0.24020783400404366,
+      "atom_frac": 0.2413,
+      "atom_density": 0.011181842316301706
+    },
+    {
+      "Z": 48,
+      "A": 113,
+      "element": "Cd",
+      "weight_frac": 0.12273576563878236,
+      "atom_frac": 0.1222,
+      "atom_density": 0.00566274816018263
+    },
+    {
+      "Z": 48,
+      "A": 114,
+      "element": "Cd",
+      "weight_frac": 0.29111274026179584,
+      "atom_frac": 0.2873,
+      "atom_density": 0.013313482376599586
+    },
+    {
+      "Z": 48,
+      "A": 116,
+      "element": "Cd",
+      "weight_frac": 0.07722752802146372,
+      "atom_frac": 0.0749,
+      "atom_density": 0.003470866098180679
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Magnesium Tetraborate",
+  "density": 2.53,
+  "molecular_weight": 14.962210776643339,
+  "total_atom_density": 0.10182997920724443,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.04438855813134554,
+      "atom_frac": 0.06632928700000001,
+      "atom_density": 0.0067543099160413496
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.1964485873542929,
+      "atom_frac": 0.266983713,
+      "atom_density": 0.027186945943462916
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.6220989731314043,
+      "atom_frac": 0.5819334570699999,
+      "atom_density": 0.05925827183343796
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00025185148436013087,
+      "atom_frac": 0.00022167338,
+      "atom_density": 2.2572995676199594e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0014386007005962613,
+      "atom_frac": 0.00119586955,
+      "atom_density": 0.00012177537141107676
+    },
+    {
+      "Z": 12,
+      "A": 24,
+      "element": "Mg",
+      "weight_frac": 0.10552356966758662,
+      "atom_frac": 0.0658271064,
+      "atom_density": 0.006703172875985067
+    },
+    {
+      "Z": 12,
+      "A": 25,
+      "element": "Mg",
+      "weight_frac": 0.013916524372514599,
+      "atom_frac": 0.0083336,
+      "atom_density": 0.0008486103147214922
+    },
+    {
+      "Z": 12,
+      "A": 26,
+      "element": "Mg",
+      "weight_frac": 0.015933335157899665,
+      "atom_frac": 0.0091752936,
+      "atom_density": 0.0009343199565083629
+    }
+  ]
+}

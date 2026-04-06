@@ -1,0 +1,40 @@
+{
+  "name": "Gasoline",
+  "density": 0.721,
+  "molecular_weight": 4.425761014588618,
+  "total_atom_density": 0.09810659621356878,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.1569633847449114,
+      "atom_frac": 0.68928872268,
+      "atom_density": 0.06762377039053334
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 3.607799667184459e-05,
+      "atom_frac": 7.927732e-05,
+      "atom_density": 7.77762802213388e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8332349711257009,
+      "atom_frac": 0.3073082376,
+      "atom_density": 0.03014896517932665
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009765566132715972,
+      "atom_frac": 0.0033237624,
+      "atom_density": 0.0003260830156866423
+    }
+  ]
+}

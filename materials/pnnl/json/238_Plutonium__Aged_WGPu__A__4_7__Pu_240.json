@@ -1,0 +1,56 @@
+{
+  "name": "Plutonium, Aged WGPu (A: 4-7% Pu-240)",
+  "density": 19.84,
+  "molecular_weight": 239.11947851722678,
+  "total_atom_density": 0.04996634879738264,
+  "nuclides": [
+    {
+      "Z": 94,
+      "A": 238,
+      "element": "Pu",
+      "weight_frac": 9.955255826549083e-05,
+      "atom_frac": 0.0001,
+      "atom_density": 4.996634879738264e-06
+    },
+    {
+      "Z": 94,
+      "A": 239,
+      "element": "Pu",
+      "weight_frac": 0.9362953398882509,
+      "atom_frac": 0.936559,
+      "atom_density": 0.04679643366332789
+    },
+    {
+      "Z": 94,
+      "A": 240,
+      "element": "Pu",
+      "weight_frac": 0.05991018135386206,
+      "atom_frac": 0.059677,
+      "atom_density": 0.002981841797181404
+    },
+    {
+      "Z": 94,
+      "A": 241,
+      "element": "Pu",
+      "weight_frac": 0.0019970502700984616,
+      "atom_frac": 0.001981,
+      "atom_density": 9.898333696761501e-05
+    },
+    {
+      "Z": 94,
+      "A": 242,
+      "element": "Pu",
+      "weight_frac": 0.00029963843921908766,
+      "atom_frac": 0.000296,
+      "atom_density": 1.4790039244025261e-05
+    },
+    {
+      "Z": 95,
+      "A": 241,
+      "element": "Am",
+      "weight_frac": 0.0013982374903040527,
+      "atom_frac": 0.001387,
+      "atom_density": 6.930332578196972e-05
+    }
+  ]
+}

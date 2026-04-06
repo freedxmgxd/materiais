@@ -1,0 +1,40 @@
+{
+  "name": "Lead",
+  "density": 11.35,
+  "molecular_weight": 207.216907572755,
+  "total_atom_density": 0.032985386388898544,
+  "nuclides": [
+    {
+      "Z": 82,
+      "A": 204,
+      "element": "Pb",
+      "weight_frac": 0.013780837879174388,
+      "atom_frac": 0.014,
+      "atom_density": 0.0004617954094445796
+    },
+    {
+      "Z": 82,
+      "A": 206,
+      "element": "Pb",
+      "weight_frac": 0.23955499914108686,
+      "atom_frac": 0.241,
+      "atom_density": 0.007949478119724549
+    },
+    {
+      "Z": 82,
+      "A": 207,
+      "element": "Pb",
+      "weight_frac": 0.22074295834851623,
+      "atom_frac": 0.221,
+      "atom_density": 0.007289770391946579
+    },
+    {
+      "Z": 82,
+      "A": 208,
+      "element": "Pb",
+      "weight_frac": 0.5259212046312226,
+      "atom_frac": 0.524,
+      "atom_density": 0.017284342467782838
+    }
+  ]
+}

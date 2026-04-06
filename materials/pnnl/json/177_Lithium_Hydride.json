@@ -1,0 +1,40 @@
+{
+  "name": "Lithium Hydride",
+  "density": 0.82,
+  "molecular_weight": 3.974053930293631,
+  "total_atom_density": 0.12425989958407872,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.12678325207629634,
+      "atom_frac": 0.499931501265,
+      "atom_density": 0.06212143814610663
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.9141100352084126e-05,
+      "atom_frac": 5.7498735e-05,
+      "atom_density": 7.144787037311553e-06
+    },
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.05744233460536374,
+      "atom_frac": 0.037950834899999994,
+      "atom_density": 0.00471576693380595
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.8157452722179879,
+      "atom_frac": 0.4620601651,
+      "atom_density": 0.05741554971712883
+    }
+  ]
+}

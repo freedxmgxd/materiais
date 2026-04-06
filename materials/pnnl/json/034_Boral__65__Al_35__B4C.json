@@ -1,0 +1,48 @@
+{
+  "name": "Boral (65% Al-35% B4C)",
+  "density": 2.53,
+  "molecular_weight": 17.933116361532388,
+  "total_atom_density": 0.08496022562749979,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.050500928601328876,
+      "atom_frac": 0.090446893,
+      "atom_density": 0.007684388436586332
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.22349984999412142,
+      "atom_frac": 0.364060107,
+      "atom_density": 0.030930628832691716
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.07511967149723482,
+      "atom_frac": 0.1122608175,
+      "atom_density": 0.009537704383927577
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0008804072624113105,
+      "atom_frac": 0.0012141825,
+      "atom_density": 0.00010315721915296176
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.6499991426449035,
+      "atom_frac": 0.432018,
+      "atom_density": 0.036704346755141205
+    }
+  ]
+}

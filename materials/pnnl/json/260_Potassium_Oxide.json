@@ -1,0 +1,56 @@
+{
+  "name": "Potassium Oxide",
+  "density": 2.32,
+  "molecular_weight": 31.398676613295734,
+  "total_atom_density": 0.04449667333203412,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.16939175725144687,
+      "atom_frac": 0.33252300080999997,
+      "atom_density": 0.014796167342430286
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 6.857681389089283e-05,
+      "atom_frac": 0.00012666654,
+      "atom_density": 5.636239652479034e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00039171757418363383,
+      "atom_frac": 0.00068333265,
+      "atom_density": 3.0406029704163208e-05
+    },
+    {
+      "Z": 19,
+      "A": 39,
+      "element": "K",
+      "weight_frac": 0.7715151177282273,
+      "atom_frac": 0.621720977527,
+      "atom_density": 0.027664515240691846
+    },
+    {
+      "Z": 19,
+      "A": 40,
+      "element": "K",
+      "weight_frac": 9.927785982374673e-05,
+      "atom_frac": 7.8000039e-05,
+      "atom_density": 3.4707422552689217e-06
+    },
+    {
+      "Z": 19,
+      "A": 41,
+      "element": "K",
+      "weight_frac": 0.05853355277242751,
+      "atom_frac": 0.044868022434,
+      "atom_density": 0.001996477737300077
+    }
+  ]
+}

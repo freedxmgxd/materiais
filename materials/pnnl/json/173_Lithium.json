@@ -1,0 +1,24 @@
+{
+  "name": "Lithium",
+  "density": 0.534,
+  "molecular_weight": 6.940036600754844,
+  "total_atom_density": 0.04633726521687545,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.06578464256305519,
+      "atom_frac": 0.0759,
+      "atom_density": 0.0035169984299608464
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.9342153574369448,
+      "atom_frac": 0.9241,
+      "atom_density": 0.042820266786914606
+    }
+  ]
+}

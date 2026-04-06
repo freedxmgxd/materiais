@@ -1,0 +1,40 @@
+{
+  "name": "Uranium, HEU, U.S. Average",
+  "density": 18.72476,
+  "molecular_weight": 235.1994110869666,
+  "total_atom_density": 0.04794363212734519,
+  "nuclides": [
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.009800489332913291,
+      "atom_frac": 0.009849,
+      "atom_density": 0.0004721968328222228
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.9315497742300798,
+      "atom_frac": 0.932166,
+      "atom_density": 0.044691423785618856
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.004500131669698607,
+      "atom_frac": 0.004484,
+      "atom_density": 0.00021497924645901584
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.05414960476730841,
+      "atom_frac": 0.053501,
+      "atom_density": 0.002565032262445095
+    }
+  ]
+}

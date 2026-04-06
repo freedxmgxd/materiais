@@ -1,0 +1,88 @@
+{
+  "name": "Air (Dry, Near Sea Level)",
+  "density": 0.001205,
+  "molecular_weight": 14.547532573107183,
+  "total_atom_density": 4.988254591857605e-05,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.00012240838719907086,
+      "atom_frac": 0.00014839499999999998,
+      "atom_density": 7.402320401587092e-09
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 1.4346339769881008e-06,
+      "atom_frac": 1.6049999999999999e-06,
+      "atom_density": 8.006148619931456e-11
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.7523242796106167,
+      "atom_frac": 0.78157567116,
+      "atom_density": 3.89869843054806e-05
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.002944158627941323,
+      "atom_frac": 0.00285532884,
+      "atom_density": 1.424310719739345e-07
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.23115294441542222,
+      "atom_frac": 0.21023588236,
+      "atom_density": 1.0487101055555052e-05
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 9.358030583493996e-05,
+      "atom_frac": 8.008424e-05,
+      "atom_density": 3.994805779154265e-09
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0005345400043132272,
+      "atom_frac": 0.00043203340000000004,
+      "atom_density": 2.1550925913858538e-08
+    },
+    {
+      "Z": 18,
+      "A": 36,
+      "element": "Ar",
+      "weight_frac": 3.852630583404509e-05,
+      "atom_frac": 1.5582455999999998e-05,
+      "atom_density": 7.772925769441908e-10
+    },
+    {
+      "Z": 18,
+      "A": 38,
+      "element": "Ar",
+      "weight_frac": 7.667055987422824e-06,
+      "atom_frac": 2.938059e-06,
+      "atom_density": 1.4655786297898563e-10
+    },
+    {
+      "Z": 18,
+      "A": 40,
+      "element": "Ar",
+      "weight_frac": 0.012780460652874146,
+      "atom_frac": 0.0046524794849999995,
+      "atom_density": 2.3207752154574553e-07
+    }
+  ]
+}

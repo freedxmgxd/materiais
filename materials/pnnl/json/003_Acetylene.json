@@ -1,0 +1,40 @@
+{
+  "name": "Acetylene",
+  "density": 0.001097,
+  "molecular_weight": 11.158921502356254,
+  "total_atom_density": 5.920185398136419e-05,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.006991251400612458,
+      "atom_frac": 0.07740909693,
+      "atom_density": 4.582762053279128e-06
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.6069374725400864e-06,
+      "atom_frac": 8.90307e-06,
+      "atom_density": 5.270782501258642e-10
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9815038549099326,
+      "atom_frac": 0.9127103726,
+      "atom_density": 5.4034146205941706e-05
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.011503286751982273,
+      "atom_frac": 0.0098716274,
+      "atom_density": 5.844186438932338e-07
+    }
+  ]
+}

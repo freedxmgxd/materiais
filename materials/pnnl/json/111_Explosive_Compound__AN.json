@@ -1,0 +1,64 @@
+{
+  "name": "Explosive Compound, AN",
+  "density": 1.72,
+  "molecular_weight": 8.89370935660507,
+  "total_atom_density": 0.1164652642882622,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.05035814724587398,
+      "atom_frac": 0.44439333333333336,
+      "atom_density": 0.051756387014608475
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.1574808173826672e-05,
+      "atom_frac": 5.1111111111111115e-05,
+      "atom_density": 5.952669063622291e-06
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.3486135163492523,
+      "atom_frac": 0.22141333333333335,
+      "atom_density": 0.025786962383611764
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0013642700625159125,
+      "atom_frac": 0.0008088888888888889,
+      "atom_density": 9.420745822428321e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5980274497758783,
+      "atom_frac": 0.3325233333333333,
+      "atom_density": 0.03872741789868057
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00024210633262425395,
+      "atom_frac": 0.00012666666666666666,
+      "atom_density": 1.4752266809846545e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0013829354256812932,
+      "atom_frac": 0.0006833333333333333,
+      "atom_density": 7.958459726364584e-05
+    }
+  ]
+}

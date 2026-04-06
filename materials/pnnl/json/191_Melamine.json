@@ -1,0 +1,56 @@
+{
+  "name": "Melamine",
+  "density": 1.35,
+  "molecular_weight": 8.397191669219357,
+  "total_atom_density": 0.09681677334817575,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.046668816442330605,
+      "atom_frac": 0.38884427776499997,
+      "atom_density": 0.0376466483081091
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.072681636562322e-05,
+      "atom_frac": 4.4722235e-05,
+      "atom_density": 4.329862489618853e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.39271097227515916,
+      "atom_frac": 0.2748057754,
+      "atom_density": 0.02660580847167149
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.004602597230904875,
+      "atom_frac": 0.0029722246,
+      "atom_density": 0.00028776119543807234
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.5538394823876782,
+      "atom_frac": 0.33211966788,
+      "atom_density": 0.032154754609609364
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.002167404847561467,
+      "atom_frac": 0.0012133321199999999,
+      "atom_density": 0.00011747090085810156
+    }
+  ]
+}

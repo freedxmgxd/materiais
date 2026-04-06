@@ -1,0 +1,24 @@
+{
+  "name": "Nitrogen",
+  "density": 0.001165,
+  "molecular_weight": 14.006703211264231,
+  "total_atom_density": 5.008883160855352e-05,
+  "nuclides": [
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.9961018381294898,
+      "atom_frac": 0.99636,
+      "atom_density": 4.990650826149839e-05
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.003898161870510186,
+      "atom_frac": 0.00364,
+      "atom_density": 1.8232334705513483e-07
+    }
+  ]
+}

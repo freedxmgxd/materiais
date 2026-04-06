@@ -1,0 +1,104 @@
+{
+  "name": "Glass Scintillator, Li Doped (KG1, KG2, KG3)",
+  "density": 2.42,
+  "molecular_weight": 17.008577693886846,
+  "total_atom_density": 0.08568371148657525,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.006417113641522353,
+      "atom_frac": 0.0181452612,
+      "atom_density": 0.001554753325509348
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.09113017690385822,
+      "atom_frac": 0.22092273880000002,
+      "atom_density": 0.018929480212163226
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.51246459185514,
+      "atom_frac": 0.54494156633,
+      "atom_density": 0.04669261594646213
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0002074669364764625,
+      "atom_frac": 0.00020758222,
+      "atom_density": 1.778641504822279e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.001185071753394227,
+      "atom_frac": 0.0011198514500000002,
+      "atom_density": 9.595302854962296e-05
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.31777219094289616,
+      "atom_frac": 0.19318966263,
+      "atom_density": 0.016553207314977728
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.016719838663704516,
+      "atom_frac": 0.009814184850000001,
+      "atom_density": 0.0008409157831633179
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.01141451591490504,
+      "atom_frac": 0.00647715252,
+      "atom_density": 0.0005549864677782238
+    },
+    {
+      "Z": 58,
+      "A": 136,
+      "element": "Ce",
+      "weight_frac": 7.660257662266368e-05,
+      "atom_frac": 9.586700000000001e-06,
+      "atom_density": 8.21424036908351e-07
+    },
+    {
+      "Z": 58,
+      "A": 138,
+      "element": "Ce",
+      "weight_frac": 0.00010545963780763389,
+      "atom_frac": 1.300682e-05,
+      "atom_density": 1.1144726122378166e-06
+    },
+    {
+      "Z": 58,
+      "A": 140,
+      "element": "Ce",
+      "weight_frac": 0.0377017817961766,
+      "atom_frac": 0.004583479,
+      "atom_density": 0.0003927294922407764
+    },
+    {
+      "Z": 58,
+      "A": 142,
+      "element": "Ce",
+      "weight_frac": 0.0048051893774961425,
+      "atom_frac": 0.00057592748,
+      "atom_density": 4.934760403351034e-05
+    }
+  ]
+}

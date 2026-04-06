@@ -1,0 +1,88 @@
+{
+  "name": "Sodium Bismuth Tungstate (NBWO)",
+  "density": 7.57,
+  "molecular_weight": 60.63740316293768,
+  "total_atom_density": 0.07518066931511293,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.17542588262323236,
+      "atom_frac": 0.66504699919,
+      "atom_density": 0.04999867852511156
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 7.10196782860062e-05,
+      "atom_frac": 0.00025333346,
+      "atom_density": 1.904577908271339e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00040567145831181523,
+      "atom_frac": 0.0013666673500000001,
+      "atom_density": 0.0001027469661041117
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.031594467171109065,
+      "atom_frac": 0.083333,
+      "atom_density": 0.006265030716036306
+    },
+    {
+      "Z": 74,
+      "A": 180,
+      "element": "W",
+      "weight_frac": 0.0005935184022109062,
+      "atom_frac": 0.00020000039999999998,
+      "atom_density": 1.503616393529031e-05
+    },
+    {
+      "Z": 74,
+      "A": 182,
+      "element": "W",
+      "weight_frac": 0.1325264836856762,
+      "atom_frac": 0.044166755,
+      "atom_density": 0.003320486202376611
+    },
+    {
+      "Z": 74,
+      "A": 183,
+      "element": "W",
+      "weight_frac": 0.07195841760113915,
+      "atom_frac": 0.0238500477,
+      "atom_density": 0.0017930625492833699
+    },
+    {
+      "Z": 74,
+      "A": 184,
+      "element": "W",
+      "weight_frac": 0.15491725049645433,
+      "atom_frac": 0.0510667688,
+      "atom_density": 0.0038392338581441266
+    },
+    {
+      "Z": 74,
+      "A": 186,
+      "element": "W",
+      "weight_frac": 0.14530891546948405,
+      "atom_frac": 0.0473834281,
+      "atom_density": 0.0035623178390025295
+    },
+    {
+      "Z": 83,
+      "A": 209,
+      "element": "Bi",
+      "weight_frac": 0.28719837341409615,
+      "atom_frac": 0.083333,
+      "atom_density": 0.006265030716036306
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Carbon Tetrachloride",
+  "density": 1.594,
+  "molecular_weight": 30.764426920478243,
+  "total_atom_density": 0.03120257171132371,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.07717860699753576,
+      "atom_frac": 0.19786296789999996,
+      "atom_density": 0.00617383344491509
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0009045381156375273,
+      "atom_frac": 0.0021400320999999996,
+      "atom_density": 6.677450506478467e-05
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.6889074455491807,
+      "atom_frac": 0.6060777272,
+      "atom_density": 0.018911183745594088
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.2330094093376459,
+      "atom_frac": 0.1939192728,
+      "atom_density": 0.006050780015749745
+    }
+  ]
+}

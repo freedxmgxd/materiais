@@ -1,0 +1,80 @@
+{
+  "name": "Plutonium Dioxide",
+  "density": 11.46,
+  "molecular_weight": 90.37318519104508,
+  "total_atom_density": 0.0763652768945876,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.11770493589832177,
+      "atom_frac": 0.66504699919,
+      "atom_density": 0.05078649824105892
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 4.76518433606942e-05,
+      "atom_frac": 0.00025333346,
+      "atom_density": 1.9345879819563933e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00027219206357891946,
+      "atom_frac": 0.0013666673500000001,
+      "atom_density": 0.00010436593060554227
+    },
+    {
+      "Z": 94,
+      "A": 238,
+      "element": "Pu",
+      "weight_frac": 0.00043989017462631354,
+      "atom_frac": 0.000167,
+      "atom_density": 1.2753001241396127e-05
+    },
+    {
+      "Z": 94,
+      "A": 239,
+      "element": "Pu",
+      "weight_frac": 0.8246466640849038,
+      "atom_frac": 0.311756,
+      "atom_density": 0.023807333263549047
+    },
+    {
+      "Z": 94,
+      "A": 240,
+      "element": "Pu",
+      "weight_frac": 0.05291782100381424,
+      "atom_frac": 0.019922,
+      "atom_density": 0.001521349046293974
+    },
+    {
+      "Z": 94,
+      "A": 241,
+      "element": "Pu",
+      "weight_frac": 0.00352890308573382,
+      "atom_frac": 0.001323,
+      "atom_density": 0.00010103126133153938
+    },
+    {
+      "Z": 94,
+      "A": 242,
+      "element": "Pu",
+      "weight_frac": 0.0004419418456603492,
+      "atom_frac": 0.000165,
+      "atom_density": 1.2600270687606954e-05
+    },
+    {
+      "Z": 95,
+      "A": 241,
+      "element": "Am",
+      "weight_frac": 0.0,
+      "atom_frac": 0.0,
+      "atom_density": 0.0
+    }
+  ]
+}

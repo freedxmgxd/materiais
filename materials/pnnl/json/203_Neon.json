@@ -1,0 +1,32 @@
+{
+  "name": "Neon",
+  "density": 0.000839,
+  "molecular_weight": 20.1800463795682,
+  "total_atom_density": 2.503748506126135e-05,
+  "nuclides": [
+    {
+      "Z": 10,
+      "A": 20,
+      "element": "Ne",
+      "weight_frac": 0.896388419051456,
+      "atom_frac": 0.9048,
+      "atom_density": 2.2653916483429273e-05
+    },
+    {
+      "Z": 10,
+      "A": 21,
+      "element": "Ne",
+      "weight_frac": 0.002808882843147999,
+      "atom_frac": 0.0027,
+      "atom_density": 6.760120966540565e-08
+    },
+    {
+      "Z": 10,
+      "A": 22,
+      "element": "Ne",
+      "weight_frac": 0.10080269810539585,
+      "atom_frac": 0.0925,
+      "atom_density": 2.315967368166675e-06
+    }
+  ]
+}

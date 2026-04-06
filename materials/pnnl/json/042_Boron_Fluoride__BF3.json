@@ -1,0 +1,32 @@
+{
+  "name": "Boron Fluoride (BF3)",
+  "density": 0.002831,
+  "molecular_weight": 16.9515593399285,
+  "total_atom_density": 0.00010057293343747284,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.029386300038554514,
+      "atom_frac": 0.04975,
+      "atom_density": 5.003503438514274e-06
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.1300537204443871,
+      "atom_frac": 0.20025,
+      "atom_density": 2.0139729920853938e-05
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.8405599795170584,
+      "atom_frac": 0.75,
+      "atom_density": 7.542970007810463e-05
+    }
+  ]
+}

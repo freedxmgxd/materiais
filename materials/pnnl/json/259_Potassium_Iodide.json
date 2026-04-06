@@ -1,0 +1,40 @@
+{
+  "name": "Potassium Iodide",
+  "density": 3.13,
+  "molecular_weight": 83.00138675024597,
+  "total_atom_density": 0.022709621268760475,
+  "nuclides": [
+    {
+      "Z": 19,
+      "A": 39,
+      "element": "K",
+      "weight_frac": 0.21889280275917944,
+      "atom_frac": 0.4662905,
+      "atom_density": 0.010589280656220956
+    },
+    {
+      "Z": 19,
+      "A": 40,
+      "element": "K",
+      "weight_frac": 2.816692568869124e-05,
+      "atom_frac": 5.85e-05,
+      "atom_density": 1.3285128442224877e-06
+    },
+    {
+      "Z": 19,
+      "A": 41,
+      "element": "K",
+      "weight_frac": 0.01660702833605696,
+      "atom_frac": 0.033651,
+      "atom_density": 0.0007642014653150588
+    },
+    {
+      "Z": 53,
+      "A": 127,
+      "element": "I",
+      "weight_frac": 0.7644720019790749,
+      "atom_frac": 0.5,
+      "atom_density": 0.011354810634380237
+    }
+  ]
+}

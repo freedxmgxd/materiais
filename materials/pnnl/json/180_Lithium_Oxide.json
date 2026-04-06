@@ -1,0 +1,48 @@
+{
+  "name": "Lithium Oxide",
+  "density": 2.013,
+  "molecular_weight": 9.95982302204957,
+  "total_atom_density": 0.12171470640635311,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.030559315121588135,
+      "atom_frac": 0.0506000253,
+      "atom_density": 0.0061587672235435395
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.4339763869960718,
+      "atom_frac": 0.6160669747,
+      "atom_density": 0.07498441095226067
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5340132043633017,
+      "atom_frac": 0.33252300080999997,
+      "atom_density": 0.04047293941694866
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00021619070918864713,
+      "atom_frac": 0.00012666654,
+      "atom_density": 1.5417180727608583e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0012349028098498863,
+      "atom_frac": 0.00068333265,
+      "atom_density": 8.317163287262526e-05
+    }
+  ]
+}

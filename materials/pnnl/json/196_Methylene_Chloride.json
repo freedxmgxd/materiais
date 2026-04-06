@@ -1,0 +1,56 @@
+{
+  "name": "Methylene Chloride",
+  "density": 1.3266,
+  "molecular_weight": 16.986498514704984,
+  "total_atom_density": 0.04703130504088323,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.02372964931288156,
+      "atom_frac": 0.39995400000000003,
+      "atom_density": 0.018810358576321413
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 5.454254253789814e-06,
+      "atom_frac": 4.600000000000001e-05,
+      "atom_density": 2.1634400318806288e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.1397768938633576,
+      "atom_frac": 0.19786,
+      "atom_density": 0.009305614015389155
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0016381939646677615,
+      "atom_frac": 0.00214,
+      "atom_density": 0.00010064699278749011
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.6238461158558436,
+      "atom_frac": 0.30304000000000003,
+      "atom_density": 0.014252366679589255
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.21100369274899558,
+      "atom_frac": 0.09696,
+      "atom_density": 0.004560155336764038
+    }
+  ]
+}

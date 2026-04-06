@@ -1,0 +1,72 @@
+{
+  "name": "Titanium Dioxide",
+  "density": 4.26,
+  "molecular_weight": 26.623784453740566,
+  "total_atom_density": 0.09635865134866518,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.3995073153275608,
+      "atom_frac": 0.66498614742,
+      "atom_density": 0.06407716833093584
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0001617371426792632,
+      "atom_frac": 0.00025331028000000005,
+      "atom_density": 2.440863695355276e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.000923858627881325,
+      "atom_frac": 0.0013665423000000002,
+      "atom_density": 0.00013167817303890304
+    },
+    {
+      "Z": 22,
+      "A": 46,
+      "element": "Ti",
+      "weight_frac": 0.04747361217114022,
+      "atom_frac": 0.027505005000000003,
+      "atom_density": 0.002650345187138293
+    },
+    {
+      "Z": 22,
+      "A": 47,
+      "element": "Ti",
+      "weight_frac": 0.04374342457786036,
+      "atom_frac": 0.0248045136,
+      "atom_density": 0.002390129477855624
+    },
+    {
+      "Z": 22,
+      "A": 48,
+      "element": "Ti",
+      "weight_frac": 0.4426324780247025,
+      "atom_frac": 0.2457780568,
+      "atom_density": 0.02368284208434363
+    },
+    {
+      "Z": 22,
+      "A": 49,
+      "element": "Ti",
+      "weight_frac": 0.033160342257345155,
+      "atom_frac": 0.0180366154,
+      "atom_density": 0.0017379839348385653
+    },
+    {
+      "Z": 22,
+      "A": 50,
+      "element": "Ti",
+      "weight_frac": 0.03239723187083042,
+      "atom_frac": 0.0172698092,
+      "atom_density": 0.0016640955235607705
+    }
+  ]
+}

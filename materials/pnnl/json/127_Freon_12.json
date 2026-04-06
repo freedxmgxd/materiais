@@ -1,0 +1,48 @@
+{
+  "name": "Freon-12",
+  "density": 1.12,
+  "molecular_weight": 24.182622618305565,
+  "total_atom_density": 0.027891092532264794,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.09818486290244922,
+      "atom_frac": 0.19786395719999997,
+      "atom_density": 0.00551864193906528
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0011507327526233543,
+      "atom_frac": 0.0021400428,
+      "atom_density": 5.968813175780703e-05
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.31424727532526614,
+      "atom_frac": 0.399998,
+      "atom_density": 0.011156381230720854
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.4382034282568921,
+      "atom_frac": 0.30303848480000006,
+      "atom_density": 0.00845207442039412
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.14821370076276913,
+      "atom_frac": 0.09695951520000001,
+      "atom_density": 0.002704306810326735
+    }
+  ]
+}

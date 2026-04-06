@@ -1,0 +1,48 @@
+{
+  "name": "Plutonium, DOE 3013 WGPu",
+  "density": 19.84,
+  "molecular_weight": 239.12096376565654,
+  "total_atom_density": 0.04996603844215521,
+  "nuclides": [
+    {
+      "Z": 94,
+      "A": 238,
+      "element": "Pu",
+      "weight_frac": 0.0004997507383792719,
+      "atom_frac": 0.000502,
+      "atom_density": 2.5082951297961914e-05
+    },
+    {
+      "Z": 94,
+      "A": 239,
+      "element": "Pu",
+      "weight_frac": 0.9349998954622833,
+      "atom_frac": 0.935269,
+      "atom_density": 0.046731686807756065
+    },
+    {
+      "Z": 94,
+      "A": 240,
+      "element": "Pu",
+      "weight_frac": 0.060000160338619345,
+      "atom_frac": 0.059767,
+      "atom_density": 0.0029863202195722907
+    },
+    {
+      "Z": 94,
+      "A": 241,
+      "element": "Pu",
+      "weight_frac": 0.004000124306761205,
+      "atom_frac": 0.003968,
+      "atom_density": 0.00019826524053847189
+    },
+    {
+      "Z": 94,
+      "A": 242,
+      "element": "Pu",
+      "weight_frac": 0.0005000691539567978,
+      "atom_frac": 0.000494,
+      "atom_density": 2.4683222990424673e-05
+    }
+  ]
+}

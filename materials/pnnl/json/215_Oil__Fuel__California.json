@@ -1,0 +1,72 @@
+{
+  "name": "Oil, Fuel (California)",
+  "density": 0.955,
+  "molecular_weight": 5.074870397595281,
+  "total_atom_density": 0.11332593692491479,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.12584898143307013,
+      "atom_frac": 0.6337084813615187,
+      "atom_density": 0.071815607387559
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.892635846682409e-05,
+      "atom_frac": 7.288485711514289e-05,
+      "atom_density": 8.25974472021211e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8523175813609589,
+      "atom_frac": 0.3604501052498948,
+      "atom_density": 0.040848345892128476
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009989215521777848,
+      "atom_frac": 0.0038985304014695988,
+      "atom_density": 0.00044180461037680646
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.011190896401422675,
+      "atom_frac": 0.0017763112236887763,
+      "atom_density": 0.00020130213369477248
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 9.112040555523659e-05,
+      "atom_frac": 1.4024985975014024e-05,
+      "atom_density": 1.589394675977254e-06
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0005319531967525501,
+      "atom_frac": 7.947492052507948e-05,
+      "atom_density": 9.006569830537773e-06
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 1.3253219957604561e-06,
+      "atom_frac": 1.86999813000187e-07,
+      "atom_density": 2.1191929013030053e-08
+    }
+  ]
+}

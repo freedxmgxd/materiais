@@ -1,0 +1,64 @@
+{
+  "name": "Uranium Oxide",
+  "density": 8.3,
+  "molecular_weight": 76.53353344809231,
+  "total_atom_density": 0.06530963102847032,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.1516250672103313,
+      "atom_frac": 0.7255057266099999,
+      "atom_density": 0.047382511313941354
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 6.138412036095806e-05,
+      "atom_frac": 0.00027636374,
+      "atom_density": 1.80492138890481e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0003506321941326581,
+      "atom_frac": 0.0014909096500000001,
+      "atom_density": 9.737075913828583e-05
+    },
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.00022629335850082454,
+      "atom_frac": 7.4e-05,
+      "atom_density": 4.8329126961068035e-06
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.025438115410071127,
+      "atom_frac": 0.008283,
+      "atom_density": 0.0005409596738088196
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.00011720001819886681,
+      "atom_frac": 3.8e-05,
+      "atom_density": 2.481765979081872e-06
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.8221813076884041,
+      "atom_frac": 0.264332,
+      "atom_density": 0.017263425389017616
+    }
+  ]
+}

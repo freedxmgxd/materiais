@@ -1,0 +1,24 @@
+{
+  "name": "Boron",
+  "density": 2.37,
+  "molecular_weight": 10.811027873504,
+  "total_atom_density": 0.1320177301196255,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.18430943466730512,
+      "atom_frac": 0.199,
+      "atom_density": 0.026271528293805475
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.8156905653326949,
+      "atom_frac": 0.801,
+      "atom_density": 0.10574620182582004
+    }
+  ]
+}

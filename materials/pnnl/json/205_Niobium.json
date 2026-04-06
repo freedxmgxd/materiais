@@ -1,0 +1,16 @@
+{
+  "name": "Niobium",
+  "density": 8.57,
+  "molecular_weight": 92.90637317,
+  "total_atom_density": 0.055550275564803867,
+  "nuclides": [
+    {
+      "Z": 41,
+      "A": 93,
+      "element": "Nb",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 0.055550275564803867
+    }
+  ]
+}

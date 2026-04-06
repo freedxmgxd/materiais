@@ -1,0 +1,24 @@
+{
+  "name": "Cesium Iodide",
+  "density": 4.51,
+  "molecular_weight": 129.904962275,
+  "total_atom_density": 0.02090748063195956,
+  "nuclides": [
+    {
+      "Z": 53,
+      "A": 127,
+      "element": "I",
+      "weight_frac": 0.48845121221524945,
+      "atom_frac": 0.5,
+      "atom_density": 0.01045374031597978
+    },
+    {
+      "Z": 55,
+      "A": 133,
+      "element": "Cs",
+      "weight_frac": 0.5115487877847504,
+      "atom_frac": 0.5,
+      "atom_density": 0.01045374031597978
+    }
+  ]
+}

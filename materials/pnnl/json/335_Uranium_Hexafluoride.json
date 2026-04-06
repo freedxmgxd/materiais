@@ -1,0 +1,48 @@
+{
+  "name": "Uranium Hexafluoride",
+  "density": 4.68,
+  "molecular_weight": 50.27851407467447,
+  "total_atom_density": 0.05605499541004977,
+  "nuclides": [
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.3238825231196852,
+      "atom_frac": 0.8571421428578572,
+      "atom_density": 0.04804709888365741
+    },
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.0001815405268421343,
+      "atom_frac": 3.8999961000039003e-05,
+      "atom_density": 2.1861426348493064e-06
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.02028410351846067,
+      "atom_frac": 0.004338995661004339,
+      "atom_density": 0.00024322238186182409
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 9.389510984119046e-05,
+      "atom_frac": 1.9999980000020004e-05,
+      "atom_density": 1.1210987871022084e-06
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.6555579377251708,
+      "atom_frac": 0.13845986154013848,
+      "atom_density": 0.007761366903108589
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Rubber, Butyl",
+  "density": 0.92,
+  "molecular_weight": 4.67568950626219,
+  "total_atom_density": 0.11849310121597546,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.1436777003880062,
+      "atom_frac": 0.666576334905,
+      "atom_density": 0.07898469712007213
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 3.302428528055057e-05,
+      "atom_frac": 7.666509500000001e-05,
+      "atom_density": 9.084284861567375e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8463697685442697,
+      "atom_frac": 0.3297801871,
+      "atom_density": 0.03907667708906363
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009919506782443584,
+      "atom_frac": 0.0035668129,
+      "atom_density": 0.00042264272197814695
+    }
+  ]
+}

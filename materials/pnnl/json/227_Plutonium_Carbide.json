@@ -1,0 +1,72 @@
+{
+  "name": "Plutonium Carbide",
+  "density": 13.6,
+  "molecular_weight": 125.56584933037227,
+  "total_atom_density": 0.06522562844337763,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.047272407518882835,
+      "atom_frac": 0.49465,
+      "atom_density": 0.03226385710951674
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0005540355816495215,
+      "atom_frac": 0.00535,
+      "atom_density": 0.0003489571121720703
+    },
+    {
+      "Z": 94,
+      "A": 238,
+      "element": "Pu",
+      "weight_frac": 0.0004758494401190051,
+      "atom_frac": 0.000251,
+      "atom_density": 1.6371632739287783e-05
+    },
+    {
+      "Z": 94,
+      "A": 239,
+      "element": "Pu",
+      "weight_frac": 0.8902831317918346,
+      "atom_frac": 0.467635,
+      "atom_density": 0.030501786757118902
+    },
+    {
+      "Z": 94,
+      "A": 240,
+      "element": "Pu",
+      "weight_frac": 0.057129610435337236,
+      "atom_frac": 0.029883,
+      "atom_density": 0.0019491374547734538
+    },
+    {
+      "Z": 94,
+      "A": 241,
+      "element": "Pu",
+      "weight_frac": 0.00380881260516351,
+      "atom_frac": 0.001984,
+      "atom_density": 0.00012940764683166123
+    },
+    {
+      "Z": 94,
+      "A": 242,
+      "element": "Pu",
+      "weight_frac": 0.00047615262701330014,
+      "atom_frac": 0.000247,
+      "atom_density": 1.6110730225514276e-05
+    },
+    {
+      "Z": 95,
+      "A": 241,
+      "element": "Am",
+      "weight_frac": 0.0,
+      "atom_frac": 0.0,
+      "atom_density": 0.0
+    }
+  ]
+}

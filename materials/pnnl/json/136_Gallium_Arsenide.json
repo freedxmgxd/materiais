@@ -1,0 +1,32 @@
+{
+  "name": "Gallium Arsenide",
+  "density": 5.31,
+  "molecular_weight": 72.32233032052596,
+  "total_atom_density": 0.044215344408674806,
+  "nuclides": [
+    {
+      "Z": 31,
+      "A": 69,
+      "element": "Ga",
+      "weight_frac": 0.2864245631508085,
+      "atom_frac": 0.30054,
+      "atom_density": 0.013288479608583125
+    },
+    {
+      "Z": 31,
+      "A": 71,
+      "element": "Ga",
+      "weight_frac": 0.19560543899407304,
+      "atom_frac": 0.19946,
+      "atom_density": 0.008819192595754278
+    },
+    {
+      "Z": 33,
+      "A": 75,
+      "element": "As",
+      "weight_frac": 0.5179699978551184,
+      "atom_frac": 0.5,
+      "atom_density": 0.022107672204337403
+    }
+  ]
+}

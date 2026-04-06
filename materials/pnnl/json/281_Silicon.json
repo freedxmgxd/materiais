@@ -1,0 +1,32 @@
+{
+  "name": "Silicon",
+  "density": 2.33,
+  "molecular_weight": 28.085498705498527,
+  "total_atom_density": 0.049960259270927315,
+  "nuclides": [
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.9186648678873861,
+      "atom_frac": 0.92223,
+      "atom_density": 0.0460748499074273
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.04833628874671008,
+      "atom_frac": 0.04685,
+      "atom_density": 0.002340638146842945
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.03299884336590381,
+      "atom_frac": 0.03092,
+      "atom_density": 0.0015447712166570726
+    }
+  ]
+}

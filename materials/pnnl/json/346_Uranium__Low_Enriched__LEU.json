@@ -1,0 +1,40 @@
+{
+  "name": "Uranium, Low Enriched (LEU)",
+  "density": 18.944386,
+  "molecular_weight": 237.95809713583807,
+  "total_atom_density": 0.0479436339746185,
+  "nuclides": [
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.0002665392004675965,
+      "atom_frac": 0.00027100027100027097,
+      "atom_density": 1.2992737799859412e-05
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.03000007736427517,
+      "atom_frac": 0.030372030372030373,
+      "atom_density": 0.0014561455072226205
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.00013788295879550065,
+      "atom_frac": 0.000139000139000139,
+      "atom_density": 6.664171786643758e-06
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.9695955004764617,
+      "atom_frac": 0.9692179692179692,
+      "atom_density": 0.046467831557809376
+    }
+  ]
+}

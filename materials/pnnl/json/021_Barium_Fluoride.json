@@ -1,0 +1,72 @@
+{
+  "name": "Barium Fluoride",
+  "density": 4.89,
+  "molecular_weight": 58.441784872924515,
+  "total_atom_density": 0.05038906388713511,
+  "nuclides": [
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.2167201682216197,
+      "atom_frac": 0.666662,
+      "atom_density": 0.03359247410912527
+    },
+    {
+      "Z": 56,
+      "A": 130,
+      "element": "Ba",
+      "weight_frac": 0.0007854119769009889,
+      "atom_frac": 0.00035333828,
+      "atom_density": 1.7804385164690436e-05
+    },
+    {
+      "Z": 56,
+      "A": 132,
+      "element": "Ba",
+      "weight_frac": 0.000759878554191786,
+      "atom_frac": 0.00033667138000000003,
+      "atom_density": 1.6964555675789943e-05
+    },
+    {
+      "Z": 56,
+      "A": 134,
+      "element": "Ba",
+      "weight_frac": 0.01846006404506237,
+      "atom_frac": 0.00805677946,
+      "atom_density": 0.0004059735749344979
+    },
+    {
+      "Z": 56,
+      "A": 135,
+      "element": "Ba",
+      "weight_frac": 0.05072345356736974,
+      "atom_frac": 0.021973640960000002,
+      "atom_density": 0.001107231198166409
+    },
+    {
+      "Z": 56,
+      "A": 136,
+      "element": "Ba",
+      "weight_frac": 0.060881638264910734,
+      "atom_frac": 0.02618036652,
+      "atom_density": 0.0013192041611648933
+    },
+    {
+      "Z": 56,
+      "A": 137,
+      "element": "Ba",
+      "weight_frac": 0.08770823721989388,
+      "atom_frac": 0.03744052416,
+      "atom_density": 0.0018865929638660658
+    },
+    {
+      "Z": 56,
+      "A": 138,
+      "element": "Ba",
+      "weight_frac": 0.5639611481500507,
+      "atom_frac": 0.23899667924,
+      "atom_density": 0.012042818939037499
+    }
+  ]
+}

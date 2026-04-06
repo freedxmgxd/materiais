@@ -1,0 +1,96 @@
+{
+  "name": "Zinc Selenide",
+  "density": 5.42,
+  "molecular_weight": 72.16858541314375,
+  "total_atom_density": 0.04522743896439935,
+  "nuclides": [
+    {
+      "Z": 30,
+      "A": 64,
+      "element": "Zn",
+      "weight_frac": 0.21778145457132844,
+      "atom_frac": 0.24585,
+      "atom_density": 0.01111916586939758
+    },
+    {
+      "Z": 30,
+      "A": 66,
+      "element": "Zn",
+      "weight_frac": 0.12665683429597338,
+      "atom_frac": 0.13865,
+      "atom_density": 0.006270784412413969
+    },
+    {
+      "Z": 30,
+      "A": 67,
+      "element": "Zn",
+      "weight_frac": 0.018732914968265114,
+      "atom_frac": 0.0202,
+      "atom_density": 0.0009135942670808667
+    },
+    {
+      "Z": 30,
+      "A": 68,
+      "element": "Zn",
+      "weight_frac": 0.0868254080986987,
+      "atom_frac": 0.09225,
+      "atom_density": 0.004172231244465839
+    },
+    {
+      "Z": 30,
+      "A": 70,
+      "element": "Zn",
+      "weight_frac": 0.0029551947327612115,
+      "atom_frac": 0.00305,
+      "atom_density": 0.000137943688841418
+    },
+    {
+      "Z": 34,
+      "A": 74,
+      "element": "Se",
+      "weight_frac": 0.004558146955752009,
+      "atom_frac": 0.00445,
+      "atom_density": 0.0002012621033915771
+    },
+    {
+      "Z": 34,
+      "A": 76,
+      "element": "Se",
+      "weight_frac": 0.049284811965995844,
+      "atom_frac": 0.04685,
+      "atom_density": 0.0021189055154821096
+    },
+    {
+      "Z": 34,
+      "A": 77,
+      "element": "Se",
+      "weight_frac": 0.04066166335426125,
+      "atom_frac": 0.03815,
+      "atom_density": 0.0017254267964918353
+    },
+    {
+      "Z": 34,
+      "A": 78,
+      "element": "Se",
+      "weight_frac": 0.12831721933630738,
+      "atom_frac": 0.11885,
+      "atom_density": 0.005375281120918863
+    },
+    {
+      "Z": 34,
+      "A": 80,
+      "element": "Se",
+      "weight_frac": 0.27468036278296953,
+      "atom_frac": 0.24805,
+      "atom_density": 0.011218666235119258
+    },
+    {
+      "Z": 34,
+      "A": 82,
+      "element": "Se",
+      "weight_frac": 0.049545988937687156,
+      "atom_frac": 0.04365,
+      "atom_density": 0.0019741777107960315
+    }
+  ]
+}

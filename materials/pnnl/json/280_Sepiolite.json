@@ -1,0 +1,96 @@
+{
+  "name": "Sepiolite",
+  "density": 2.14,
+  "molecular_weight": 13.783638607931666,
+  "total_atom_density": 0.09349767208046268,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.02177714775546519,
+      "atom_frac": 0.29783774472,
+      "atom_density": 0.027847135789015116
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 5.005472234946895e-06,
+      "atom_frac": 3.425528e-05,
+      "atom_density": 3.202788936464432e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5664892473411112,
+      "atom_frac": 0.48817285034,
+      "atom_density": 0.045643025079674104
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00022933835929476142,
+      "atom_frac": 0.00018595756,
+      "atom_density": 1.7386598965762963e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0013100034935004323,
+      "atom_frac": 0.0010031921000000002,
+      "atom_density": 9.379612599951075e-05
+    },
+    {
+      "Z": 12,
+      "A": 24,
+      "element": "Mg",
+      "weight_frac": 0.1169792661847466,
+      "atom_frac": 0.0672252294,
+      "atom_density": 0.00628540245397508
+    },
+    {
+      "Z": 12,
+      "A": 25,
+      "element": "Mg",
+      "weight_frac": 0.015427309880315298,
+      "atom_frac": 0.0085106,
+      "atom_density": 0.0007957212880079857
+    },
+    {
+      "Z": 12,
+      "A": 26,
+      "element": "Mg",
+      "weight_frac": 0.017663066749145865,
+      "atom_frac": 0.0093701706,
+      "atom_density": 0.0008760891380967923
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.2389627515322584,
+      "atom_frac": 0.1177318818,
+      "atom_density": 0.011007656877952191
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.012573216807924673,
+      "atom_frac": 0.0059808710000000005,
+      "atom_density": 0.0005591975155135489
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.008583646424002604,
+      "atom_frac": 0.0039472472,
+      "atom_density": 0.0003690584243261245
+    }
+  ]
+}

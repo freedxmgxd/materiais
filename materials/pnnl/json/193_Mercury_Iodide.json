@@ -1,0 +1,72 @@
+{
+  "name": "Mercury Iodide",
+  "density": 6.36,
+  "molecular_weight": 151.469346272164,
+  "total_atom_density": 0.025286182436398793,
+  "nuclides": [
+    {
+      "Z": 53,
+      "A": 127,
+      "element": "I",
+      "weight_frac": 0.5585488160586235,
+      "atom_frac": 0.666667,
+      "atom_density": 0.016857463386326675
+    },
+    {
+      "Z": 80,
+      "A": 196,
+      "element": "Hg",
+      "weight_frac": 0.0006468821656067969,
+      "atom_frac": 0.0004999995,
+      "atom_density": 1.2643078575108177e-05
+    },
+    {
+      "Z": 80,
+      "A": 198,
+      "element": "Hg",
+      "weight_frac": 0.043435118799979466,
+      "atom_frac": 0.033233300099999995,
+      "atom_density": 0.0008403432892921902
+    },
+    {
+      "Z": 80,
+      "A": 199,
+      "element": "Hg",
+      "weight_frac": 0.07386734514019908,
+      "atom_frac": 0.05623327709999999,
+      "atom_density": 0.0014219249037471663
+    },
+    {
+      "Z": 80,
+      "A": 200,
+      "element": "Hg",
+      "weight_frac": 0.10165453377760751,
+      "atom_frac": 0.076999923,
+      "atom_density": 0.0019470341005666594
+    },
+    {
+      "Z": 80,
+      "A": 201,
+      "element": "Hg",
+      "weight_frac": 0.05829091299445102,
+      "atom_frac": 0.0439332894,
+      "atom_density": 0.0011109051707995053
+    },
+    {
+      "Z": 80,
+      "A": 202,
+      "element": "Hg",
+      "weight_frac": 0.13271854527220445,
+      "atom_frac": 0.0995332338,
+      "atom_density": 0.0025168155083515344
+    },
+    {
+      "Z": 80,
+      "A": 204,
+      "element": "Hg",
+      "weight_frac": 0.030837845791328203,
+      "atom_frac": 0.0228999771,
+      "atom_density": 0.0005790529987399546
+    }
+  ]
+}

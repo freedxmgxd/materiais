@@ -1,0 +1,80 @@
+{
+  "name": "Alanine",
+  "density": 1.42,
+  "molecular_weight": 6.853467394191978,
+  "total_atom_density": 0.12477537846677407,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.07917174634778892,
+      "atom_frac": 0.53838807825,
+      "atom_density": 0.06717757622564292
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.8197607078119876e-05,
+      "atom_frac": 6.192175e-05,
+      "atom_density": 7.726309791574968e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.39975445234069146,
+      "atom_frac": 0.2283086754,
+      "atom_density": 0.02848730138028287
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0046851472591298024,
+      "atom_frac": 0.0024693246,
+      "atom_density": 0.0003081109115223155
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.15659979032525104,
+      "atom_frac": 0.07664399664,
+      "atom_density": 0.00956328368796216
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0006128402821965548,
+      "atom_frac": 0.00028000336000000005,
+      "atom_density": 3.4937525215968394e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.3581845180086653,
+      "atom_frac": 0.15347414936,
+      "atom_density": 0.019149795071260214
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0001450079592339171,
+      "atom_frac": 5.846224000000001e-05,
+      "atom_density": 7.294648122015378e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0008282998699648357,
+      "atom_frac": 0.0003153884000000001,
+      "atom_density": 3.9352706974030335e-05
+    }
+  ]
+}

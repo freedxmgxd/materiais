@@ -1,0 +1,80 @@
+{
+  "name": "Tributyl Borate",
+  "density": 0.864,
+  "molecular_weight": 5.352380869110582,
+  "total_atom_density": 0.0972114979086796,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.11821797316602542,
+      "atom_frac": 0.627834790695,
+      "atom_density": 0.06103276044264329
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.717237303061119e-05,
+      "atom_frac": 7.2209305e-05,
+      "atom_density": 7.019574701994707e-06
+    },
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.008657700602044795,
+      "atom_frac": 0.004627944,
+      "atom_density": 0.0004498893684774863
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.03831602387208597,
+      "atom_frac": 0.018628056,
+      "atom_density": 0.0018108612268867665
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.6189782627615084,
+      "atom_frac": 0.276083951,
+      "atom_density": 0.0268385344252565
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.007254464069774695,
+      "atom_frac": 0.0029860489999999997,
+      "atom_density": 0.00029027829611871477
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.2079832427192104,
+      "atom_frac": 0.06959746619,
+      "atom_density": 0.006765673938978584
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 8.420024893659845e-05,
+      "atom_frac": 2.651146e-05,
+      "atom_density": 2.5772187383460427e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0004809601873831386,
+      "atom_frac": 0.00014302235,
+      "atom_density": 1.3903416877919443e-05
+    }
+  ]
+}

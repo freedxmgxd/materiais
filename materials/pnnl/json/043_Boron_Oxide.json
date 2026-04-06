@@ -1,0 +1,48 @@
+{
+  "name": "Boron Oxide",
+  "density": 1.812,
+  "molecular_weight": 13.92416824810112,
+  "total_atom_density": 0.07836819307758737,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.05723759749070151,
+      "atom_frac": 0.079595622,
+      "atom_density": 0.006237765073026661
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.2533140440680741,
+      "atom_frac": 0.320382378,
+      "atom_density": 0.025107788057760583
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.6875799723534824,
+      "atom_frac": 0.59856394654,
+      "atom_density": 0.046908374931729405
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00027836091061501315,
+      "atom_frac": 0.00022800836000000003,
+      "atom_density": 1.7868603179784053e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0015900251771268263,
+      "atom_frac": 0.0012300451000000002,
+      "atom_density": 9.639641189094028e-05
+    }
+  ]
+}

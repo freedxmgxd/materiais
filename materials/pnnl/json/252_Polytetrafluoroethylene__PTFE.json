@@ -1,0 +1,32 @@
+{
+  "name": "Polytetrafluoroethylene (PTFE)",
+  "density": 2.25,
+  "molecular_weight": 16.669141143511542,
+  "total_atom_density": 0.08128683171702737,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.23740078977856424,
+      "atom_frac": 0.3297722727,
+      "atom_density": 0.02680614323590656
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.00278235214900963,
+      "atom_frac": 0.0035667272999999997,
+      "atom_density": 0.00028992796181562735
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.7598168580724262,
+      "atom_frac": 0.666661,
+      "atom_density": 0.05419076051930518
+    }
+  ]
+}

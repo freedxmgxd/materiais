@@ -1,0 +1,48 @@
+{
+  "name": "Zinc",
+  "density": 7.133,
+  "molecular_weight": 65.3777822949742,
+  "total_atom_density": 0.065704171253882,
+  "nuclides": [
+    {
+      "Z": 30,
+      "A": 64,
+      "element": "Zn",
+      "weight_frac": 0.4808049142663506,
+      "atom_frac": 0.4917,
+      "atom_density": 0.03230674100553378
+    },
+    {
+      "Z": 30,
+      "A": 66,
+      "element": "Zn",
+      "weight_frac": 0.2796254092194871,
+      "atom_frac": 0.2773,
+      "atom_density": 0.01821976668870148
+    },
+    {
+      "Z": 30,
+      "A": 67,
+      "element": "Zn",
+      "weight_frac": 0.04135741306808833,
+      "atom_frac": 0.0404,
+      "atom_density": 0.002654448518656833
+    },
+    {
+      "Z": 30,
+      "A": 68,
+      "element": "Zn",
+      "weight_frac": 0.19168796066316532,
+      "atom_frac": 0.1845,
+      "atom_density": 0.01212241959634123
+    },
+    {
+      "Z": 30,
+      "A": 70,
+      "element": "Zn",
+      "weight_frac": 0.006524302782908711,
+      "atom_frac": 0.0061,
+      "atom_density": 0.00040079544464868025
+    }
+  ]
+}

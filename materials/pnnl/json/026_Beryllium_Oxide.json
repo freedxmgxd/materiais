@@ -1,0 +1,40 @@
+{
+  "name": "Beryllium Oxide",
+  "density": 3.01,
+  "molecular_weight": 12.505793993003673,
+  "total_atom_density": 0.1449459642285879,
+  "nuclides": [
+    {
+      "Z": 4,
+      "A": 9,
+      "element": "Be",
+      "weight_frac": 0.36032030701296686,
+      "atom_frac": 0.5,
+      "atom_density": 0.07247298211429395
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.6379461786137592,
+      "atom_frac": 0.498785,
+      "atom_density": 0.07229687276775622
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00025826709087303226,
+      "atom_frac": 0.00019,
+      "atom_density": 2.7539733203431703e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0014752472824008467,
+      "atom_frac": 0.001025,
+      "atom_density": 0.00014856961333430262
+    }
+  ]
+}

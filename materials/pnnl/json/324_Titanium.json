@@ -1,0 +1,48 @@
+{
+  "name": "Titanium",
+  "density": 4.54,
+  "molecular_weight": 47.8667436575575,
+  "total_atom_density": 0.05711798413946069,
+  "nuclides": [
+    {
+      "Z": 22,
+      "A": 46,
+      "element": "Ti",
+      "weight_frac": 0.07920095215776056,
+      "atom_frac": 0.0825,
+      "atom_density": 0.004712233691505507
+    },
+    {
+      "Z": 22,
+      "A": 47,
+      "element": "Ti",
+      "weight_frac": 0.07297782323195219,
+      "atom_frac": 0.0744,
+      "atom_density": 0.004249578019975875
+    },
+    {
+      "Z": 22,
+      "A": 48,
+      "element": "Ti",
+      "weight_frac": 0.7384505225582346,
+      "atom_frac": 0.7372,
+      "atom_density": 0.04210737790761042
+    },
+    {
+      "Z": 22,
+      "A": 49,
+      "element": "Ti",
+      "weight_frac": 0.055321905381691974,
+      "atom_frac": 0.0541,
+      "atom_density": 0.0030900829419448234
+    },
+    {
+      "Z": 22,
+      "A": 50,
+      "element": "Ti",
+      "weight_frac": 0.05404879667036064,
+      "atom_frac": 0.0518,
+      "atom_density": 0.0029587115784240636
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Palladium",
+  "density": 12.02,
+  "molecular_weight": 106.4153278784256,
+  "total_atom_density": 0.06802227966435219,
+  "nuclides": [
+    {
+      "Z": 46,
+      "A": 102,
+      "element": "Pd",
+      "weight_frac": 0.009767741829127357,
+      "atom_frac": 0.0102,
+      "atom_density": 0.0006938272525763924
+    },
+    {
+      "Z": 46,
+      "A": 104,
+      "element": "Pd",
+      "weight_frac": 0.10877106913586712,
+      "atom_frac": 0.1114,
+      "atom_density": 0.007577681954608834
+    },
+    {
+      "Z": 46,
+      "A": 105,
+      "element": "Pd",
+      "weight_frac": 0.22013092206437576,
+      "atom_frac": 0.2233,
+      "atom_density": 0.015189375049049844
+    },
+    {
+      "Z": 46,
+      "A": 106,
+      "element": "Pd",
+      "weight_frac": 0.27198545303082244,
+      "atom_frac": 0.2733,
+      "atom_density": 0.01859048903226745
+    },
+    {
+      "Z": 46,
+      "A": 108,
+      "element": "Pd",
+      "weight_frac": 0.2683012902472675,
+      "atom_frac": 0.2646,
+      "atom_density": 0.01799869519918759
+    },
+    {
+      "Z": 46,
+      "A": 110,
+      "element": "Pd",
+      "weight_frac": 0.12104352369253979,
+      "atom_frac": 0.1172,
+      "atom_density": 0.007972211176662077
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Steel, Carbon",
+  "density": 7.82,
+  "molecular_weight": 54.84436027502344,
+  "total_atom_density": 0.08586687948778317,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.004941994003409572,
+      "atom_frac": 0.0225867083,
+      "atom_density": 0.001939450159621812
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 5.792047974484412e-05,
+      "atom_frac": 0.0002442917,
+      "atom_density": 2.097656596376568e-05
+    },
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 0.05617330914383653,
+      "atom_frac": 0.057115528049999996,
+      "atom_density": 0.004904332163950449
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 0.9144202899479348,
+      "atom_frac": 0.8965916442599999,
+      "atom_density": 0.07698752666742677
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 0.02149566955354173,
+      "atom_frac": 0.02070621111,
+      "atom_density": 0.0017779777340309671
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 0.002910816871532515,
+      "atom_frac": 0.00275561658,
+      "atom_density": 0.0002366161967893972
+    }
+  ]
+}

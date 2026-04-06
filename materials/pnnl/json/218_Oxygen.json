@@ -1,0 +1,32 @@
+{
+  "name": "Oxygen",
+  "density": 0.001332,
+  "molecular_weight": 15.999404924007344,
+  "total_atom_density": 5.013618650455952e-05,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.9972900275055175,
+      "atom_frac": 0.99757,
+      "atom_density": 5.001435557135344e-05
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00040374439536611576,
+      "atom_frac": 0.00038,
+      "atom_density": 1.9051750871732617e-08
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0023062280991163987,
+      "atom_frac": 0.00205,
+      "atom_density": 1.0277918233434702e-07
+    }
+  ]
+}

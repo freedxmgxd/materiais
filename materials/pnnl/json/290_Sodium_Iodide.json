@@ -1,0 +1,24 @@
+{
+  "name": "Sodium Iodide",
+  "density": 3.667,
+  "molecular_weight": 74.94722485167831,
+  "total_atom_density": 0.02946498714345056,
+  "nuclides": [
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.15337274560804917,
+      "atom_frac": 0.499999,
+      "atom_density": 0.014732464106738136
+    },
+    {
+      "Z": 53,
+      "A": 127,
+      "element": "I",
+      "weight_frac": 0.8466272543919509,
+      "atom_frac": 0.500001,
+      "atom_density": 0.014732523036712424
+    }
+  ]
+}

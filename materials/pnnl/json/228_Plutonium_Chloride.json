@@ -1,0 +1,72 @@
+{
+  "name": "Plutonium Chloride",
+  "density": 5.71,
+  "molecular_weight": 86.36994237573747,
+  "total_atom_density": 0.03981295204529352,
+  "nuclides": [
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.23004880580205603,
+      "atom_frac": 0.5682,
+      "atom_density": 0.022621719352135777
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.07780948907590399,
+      "atom_frac": 0.18180000000000002,
+      "atom_density": 0.007237994681834363
+    },
+    {
+      "Z": 94,
+      "A": 238,
+      "element": "Pu",
+      "weight_frac": 0.0003472764193770703,
+      "atom_frac": 0.000126,
+      "atom_density": 5.016431957706983e-06
+    },
+    {
+      "Z": 94,
+      "A": 239,
+      "element": "Pu",
+      "weight_frac": 0.6471517489815238,
+      "atom_frac": 0.233817,
+      "atom_density": 0.009308945008374394
+    },
+    {
+      "Z": 94,
+      "A": 240,
+      "element": "Pu",
+      "weight_frac": 0.04152930934485243,
+      "atom_frac": 0.014942,
+      "atom_density": 0.0005948851294607757
+    },
+    {
+      "Z": 94,
+      "A": 241,
+      "element": "Pu",
+      "weight_frac": 0.0027686529396245903,
+      "atom_frac": 0.000992,
+      "atom_density": 3.949444842893117e-05
+    },
+    {
+      "Z": 94,
+      "A": 242,
+      "element": "Pu",
+      "weight_frac": 0.00034471743666209415,
+      "atom_frac": 0.000123,
+      "atom_density": 4.896993101571103e-06
+    },
+    {
+      "Z": 95,
+      "A": 241,
+      "element": "Am",
+      "weight_frac": 0.0,
+      "atom_frac": 0.0,
+      "atom_density": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Borax",
+  "density": 1.73,
+  "molecular_weight": 8.869132503629393,
+  "total_atom_density": 0.11746699590446598,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.05284639060883386,
+      "atom_frac": 0.46506251166,
+      "atom_density": 0.054629496152485885
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.2146730319322558e-05,
+      "atom_frac": 5.348834e-05,
+      "atom_density": 6.283114615716683e-06
+    },
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.02089891560884912,
+      "atom_frac": 0.018511577,
+      "atom_density": 0.0021744993396442067
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.09249145774112895,
+      "atom_frac": 0.074511423,
+      "atom_density": 0.008752633020376932
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.7112541405401106,
+      "atom_frac": 0.39438830192999996,
+      "atom_density": 0.0463276090475806
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00028794519648640983,
+      "atom_frac": 0.00015023262000000002,
+      "atom_density": 1.7647374558257198e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0016447715702415484,
+      "atom_frac": 0.0008104654500000001,
+      "atom_density": 9.520294169586118e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.12056423200403009,
+      "atom_frac": 0.046512,
+      "atom_density": 0.005463624913508522
+    }
+  ]
+}

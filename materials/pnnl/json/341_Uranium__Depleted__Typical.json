@@ -1,0 +1,32 @@
+{
+  "name": "Uranium, Depleted, Typical",
+  "density": 18.951157,
+  "molecular_weight": 238.0431535202871,
+  "total_atom_density": 0.04794363262757437,
+  "nuclides": [
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 4.915935342707809e-06,
+      "atom_frac": 5e-06,
+      "atom_density": 2.3971816313787186e-07
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.0025000980586552526,
+      "atom_frac": 0.002532,
+      "atom_density": 0.0001213932778130183
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.9974949860060021,
+      "atom_frac": 0.997463,
+      "atom_density": 0.04782199963159821
+    }
+  ]
+}

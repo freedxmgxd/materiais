@@ -1,0 +1,136 @@
+{
+  "name": "Bone Equivalent Plastic, B-110",
+  "density": 1.785,
+  "molecular_weight": 10.971069412798997,
+  "total_atom_density": 0.09798061476176118,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.03549178523969037,
+      "atom_frac": 0.38635956354000006,
+      "atom_density": 0.037855747554734934
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 8.157778400588955e-06,
+      "atom_frac": 4.4436460000000004e-05,
+      "atom_density": 4.35391166863641e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.36304510342021784,
+      "atom_frac": 0.33191608580000004,
+      "atom_density": 0.032521342136001476
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0042549113869033706,
+      "atom_frac": 0.0035899142,
+      "atom_density": 0.0003517420002579761
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.03954533262046431,
+      "atom_frac": 0.03098281056,
+      "atom_density": 0.003035714825715986
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00015475737708426664,
+      "atom_frac": 0.00011318944,
+      "atom_density": 1.109037091573948e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.04517724467772504,
+      "atom_frac": 0.03098751691,
+      "atom_density": 0.00303617595678227
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 1.8289623713914308e-05,
+      "atom_frac": 1.180394e-05,
+      "atom_density": 1.1565572978109433e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0001044721477633043,
+      "atom_frac": 6.367915000000001e-05,
+      "atom_density": 6.239322264506405e-06
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.24929986402542106,
+      "atom_frac": 0.143964,
+      "atom_density": 0.014105681223562186
+    },
+    {
+      "Z": 20,
+      "A": 40,
+      "element": "Ca",
+      "weight_frac": 0.2541239331136394,
+      "atom_frac": 0.06976552947,
+      "atom_density": 0.006835669466650367
+    },
+    {
+      "Z": 20,
+      "A": 42,
+      "element": "Ca",
+      "weight_frac": 0.0017807784443839916,
+      "atom_frac": 0.00046562649,
+      "atom_density": 4.562236973956104e-05
+    },
+    {
+      "Z": 20,
+      "A": 43,
+      "element": "Ca",
+      "weight_frac": 0.0003804258383710395,
+      "atom_frac": 9.715545e-05,
+      "atom_density": 9.51935071845555e-06
+    },
+    {
+      "Z": 20,
+      "A": 44,
+      "element": "Ca",
+      "weight_frac": 0.006014669691783168,
+      "atom_frac": 0.0015012316200000001,
+      "atom_density": 0.00014709159702739466
+    },
+    {
+      "Z": 20,
+      "A": 46,
+      "element": "Ca",
+      "weight_frac": 1.2057708943920738e-05,
+      "atom_frac": 2.8786800000000004e-06,
+      "atom_density": 2.820548361023867e-07
+    },
+    {
+      "Z": 20,
+      "A": 48,
+      "element": "Ca",
+      "weight_frac": 0.0005882169054944631,
+      "atom_frac": 0.00013457829,
+      "atom_density": 1.3186063587786577e-05
+    }
+  ]
+}

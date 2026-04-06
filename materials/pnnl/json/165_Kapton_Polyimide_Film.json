@@ -1,0 +1,80 @@
+{
+  "name": "Kapton Polyimide Film",
+  "density": 1.42,
+  "molecular_weight": 9.803354733328977,
+  "total_atom_density": 0.08722973014663259,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.026355836422221016,
+      "atom_frac": 0.256369514115,
+      "atom_density": 0.022363043534074763
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 6.057882736600431e-06,
+      "atom_frac": 2.9485885e-05,
+      "atom_density": 2.5720457916846418e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.6831269442522647,
+      "atom_frac": 0.5580779802,
+      "atom_density": 0.04868099161362376
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.008006290641069684,
+      "atom_frac": 0.0060360197999999995,
+      "atom_density": 0.0005265203783137312
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.07298437688069177,
+      "atom_frac": 0.05109533352,
+      "atom_density": 0.004457032154701791
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0002856183014715741,
+      "atom_frac": 0.00018666648,
+      "atom_density": 1.628286667782179e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.20866785486172912,
+      "atom_frac": 0.12789346185,
+      "atom_density": 0.01115611216469415
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 8.447740834651746e-05,
+      "atom_frac": 4.871790000000001e-05,
+      "atom_density": 4.2496492703106325e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00048254334946891837,
+      "atom_frac": 0.00026282025000000007,
+      "atom_density": 2.292573948457052e-05
+    }
+  ]
+}

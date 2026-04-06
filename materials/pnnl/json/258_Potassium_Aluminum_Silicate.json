@@ -1,0 +1,88 @@
+{
+  "name": "Potassium Aluminum Silicate",
+  "density": 1.1,
+  "molecular_weight": 21.410115729671958,
+  "total_atom_density": 0.03094030373137781,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.45862021918779394,
+      "atom_frac": 0.6138896144499999,
+      "atom_density": 0.018993931128621418
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0001856684996257289,
+      "atom_frac": 0.0002338463,
+      "atom_density": 7.235275548458895e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0010605569163860515,
+      "atom_frac": 0.00126153925,
+      "atom_density": 3.903240756405456e-05
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.09694019897716753,
+      "atom_frac": 0.076923,
+      "atom_density": 0.0023800209839287757
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.2780978948575997,
+      "atom_frac": 0.21282209487,
+      "atom_density": 0.006584780256025904
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.014632343758395436,
+      "atom_frac": 0.010811527650000001,
+      "atom_density": 0.00033451194929118945
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.009989397868122744,
+      "atom_frac": 0.00713537748,
+      "atom_density": 0.0002207707464692332
+    },
+    {
+      "Z": 19,
+      "A": 39,
+      "element": "K",
+      "weight_frac": 0.1305521489119455,
+      "atom_frac": 0.071736928263,
+      "atom_density": 0.002219562349213281
+    },
+    {
+      "Z": 19,
+      "A": 40,
+      "element": "K",
+      "weight_frac": 1.679933113628842e-05,
+      "atom_frac": 8.999991e-06,
+      "atom_density": 2.7846245511966673e-07
+    },
+    {
+      "Z": 19,
+      "A": 41,
+      "element": "K",
+      "weight_frac": 0.009904771691827071,
+      "atom_frac": 0.005177071746000001,
+      "atom_density": 0.00016018017226037445
+    }
+  ]
+}

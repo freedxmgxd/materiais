@@ -1,0 +1,80 @@
+{
+  "name": "Tissue Equivalent-Gas, Propane Based (TEG: PB)",
+  "density": 0.001826,
+  "molecular_weight": 5.879972802872596,
+  "total_atom_density": 0.0001870149641234363,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10264833193554494,
+      "atom_frac": 0.59888312052,
+      "atom_density": 0.00011200010529817938
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3593694694845377e-05,
+      "atom_frac": 6.887948000000001e-05,
+      "atom_density": 1.288149348104095e-08
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.5623510057707396,
+      "atom_frac": 0.27555071829999994,
+      "atom_density": 5.153210769706159e-05
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.006590789065459219,
+      "atom_frac": 0.0029802816999999994,
+      "atom_density": 5.573572752032337e-07
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.03488516400689376,
+      "atom_frac": 0.01464848472,
+      "atom_density": 2.7394858443735048e-06
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00013652019399294551,
+      "atom_frac": 5.351528e-05,
+      "atom_density": 1.0008158169255647e-08
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.2925695853484681,
+      "atom_frac": 0.10755300955,
+      "atom_density": 2.011402222236085e-05
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00011844431116441594,
+      "atom_frac": 4.09697e-05,
+      "atom_density": 7.661946975647949e-09
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0006765656730421257,
+      "atom_frac": 0.00022102075,
+      "atom_density": 4.133418763178498e-08
+    }
+  ]
+}

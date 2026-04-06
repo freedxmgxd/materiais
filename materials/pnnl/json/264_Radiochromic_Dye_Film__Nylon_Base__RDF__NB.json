@@ -1,0 +1,80 @@
+{
+  "name": "Radiochromic Dye Film, Nylon Base (RDF: NB)",
+  "density": 1.08,
+  "molecular_weight": 5.821328039367026,
+  "total_atom_density": 0.11172557149875363,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10197230554809443,
+      "atom_frac": 0.5890052566050001,
+      "atom_density": 0.06580694890996368
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3438310190388134e-05,
+      "atom_frac": 6.774339500000001e-05,
+      "atom_density": 7.568669521640811e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.6468158499464012,
+      "atom_frac": 0.3137772703,
+      "atom_density": 0.035056944847586397
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.00758072233791009,
+      "atom_frac": 0.0033937297,
+      "atom_density": 0.00037916639024479374
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.09852922612171817,
+      "atom_frac": 0.04096035960000001,
+      "atom_density": 0.004576319585104461
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00038558594884213884,
+      "atom_frac": 0.00014964040000000004,
+      "atom_density": 1.6718659209302096e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.14430075808415357,
+      "atom_frac": 0.052518070220000004,
+      "atom_density": 0.005867611409341175
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 5.841893603336607e-05,
+      "atom_frac": 2.0005480000000002e-05,
+      "atom_density": 2.235123686106886e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0003336947666566651,
+      "atom_frac": 0.00010792430000000003,
+      "atom_density": 1.205790409610294e-05
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Silicon Carbide (Hexagonal)",
+  "density": 3.21,
+  "molecular_weight": 20.04811730111833,
+  "total_atom_density": 0.0964233775633469,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.2960776770629174,
+      "atom_frac": 0.49465,
+      "atom_density": 0.047695823711709544
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.003470048948944863,
+      "atom_frac": 0.00535,
+      "atom_density": 0.0005158650699639059
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.6434808957447318,
+      "atom_frac": 0.461115,
+      "atom_density": 0.04446226574512271
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.03385726336878031,
+      "atom_frac": 0.023425,
+      "atom_density": 0.0022587176194214013
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.023114114874625696,
+      "atom_frac": 0.01546,
+      "atom_density": 0.0014907054171293432
+    }
+  ]
+}

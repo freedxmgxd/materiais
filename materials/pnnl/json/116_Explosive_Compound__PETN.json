@@ -1,0 +1,80 @@
+{
+  "name": "Explosive Compound, PETN",
+  "density": 1.77,
+  "molecular_weight": 10.901271913456618,
+  "total_atom_density": 0.09777931630200153,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.02550057083100234,
+      "atom_frac": 0.27583027587000003,
+      "atom_density": 0.026970495789961073
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 5.861300143764041e-06,
+      "atom_frac": 3.172413e-05,
+      "atom_density": 3.1019637416758156e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.1877606630354185,
+      "atom_frac": 0.1705691702,
+      "atom_density": 0.016678136844355734
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.002200566749518204,
+      "atom_frac": 0.0018448298,
+      "atom_density": 0.00018038619653755822
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.1765323816006213,
+      "atom_frac": 0.13742893116,
+      "atom_density": 0.013437706928939632
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0006908448238165366,
+      "atom_frac": 0.0005020688399999999,
+      "atom_density": 4.909194791173899e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.6056633206712335,
+      "atom_frac": 0.41278748301,
+      "atom_density": 0.04036207786674187
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00024519765008728934,
+      "atom_frac": 0.00015724134000000002,
+      "atom_density": 1.5374950719610567e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0014005933381585098,
+      "atom_frac": 0.0008482756500000001,
+      "atom_density": 8.294381309263595e-05
+    }
+  ]
+}

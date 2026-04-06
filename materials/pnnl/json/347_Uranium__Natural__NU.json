@@ -1,0 +1,32 @@
+{
+  "name": "Uranium, Natural (NU)",
+  "density": 18.95,
+  "molecular_weight": 238.02861933039028,
+  "total_atom_density": 0.04794363288038019,
+  "nuclides": [
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 5.7028331951656596e-05,
+      "atom_frac": 5.8e-05,
+      "atom_density": 2.780730707062051e-06
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.007203526451722765,
+      "atom_frac": 0.007295,
+      "atom_density": 0.0003497488018623735
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.9927394452163255,
+      "atom_frac": 0.992647,
+      "atom_density": 0.047591103347810755
+    }
+  ]
+}

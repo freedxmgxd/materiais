@@ -1,0 +1,56 @@
+{
+  "name": "Krypton",
+  "density": 0.003478,
+  "molecular_weight": 83.79799973927462,
+  "total_atom_density": 2.4994636660120008e-05,
+  "nuclides": [
+    {
+      "Z": 36,
+      "A": 78,
+      "element": "Kr",
+      "weight_frac": 0.0033010012335760383,
+      "atom_frac": 0.00355,
+      "atom_density": 8.873096014342603e-08
+    },
+    {
+      "Z": 36,
+      "A": 80,
+      "element": "Kr",
+      "weight_frac": 0.021801097942582157,
+      "atom_frac": 0.02286,
+      "atom_density": 5.713773940503433e-07
+    },
+    {
+      "Z": 36,
+      "A": 82,
+      "element": "Kr",
+      "weight_frac": 0.11332287047056339,
+      "atom_frac": 0.11593,
+      "atom_density": 2.8976282280077126e-06
+    },
+    {
+      "Z": 36,
+      "A": 83,
+      "element": "Kr",
+      "weight_frac": 0.11378701853274738,
+      "atom_frac": 0.115,
+      "atom_density": 2.874383215913801e-06
+    },
+    {
+      "Z": 36,
+      "A": 84,
+      "element": "Kr",
+      "weight_frac": 0.5706418453723465,
+      "atom_frac": 0.56987,
+      "atom_density": 1.424369359350259e-05
+    },
+    {
+      "Z": 36,
+      "A": 86,
+      "element": "Kr",
+      "weight_frac": 0.17714616644818443,
+      "atom_frac": 0.17279,
+      "atom_density": 4.318823268502136e-06
+    }
+  ]
+}

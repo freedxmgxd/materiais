@@ -1,0 +1,40 @@
+{
+  "name": "Sodium Oxide",
+  "density": 2.27,
+  "molecular_weight": 20.6596501594239,
+  "total_atom_density": 0.06616888194965058,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.25744274302098763,
+      "atom_frac": 0.33252300080999997,
+      "atom_density": 0.022002675186140453
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0001042235074609005,
+      "atom_frac": 0.00012666654,
+      "atom_density": 8.381383332230694e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.000595335029423343,
+      "atom_frac": 0.00068333265,
+      "atom_density": 4.52153574501919e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.7418576984421282,
+      "atom_frac": 0.666667,
+      "atom_density": 0.044112610022727705
+    }
+  ]
+}

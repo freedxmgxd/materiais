@@ -1,0 +1,56 @@
+{
+  "name": "Uranium Hydride",
+  "density": 11.1,
+  "molecular_weight": 60.24547836866044,
+  "total_atom_density": 0.11095565052525669,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.012545038556912759,
+      "atom_frac": 0.74991375,
+      "atom_density": 0.08320716796908471
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.8834741302247144e-06,
+      "atom_frac": 8.625000000000001e-05,
+      "atom_density": 9.56992485780339e-06
+    },
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.0002641656278790017,
+      "atom_frac": 6.8e-05,
+      "atom_density": 7.544984235717455e-06
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.029623609846224936,
+      "atom_frac": 0.007593,
+      "atom_density": 0.000842486254438274
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.0001371321971085495,
+      "atom_frac": 3.5e-05,
+      "atom_density": 3.883447768383983e-06
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.9574271702977445,
+      "atom_frac": 0.242304,
+      "atom_density": 0.026884997944871796
+    }
+  ]
+}

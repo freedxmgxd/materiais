@@ -1,0 +1,112 @@
+{
+  "name": "Coal, Bituminous",
+  "density": 0.75,
+  "molecular_weight": 7.585212189102379,
+  "total_atom_density": 0.059544880978926004,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.055987071999300524,
+      "atom_frac": 0.421376536125,
+      "atom_density": 0.025090815690875238
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.2868615190349806e-05,
+      "atom_frac": 4.8463875e-05,
+      "atom_density": 2.8857756686525476e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8352129525792086,
+      "atom_frac": 0.5279389557,
+      "atom_density": 0.03143606228129499
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0097887481994353,
+      "atom_frac": 0.0057100443,
+      "atom_density": 0.0003400039082278948
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.015938245084900427,
+      "atom_frac": 0.008633459400000001,
+      "atom_density": 0.00051407831240939
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 6.237299932050577e-05,
+      "atom_frac": 3.15406e-05,
+      "atom_density": 1.8780812730039135e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.06980917102499626,
+      "atom_frac": 0.033105358019999996,
+      "atom_density": 0.001971254603065633
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 2.8261649840212555e-05,
+      "atom_frac": 1.2610680000000001e-05,
+      "atom_density": 7.509014396633226e-07
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00016143335173676745,
+      "atom_frac": 6.803130000000001e-05,
+      "atom_density": 4.050915661341609e-06
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.012311927362821646,
+      "atom_frac": 0.0029209425,
+      "atom_density": 0.00017392717350878657
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.00010024825306436596,
+      "atom_frac": 2.3062499999999998e-05,
+      "atom_density": 1.3732538175764808e-06
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0005852407960818545,
+      "atom_frac": 0.0001306875,
+      "atom_density": 7.781771632933392e-06
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 1.4580841032607696e-06,
+      "atom_frac": 3.075e-07,
+      "atom_density": 1.8310050901019746e-08
+    }
+  ]
+}

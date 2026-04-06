@@ -1,0 +1,64 @@
+{
+  "name": "Polycarbonate",
+  "density": 1.2,
+  "molecular_weight": 7.705674025666774,
+  "total_atom_density": 0.09378243730436914,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.05547813375132251,
+      "atom_frac": 0.42417721401,
+      "atom_density": 0.0397803729788348
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.2751635855031792e-05,
+      "atom_frac": 4.878599e-05,
+      "atom_density": 4.57526904850658e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.7469964915758193,
+      "atom_frac": 0.4796759552,
+      "atom_density": 0.044985180194957376
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.008754845742414212,
+      "atom_frac": 0.0051880448,
+      "atom_density": 0.00048654748618825826
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.188246248910001,
+      "atom_frac": 0.0906890887,
+      "atom_density": 0.008505043775198121
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 7.620989466445575e-05,
+      "atom_frac": 3.4545800000000004e-05,
+      "atom_density": 3.2397893226292755e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00043531848992353644,
+      "atom_frac": 0.00018636550000000003,
+      "atom_density": 1.747781081944741e-05
+    }
+  ]
+}

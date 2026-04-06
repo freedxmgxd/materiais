@@ -1,0 +1,56 @@
+{
+  "name": "Uranium Dicarbide",
+  "density": 11.28,
+  "molecular_weight": 87.32629894118219,
+  "total_atom_density": 0.07778841952130988,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.09063033665199241,
+      "atom_frac": 0.6595343226343225,
+      "atom_density": 0.05130413257778162
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0010621932310517792,
+      "atom_frac": 0.007133344033344033,
+      "atom_density": 0.0005548915582555984
+    },
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.00024120690840835767,
+      "atom_frac": 9.000009000009e-05,
+      "atom_density": 7.000964757882648e-06
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.027249375465303576,
+      "atom_frac": 0.010124010124010123,
+      "atom_density": 0.0007875307467644879
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.00012433948342870083,
+      "atom_frac": 4.6000046000045996e-05,
+      "atom_density": 3.5782708762511304e-06
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.8806925482598151,
+      "atom_frac": 0.3230723230723231,
+      "atom_density": 0.02513128540287403
+    }
+  ]
+}

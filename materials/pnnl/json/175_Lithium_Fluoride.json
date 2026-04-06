@@ -1,0 +1,32 @@
+{
+  "name": "Lithium Fluoride",
+  "density": 2.635,
+  "molecular_weight": 12.969219881412423,
+  "total_atom_density": 0.12235385819422043,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.017601206214781874,
+      "atom_frac": 0.03795,
+      "atom_density": 0.0046433289184706645
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.24995677584631934,
+      "atom_frac": 0.46205,
+      "atom_density": 0.05653360017863955
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.7324420179388988,
+      "atom_frac": 0.5,
+      "atom_density": 0.061176929097110214
+    }
+  ]
+}

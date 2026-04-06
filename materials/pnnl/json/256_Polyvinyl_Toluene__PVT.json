@@ -1,0 +1,40 @@
+{
+  "name": "Polyvinyl Toluene (PVT)",
+  "density": 1.032,
+  "molecular_weight": 6.230065378910971,
+  "total_atom_density": 0.09975576316353793,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.08498020598479282,
+      "atom_frac": 0.52532158107,
+      "atom_density": 0.05240385522591422
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.9532680144956013e-05,
+      "atom_frac": 6.041893e-05,
+      "atom_density": 6.027136471674376e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9044006292250047,
+      "atom_frac": 0.46953958739999996,
+      "atom_density": 0.046839279876579716
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.010599632110057388,
+      "atom_frac": 0.005078412599999999,
+      "atom_density": 0.0005066009245723269
+    }
+  ]
+}

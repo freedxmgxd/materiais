@@ -1,0 +1,72 @@
+{
+  "name": "Lutetium Oxyorthosilicate (LSO)",
+  "density": 7.4,
+  "molecular_weight": 57.25201965790566,
+  "total_atom_density": 0.07783802543609723,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.17418650765593452,
+      "atom_frac": 0.62348125,
+      "atom_density": 0.048530549396429694
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 7.05179278593473e-05,
+      "atom_frac": 0.00023750000000000003,
+      "atom_density": 1.8486531041073093e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00040280541002486595,
+      "atom_frac": 0.00128125,
+      "atom_density": 9.972997008999959e-05
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.056332425283872486,
+      "atom_frac": 0.11527875,
+      "atom_density": 0.008973070274741493
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.002963975732070247,
+      "atom_frac": 0.00585625,
+      "atom_density": 0.0004558389364601444
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.002023485324565454,
+      "atom_frac": 0.003865,
+      "atom_density": 0.0003008439683105158
+    },
+    {
+      "Z": 71,
+      "A": 175,
+      "element": "Lu",
+      "weight_frac": 0.7440526440352275,
+      "atom_frac": 0.2435025,
+      "atom_density": 0.018953753788753268
+    },
+    {
+      "Z": 71,
+      "A": 176,
+      "element": "Lu",
+      "weight_frac": 0.019967638630445504,
+      "atom_frac": 0.0064975,
+      "atom_density": 0.0005057525702710418
+    }
+  ]
+}

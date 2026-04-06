@@ -1,0 +1,128 @@
+{
+  "name": "Ceric Sulfate Dosimeter Solution",
+  "density": 1.03,
+  "molecular_weight": 6.174184708856772,
+  "total_atom_density": 0.1004635474203124,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10757177182316666,
+      "atom_frac": 0.659011204995,
+      "atom_density": 0.0662066034435324
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.4725346182664106e-05,
+      "atom_frac": 7.5795005e-05,
+      "atom_density": 7.614635079040314e-06
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.000797691116462023,
+      "atom_frac": 0.00035171508,
+      "atom_density": 3.533454461801897e-05
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 3.121697978668653e-06,
+      "atom_frac": 1.28492e-06,
+      "atom_density": 1.2908762135130781e-07
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.8726099480386443,
+      "atom_frac": 0.33683549592,
+      "atom_density": 0.03383968881720336
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00035326872438757136,
+      "atom_frac": 0.00012830928,
+      "atom_density": 1.2890405435746142e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0020179060516315934,
+      "atom_frac": 0.0006921948000000001,
+      "atom_density": 6.954034511389367e-05
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.01385165580575048,
+      "atom_frac": 0.0026749184,
+      "atom_density": 0.0002687317915238661
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.00011278528987821514,
+      "atom_frac": 2.1119999999999998e-05,
+      "atom_density": 2.1217901215169974e-06
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0006584309533281224,
+      "atom_frac": 0.00011968,
+      "atom_density": 1.2023477355262989e-05
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 1.6404319599214888e-06,
+      "atom_frac": 2.816e-07,
+      "atom_density": 2.829053495355997e-08
+    },
+    {
+      "Z": 58,
+      "A": 136,
+      "element": "Ce",
+      "weight_frac": 3.583579320381824e-06,
+      "atom_frac": 1.628e-07,
+      "atom_density": 1.6355465520026858e-08
+    },
+    {
+      "Z": 58,
+      "A": 138,
+      "element": "Ce",
+      "weight_frac": 4.93355437695005e-06,
+      "atom_frac": 2.2088e-07,
+      "atom_density": 2.2190388354198603e-08
+    },
+    {
+      "Z": 58,
+      "A": 140,
+      "element": "Ce",
+      "weight_frac": 0.0017637438783795875,
+      "atom_frac": 7.783599999999999e-05,
+      "atom_density": 7.819680677007435e-06
+    },
+    {
+      "Z": 58,
+      "A": 142,
+      "element": "Ce",
+      "weight_frac": 0.0002247937085528653,
+      "atom_frac": 9.78032e-06,
+      "atom_density": 9.825656421058298e-07
+    }
+  ]
+}

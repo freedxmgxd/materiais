@@ -1,0 +1,16 @@
+{
+  "name": "He-3 Proportional Gas",
+  "density": 0.000125,
+  "molecular_weight": 3.01602932197,
+  "total_atom_density": 2.495889511141456e-05,
+  "nuclides": [
+    {
+      "Z": 2,
+      "A": 3,
+      "element": "He",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 2.495889511141456e-05
+    }
+  ]
+}

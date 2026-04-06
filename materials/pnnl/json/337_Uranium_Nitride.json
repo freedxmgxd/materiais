@@ -1,0 +1,56 @@
+{
+  "name": "Uranium Nitride",
+  "density": 14.31,
+  "molecular_weight": 125.98250928064499,
+  "total_atom_density": 0.06840380840774343,
+  "nuclides": [
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.05537311862754412,
+      "atom_frac": 0.4981795018204982,
+      "atom_density": 0.03407737519519443
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0002166981039714431,
+      "atom_frac": 0.00181999818000182,
+      "atom_density": 0.00012449480680728624
+    },
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.000252650448006346,
+      "atom_frac": 0.000135999864000136,
+      "atom_density": 9.302908640544467e-06
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.02833229424776675,
+      "atom_frac": 0.015185984814015186,
+      "atom_density": 0.0010387791957007962
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.00013115450073405857,
+      "atom_frac": 6.999993000007e-05,
+      "atom_density": 4.78826180028024e-06
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.9156940840719773,
+      "atom_frac": 0.48460851539148464,
+      "atom_density": 0.0331490680396001
+    }
+  ]
+}

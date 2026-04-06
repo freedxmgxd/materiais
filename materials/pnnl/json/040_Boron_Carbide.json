@@ -1,0 +1,40 @@
+{
+  "name": "Boron Carbide",
+  "density": 2.52,
+  "molecular_weight": 11.05099227260327,
+  "total_atom_density": 0.13732517715013345,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.1442424037765274,
+      "atom_frac": 0.15919621900000003,
+      "atom_density": 0.021861648975806443
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.6383675805517178,
+      "atom_frac": 0.640784781,
+      "atom_density": 0.08799588356593448
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.21487170580028203,
+      "atom_frac": 0.1978787967,
+      "atom_density": 0.027173740811082744
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0025183098714727254,
+      "atom_frac": 0.0021402033,
+      "atom_density": 0.0002939037973098002
+    }
+  ]
+}

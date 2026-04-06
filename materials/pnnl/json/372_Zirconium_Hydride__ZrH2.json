@@ -1,0 +1,64 @@
+{
+  "name": "Zirconium Hydride (ZrH2)",
+  "density": 5.61,
+  "molecular_weight": 31.079811360678477,
+  "total_atom_density": 0.10870146305438351,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.02161552449980077,
+      "atom_frac": 0.6665903332950001,
+      "atom_density": 0.07245934448707564
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 4.968323168051899e-06,
+      "atom_frac": 7.6666705e-05,
+      "atom_density": 8.33378300105882e-06
+    },
+    {
+      "Z": 40,
+      "A": 90,
+      "element": "Zr",
+      "weight_frac": 0.49609826259544165,
+      "atom_frac": 0.17149982849999998,
+      "atom_density": 0.018642282271525857
+    },
+    {
+      "Z": 40,
+      "A": 91,
+      "element": "Zr",
+      "weight_frac": 0.10939151156166593,
+      "atom_frac": 0.037399962599999996,
+      "atom_density": 0.0040654306527992245
+    },
+    {
+      "Z": 40,
+      "A": 92,
+      "element": "Zr",
+      "weight_frac": 0.16904540394939258,
+      "atom_frac": 0.0571666095,
+      "atom_density": 0.0062140940905086196
+    },
+    {
+      "Z": 40,
+      "A": 94,
+      "element": "Zr",
+      "weight_frac": 0.1750428984931479,
+      "atom_frac": 0.057933275400000005,
+      "atom_density": 0.006297431795512526
+    },
+    {
+      "Z": 40,
+      "A": 96,
+      "element": "Zr",
+      "weight_frac": 0.028801430577383057,
+      "atom_frac": 0.009333324,
+      "atom_density": 0.001014545973960591
+    }
+  ]
+}

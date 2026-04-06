@@ -1,0 +1,32 @@
+{
+  "name": "Sodium Chloride",
+  "density": 2.17,
+  "molecular_weight": 29.2213534333098,
+  "total_atom_density": 0.04472087673496863,
+  "nuclides": [
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.3933727665013569,
+      "atom_frac": 0.5,
+      "atom_density": 0.022360438367484314
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.4533055400982106,
+      "atom_frac": 0.3788,
+      "atom_density": 0.016940268107206117
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.15332169340043247,
+      "atom_frac": 0.1212,
+      "atom_density": 0.005420170260278198
+    }
+  ]
+}

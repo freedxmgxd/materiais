@@ -1,0 +1,40 @@
+{
+  "name": "Polyethylene, Non-borated",
+  "density": 0.93,
+  "molecular_weight": 4.675590481105902,
+  "total_atom_density": 0.11978360657187648,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.14368268309318927,
+      "atom_frac": 0.66658533387,
+      "atom_density": 0.07984599537886701
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 3.302543055415245e-05,
+      "atom_frac": 7.666613e-05,
+      "atom_density": 9.183345553308335e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8463648424282024,
+      "atom_frac": 0.3297712834,
+      "atom_density": 0.03950119366948838
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009919449048054248,
+      "atom_frac": 0.0035667166,
+      "atom_density": 0.00042723417796778094
+    }
+  ]
+}

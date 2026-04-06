@@ -1,0 +1,56 @@
+{
+  "name": "Platinum",
+  "density": 21.45,
+  "molecular_weight": 195.08445941739936,
+  "total_atom_density": 0.06621486903045391,
+  "nuclides": [
+    {
+      "Z": 78,
+      "A": 190,
+      "element": "Pt",
+      "weight_frac": 0.00011684782092246412,
+      "atom_frac": 0.00012,
+      "atom_density": 7.94578428365447e-06
+    },
+    {
+      "Z": 78,
+      "A": 192,
+      "element": "Pt",
+      "weight_frac": 0.007694797208034581,
+      "atom_frac": 0.00782,
+      "atom_density": 0.0005178002758181497
+    },
+    {
+      "Z": 78,
+      "A": 194,
+      "element": "Pt",
+      "weight_frac": 0.3267104821562134,
+      "atom_frac": 0.3286,
+      "atom_density": 0.021758205963407155
+    },
+    {
+      "Z": 78,
+      "A": 195,
+      "element": "Pt",
+      "weight_frac": 0.3375927929865186,
+      "atom_frac": 0.3378,
+      "atom_density": 0.02236738275848733
+    },
+    {
+      "Z": 78,
+      "A": 196,
+      "element": "Pt",
+      "weight_frac": 0.2532378294729233,
+      "atom_frac": 0.2521,
+      "atom_density": 0.01669276848257743
+    },
+    {
+      "Z": 78,
+      "A": 198,
+      "element": "Pt",
+      "weight_frac": 0.07464725035538769,
+      "atom_frac": 0.07356,
+      "atom_density": 0.00487076576588019
+    }
+  ]
+}

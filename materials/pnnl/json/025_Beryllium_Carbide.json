@@ -1,0 +1,32 @@
+{
+  "name": "Beryllium Carbide",
+  "density": 1.9,
+  "molecular_weight": 10.011699674061767,
+  "total_atom_density": 0.1142869624190188,
+  "nuclides": [
+    {
+      "Z": 4,
+      "A": 9,
+      "element": "Be",
+      "weight_frac": 0.600110394937251,
+      "atom_frac": 0.666667,
+      "atom_density": 0.07619134637500001
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.3952571662783965,
+      "atom_frac": 0.32976633689999996,
+      "atom_density": 0.03768799295234779
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.004632438784352574,
+      "atom_frac": 0.0035666631,
+      "atom_density": 0.00040762309167100105
+    }
+  ]
+}

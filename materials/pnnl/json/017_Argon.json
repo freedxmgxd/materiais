@@ -1,0 +1,32 @@
+{
+  "name": "Argon",
+  "density": 0.001662,
+  "molecular_weight": 39.94779856192689,
+  "total_atom_density": 2.5054692131793967e-05,
+  "nuclides": [
+    {
+      "Z": 18,
+      "A": 36,
+      "element": "Ar",
+      "weight_frac": 0.003003613084901577,
+      "atom_frac": 0.003336,
+      "atom_density": 8.358245295166468e-08
+    },
+    {
+      "Z": 18,
+      "A": 38,
+      "element": "Ar",
+      "weight_frac": 0.0005977440397658351,
+      "atom_frac": 0.000629,
+      "atom_density": 1.5759401350898405e-08
+    },
+    {
+      "Z": 18,
+      "A": 40,
+      "element": "Ar",
+      "weight_frac": 0.9963986428753325,
+      "atom_frac": 0.996035,
+      "atom_density": 2.4955350277491404e-05
+    }
+  ]
+}

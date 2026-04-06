@@ -1,0 +1,48 @@
+{
+  "name": "Carbon Dioxide",
+  "density": 0.001842,
+  "molecular_weight": 14.669849911140618,
+  "total_atom_density": 7.561620157746733e-05,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.26975027466332935,
+      "atom_frac": 0.32976633689999996,
+      "atom_density": 2.4935677804493397e-05
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0031614901412312883,
+      "atom_frac": 0.0035666631,
+      "atom_density": 2.6969751592851447e-07
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.7251178460769979,
+      "atom_frac": 0.66504699919,
+      "atom_density": 5.0288327949240786e-05
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00029355779989679876,
+      "atom_frac": 0.00025333346,
+      "atom_density": 1.9156113977677257e-08
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.001676831318544675,
+      "atom_frac": 0.0013666673500000001,
+      "atom_density": 1.033421938269431e-07
+    }
+  ]
+}

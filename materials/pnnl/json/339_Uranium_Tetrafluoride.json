@@ -1,0 +1,48 @@
+{
+  "name": "Uranium Tetrafluoride",
+  "density": 6.7,
+  "molecular_weight": 62.79016831840965,
+  "total_atom_density": 0.06425901406633137,
+  "nuclides": [
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.24205601187945155,
+      "atom_frac": 0.8000008000008,
+      "atom_density": 0.05140726266032776
+    },
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.00020127711539359757,
+      "atom_frac": 5.400005400005399e-05,
+      "atom_density": 3.469990229572123e-06
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.022736971173595744,
+      "atom_frac": 0.006074006074006074,
+      "atom_density": 0.0003903096417485385
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.0001052598302875494,
+      "atom_frac": 2.8000028000027996e-05,
+      "atom_density": 1.7992541931114713e-06
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.7349004800012715,
+      "atom_frac": 0.19384319384319382,
+      "atom_density": 0.01245617251983239
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "C-552 Air-Equivalent Plastic",
+  "density": 1.76,
+  "molecular_weight": 10.969696264134788,
+  "total_atom_density": 0.09662043034184203,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.024674308078721358,
+      "atom_frac": 0.268568111115,
+      "atom_density": 0.025949166472026948
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 5.671383846563214e-06,
+      "atom_frac": 3.0888885e-05,
+      "atom_density": 2.9844973614796693e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.49579966407839016,
+      "atom_frac": 0.45323097689999997,
+      "atom_density": 0.043791372032331466
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.005810803165876075,
+      "atom_frac": 0.0049020231,
+      "atom_density": 0.00047363558146765053
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.004514944500123991,
+      "atom_frac": 0.0030964572799999997,
+      "atom_density": 0.00029918103492872965
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 1.827836925105566e-06,
+      "atom_frac": 1.17952e-06,
+      "atom_density": 1.1396572999680952e-07
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 1.0440786115330309e-05,
+      "atom_frac": 6.3632e-06,
+      "atom_density": 6.148151223512092e-07
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.46520878493735135,
+      "atom_frac": 0.268612,
+      "atom_density": 0.025953407034982875
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.003650365592845624,
+      "atom_frac": 0.00143130096,
+      "atom_density": 0.00013829291470389163
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.00019206691307637014,
+      "atom_frac": 7.27112e-05,
+      "atom_density": 7.025387434671745e-06
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.0001311227267279841,
+      "atom_frac": 4.798784e-05,
+      "atom_density": 4.636605751975461e-06
+    }
+  ]
+}

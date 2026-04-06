@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nuclear-materials"
+version = "0.1.0"
+authors = [
+  { name="Pedro CR Rossi" },
+]
+description = "A modular framework for managing nuclear materials and MCNP input generation."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["materials*", "nuclear_data*"]
+
+[tool.setuptools.package-data]
+"nuclear_data" = ["*.json"]
+"nuclear_data.pnnl" = ["*.json"]

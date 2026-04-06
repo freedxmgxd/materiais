@@ -1,0 +1,64 @@
+{
+  "name": "Ethylene Glycol",
+  "density": 1.114,
+  "molecular_weight": 6.206792616383367,
+  "total_atom_density": 0.10808585401954462,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.09741351396462607,
+      "atom_frac": 0.599931,
+      "atom_density": 0.06484405448779942
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.2390473028598483e-05,
+      "atom_frac": 6.9e-05,
+      "atom_density": 7.457923927348579e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.382535738947162,
+      "atom_frac": 0.19786,
+      "atom_density": 0.0213858670763071
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.00448334285798036,
+      "atom_frac": 0.00214,
+      "atom_density": 0.0002313037276018255
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5141479009502534,
+      "atom_frac": 0.199514,
+      "atom_density": 0.021564641078855425
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00020814840986341777,
+      "atom_frac": 7.6e-05,
+      "atom_density": 8.214524905485391e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0011889643970862118,
+      "atom_frac": 0.00041000000000000005,
+      "atom_density": 4.43152001480133e-05
+    }
+  ]
+}

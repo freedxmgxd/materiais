@@ -1,0 +1,64 @@
+{
+  "name": "Sterotex",
+  "density": 0.862,
+  "molecular_weight": 5.1530756577979275,
+  "total_atom_density": 0.10073761147412137,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.1243412287408014,
+      "atom_frac": 0.63576487863,
+      "atom_density": 0.06404543533232086
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.85798018689141e-05,
+      "atom_frac": 7.312137e-05,
+      "atom_density": 7.366072161515475e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.7590524625969666,
+      "atom_frac": 0.325954564,
+      "atom_density": 0.032835884226448626
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.008896142479086298,
+      "atom_frac": 0.003525436,
+      "atom_density": 0.00035514400204488054
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.10738977224402137,
+      "atom_frac": 0.034597722739999996,
+      "atom_density": 0.0034852919512714936
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 4.3475836985572795e-05,
+      "atom_frac": 1.317916e-05,
+      "atom_density": 1.3276370996352815e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0002483383002699304,
+      "atom_frac": 7.10981e-05,
+      "atom_density": 7.162252774348228e-06
+    }
+  ]
+}

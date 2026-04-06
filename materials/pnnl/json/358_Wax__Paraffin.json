@@ -1,0 +1,40 @@
+{
+  "name": "Wax, Paraffin",
+  "density": 0.93,
+  "molecular_weight": 4.580427305913972,
+  "total_atom_density": 0.12227223646948517,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.14857064989863814,
+      "atom_frac": 0.6752333392350001,
+      "atom_density": 0.08256229052702202
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 3.414892856246606e-05,
+      "atom_frac": 7.7660765e-05,
+      "atom_density": 9.495755422481118e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8415323887846011,
+      "atom_frac": 0.3212148277,
+      "atom_density": 0.03927565537003933
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009862812388198125,
+      "atom_frac": 0.0034741723,
+      "atom_density": 0.0004247948170013351
+    }
+  ]
+}

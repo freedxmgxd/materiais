@@ -1,0 +1,56 @@
+{
+  "name": "Iron Boride (Fe2B)",
+  "density": 7.3,
+  "molecular_weight": 40.83378672798528,
+  "total_atom_density": 0.10765993328233521,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.016265716886501434,
+      "atom_frac": 0.066333267,
+      "atom_density": 0.007141435099619328
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.07198650371122595,
+      "atom_frac": 0.266999733,
+      "atom_density": 0.028745173441181316
+    },
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 0.05147325173039217,
+      "atom_frac": 0.03896668615,
+      "atom_density": 0.004195150831142695
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 0.8379101478844011,
+      "atom_frac": 0.61169363918,
+      "atom_density": 0.06585489638334763
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 0.01969711286208216,
+      "atom_frac": 0.01412667373,
+      "atom_density": 0.0015208767512731175
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 0.0026672669253971727,
+      "atom_frac": 0.00188000094,
+      "atom_density": 0.0002024007757711275
+    }
+  ]
+}

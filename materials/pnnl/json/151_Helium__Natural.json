@@ -1,0 +1,24 @@
+{
+  "name": "Helium, Natural",
+  "density": 0.000166,
+  "molecular_weight": 4.002601932120932,
+  "total_atom_density": 2.497563792536031e-05,
+  "nuclides": [
+    {
+      "Z": 2,
+      "A": 3,
+      "element": "He",
+      "weight_frac": 1.009713021673946e-06,
+      "atom_frac": 1.34e-06,
+      "atom_density": 3.3467354819982816e-11
+    },
+    {
+      "Z": 2,
+      "A": 4,
+      "element": "He",
+      "weight_frac": 0.9999989902869783,
+      "atom_frac": 0.99999866,
+      "atom_density": 2.497560445800549e-05
+    }
+  ]
+}

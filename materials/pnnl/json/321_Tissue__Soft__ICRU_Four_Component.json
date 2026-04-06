@@ -1,0 +1,80 @@
+{
+  "name": "Tissue, Soft (ICRU Four Component)",
+  "density": 1.0,
+  "molecular_weight": 6.285789881548907,
+  "total_atom_density": 0.09580563260119761,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10114877857849729,
+      "atom_frac": 0.63086344236,
+      "atom_density": 0.06044027118026896
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3249022712186868e-05,
+      "atom_frac": 7.255764000000001e-05,
+      "atom_density": 6.95143060024996e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.10971492846497467,
+      "atom_frac": 0.0574704156,
+      "atom_density": 0.005505989522411736
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0012858658443288952,
+      "atom_frac": 0.0006215843999999999,
+      "atom_density": 5.955128665703585e-05
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.02589859647103595,
+      "atom_frac": 0.01162552848,
+      "atom_density": 0.0011137911103496392
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00010135200779540969,
+      "atom_frac": 4.2471519999999996e-05,
+      "atom_density": 4.069010841134416e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.759762698772863,
+      "atom_frac": 0.29857669128000003,
+      "atom_density": 0.028605328788052883
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00030758347419259713,
+      "atom_frac": 0.00011373552000000002,
+      "atom_density": 1.0896503442826165e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.001756947363600094,
+      "atom_frac": 0.0006135732,
+      "atom_density": 5.878376857314114e-05
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Uranium, HEU, Health Physics Society",
+  "density": 18.724868,
+  "molecular_weight": 235.20075722416033,
+  "total_atom_density": 0.04794363425494803,
+  "nuclides": [
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.010529818718533734,
+      "atom_frac": 0.010582,
+      "atom_density": 0.00050733953768586
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.9317403119504549,
+      "atom_frac": 0.932362,
+      "atom_density": 0.044700822721211855
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.002060374094812271,
+      "atom_frac": 0.002053,
+      "atom_density": 9.842828112540831e-05
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.05566949523619908,
+      "atom_frac": 0.055003,
+      "atom_density": 0.0026370437149249065
+    }
+  ]
+}

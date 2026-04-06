@@ -1,0 +1,32 @@
+{
+  "name": "Boron Fluoride (B2F4)",
+  "density": 0.004058,
+  "molecular_weight": 16.26928079500643,
+  "total_atom_density": 0.00015020852803512228,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.040824841779425795,
+      "atom_frac": 0.066333267,
+      "atom_density": 9.963822395830752e-06
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.18067679677270942,
+      "atom_frac": 0.266999733,
+      "atom_density": 4.0105636879700666e-05
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.7784983614478648,
+      "atom_frac": 0.666667,
+      "atom_density": 0.00010013906875959087
+    }
+  ]
+}

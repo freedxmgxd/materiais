@@ -1,0 +1,112 @@
+{
+  "name": "Calcium Sulfate",
+  "density": 2.96,
+  "molecular_weight": 22.689980341980966,
+  "total_atom_density": 0.07856126969232856,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.46882127379697625,
+      "atom_frac": 0.66505797246,
+      "atom_density": 0.05224779873546328
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00018979830992332382,
+      "atom_frac": 0.00025333764,
+      "atom_density": 1.9902526659258044e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00108414680311054,
+      "atom_frac": 0.0013666899,
+      "atom_density": 0.00010736889381968155
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.2230510236478463,
+      "atom_frac": 0.15829513559999997,
+      "atom_density": 0.012435866838855317
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.0018161636928136172,
+      "atom_frac": 0.00124983,
+      "atom_density": 9.8188231699563e-05
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.010602609550859253,
+      "atom_frac": 0.00708237,
+      "atom_density": 0.0005563999796308571
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 2.6415616516635392e-05,
+      "atom_frac": 1.66644e-05,
+      "atom_density": 1.30917642266084e-06
+    },
+    {
+      "Z": 20,
+      "A": 40,
+      "element": "Ca",
+      "weight_frac": 0.2845806015192971,
+      "atom_frac": 0.16157931998,
+      "atom_density": 0.012693876533651833
+    },
+    {
+      "Z": 20,
+      "A": 42,
+      "element": "Ca",
+      "weight_frac": 0.001994204145458328,
+      "atom_frac": 0.00107840666,
+      "atom_density": 8.472099645426327e-05
+    },
+    {
+      "Z": 20,
+      "A": 43,
+      "element": "Ca",
+      "weight_frac": 0.000426019747886952,
+      "atom_frac": 0.0002250153,
+      "atom_density": 1.767748766820022e-05
+    },
+    {
+      "Z": 20,
+      "A": 44,
+      "element": "Ca",
+      "weight_frac": 0.006735525843062244,
+      "atom_frac": 0.00347690308,
+      "atom_density": 0.00027314992056196784
+    },
+    {
+      "Z": 20,
+      "A": 46,
+      "element": "Ca",
+      "weight_frac": 1.3502821328800699e-05,
+      "atom_frac": 6.667120000000001e-06,
+      "atom_density": 5.237774123911177e-07
+    },
+    {
+      "Z": 20,
+      "A": 48,
+      "element": "Ca",
+      "weight_frac": 0.0006587145049206282,
+      "atom_frac": 0.00031168786,
+      "atom_density": 2.4486594029284745e-05
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Nylon, Dupont ELVAmide 8062",
+  "density": 1.08,
+  "molecular_weight": 5.778002952857955,
+  "total_atom_density": 0.11256332116588813,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10348511736336702,
+      "atom_frac": 0.593294763255,
+      "atom_density": 0.06678322898231212
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3786029626517977e-05,
+      "atom_frac": 6.823674499999999e-05,
+      "atom_density": 7.68095464274981e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.6409058120277215,
+      "atom_frac": 0.3085963062,
+      "atom_density": 0.03473662512539735
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.007511456322750222,
+      "atom_frac": 0.0033376938,
+      "atom_density": 0.0003757018991627936
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.09914729124452762,
+      "atom_frac": 0.0409105416,
+      "atom_density": 0.004605026433191228
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0003880046954029847,
+      "atom_frac": 0.0001494584,
+      "atom_density": 1.6823533880139775e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.14813599697965543,
+      "atom_frac": 0.053512647510000004,
+      "atom_density": 0.0060235613281050945
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 5.997159991873762e-05,
+      "atom_frac": 2.0384340000000003e-05,
+      "atom_density": 2.2945290101746605e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00034256373703006187,
+      "atom_frac": 0.00010996815000000001,
+      "atom_density": 1.2378380186468562e-05
+    }
+  ]
+}

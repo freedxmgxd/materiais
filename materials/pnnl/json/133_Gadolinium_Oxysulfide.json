@@ -1,0 +1,120 @@
+{
+  "name": "Gadolinium Oxysulfide",
+  "density": 7.44,
+  "molecular_weight": 75.71488071848037,
+  "total_atom_density": 0.059175589830209076,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.08429796365907688,
+      "atom_frac": 0.39903997084,
+      "atom_density": 0.02361342564028643
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 3.412731445160319e-05,
+      "atom_frac": 0.00015200456,
+      "atom_density": 8.994959494881406e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00019493861076213414,
+      "atom_frac": 0.0008200246,
+      "atom_density": 4.8525439380281264e-05
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.08021309863302703,
+      "atom_frac": 0.18995720239999997,
+      "atom_density": 0.011240829494516406
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.0006531246306019267,
+      "atom_frac": 0.0014998199999999998,
+      "atom_density": 8.875273313914417e-05
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0038128861807568727,
+      "atom_frac": 0.00849898,
+      "atom_density": 0.0005029321544551503
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 9.499523554961957e-06,
+      "atom_frac": 1.99976e-05,
+      "atom_density": 1.183369775188589e-06
+    },
+    {
+      "Z": 64,
+      "A": 152,
+      "element": "Gd",
+      "weight_frac": 0.001605225863833353,
+      "atom_frac": 0.000800024,
+      "atom_density": 4.7341892078323185e-05
+    },
+    {
+      "Z": 64,
+      "A": 154,
+      "element": "Gd",
+      "weight_frac": 0.017727430398051733,
+      "atom_frac": 0.0087202616,
+      "atom_density": 0.0005160266236537227
+    },
+    {
+      "Z": 64,
+      "A": 155,
+      "element": "Gd",
+      "weight_frac": 0.12113463976211905,
+      "atom_frac": 0.05920177599999999,
+      "atom_density": 0.0035033000137959154
+    },
+    {
+      "Z": 64,
+      "A": 156,
+      "element": "Gd",
+      "weight_frac": 0.1686232204316186,
+      "atom_frac": 0.0818824564,
+      "atom_density": 0.004845442654216378
+    },
+    {
+      "Z": 64,
+      "A": 157,
+      "element": "Gd",
+      "weight_frac": 0.12974642462264965,
+      "atom_frac": 0.062601878,
+      "atom_density": 0.003704503055128789
+    },
+    {
+      "Z": 64,
+      "A": 158,
+      "element": "Gd",
+      "weight_frac": 0.20724869774763618,
+      "atom_frac": 0.0993629808,
+      "atom_density": 0.00587986299612774
+    },
+    {
+      "Z": 64,
+      "A": 160,
+      "element": "Gd",
+      "weight_frac": 0.18469872262186002,
+      "atom_frac": 0.08744262319999999,
+      "atom_density": 0.005174468804160723
+    }
+  ]
+}

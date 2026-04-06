@@ -1,0 +1,88 @@
+{
+  "name": "Tin",
+  "density": 7.31,
+  "molecular_weight": 118.7101131719309,
+  "total_atom_density": 0.037083486637606036,
+  "nuclides": [
+    {
+      "Z": 50,
+      "A": 112,
+      "element": "Sn",
+      "weight_frac": 0.00914392862131027,
+      "atom_frac": 0.0097,
+      "atom_density": 0.00035970982038477855
+    },
+    {
+      "Z": 50,
+      "A": 114,
+      "element": "Sn",
+      "weight_frac": 0.006332723714694881,
+      "atom_frac": 0.0066,
+      "atom_density": 0.00024475101180819985
+    },
+    {
+      "Z": 50,
+      "A": 115,
+      "element": "Sn",
+      "weight_frac": 0.0032909695856930122,
+      "atom_frac": 0.0034,
+      "atom_density": 0.00012608385456786052
+    },
+    {
+      "Z": 50,
+      "A": 116,
+      "element": "Sn",
+      "weight_frac": 0.1419602168380351,
+      "atom_frac": 0.1454,
+      "atom_density": 0.005391938957107918
+    },
+    {
+      "Z": 50,
+      "A": 117,
+      "element": "Sn",
+      "weight_frac": 0.07563085090283352,
+      "atom_frac": 0.0768,
+      "atom_density": 0.0028480117737681434
+    },
+    {
+      "Z": 50,
+      "A": 118,
+      "element": "Sn",
+      "weight_frac": 0.24055043300673085,
+      "atom_frac": 0.2422,
+      "atom_density": 0.008981620463628182
+    },
+    {
+      "Z": 50,
+      "A": 119,
+      "element": "Sn",
+      "weight_frac": 0.08603980035767046,
+      "atom_frac": 0.0859,
+      "atom_density": 0.0031854715021703587
+    },
+    {
+      "Z": 50,
+      "A": 120,
+      "element": "Sn",
+      "weight_frac": 0.3290716902652852,
+      "atom_frac": 0.3258,
+      "atom_density": 0.012081799946532046
+    },
+    {
+      "Z": 50,
+      "A": 122,
+      "element": "Sn",
+      "weight_frac": 0.047545481809099635,
+      "atom_frac": 0.0463,
+      "atom_density": 0.0017169654313211595
+    },
+    {
+      "Z": 50,
+      "A": 124,
+      "element": "Sn",
+      "weight_frac": 0.06043390489864705,
+      "atom_frac": 0.0579,
+      "atom_density": 0.0021471338763173896
+    }
+  ]
+}

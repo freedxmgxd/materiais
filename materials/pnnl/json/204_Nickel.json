@@ -1,0 +1,48 @@
+{
+  "name": "Nickel",
+  "density": 8.902,
+  "molecular_weight": 58.693346359162625,
+  "total_atom_density": 0.09133760531810446,
+  "nuclides": [
+    {
+      "Z": 28,
+      "A": 58,
+      "element": "Ni",
+      "weight_frac": 0.671978085790527,
+      "atom_frac": 0.68077,
+      "atom_density": 0.06217990157240597
+    },
+    {
+      "Z": 28,
+      "A": 60,
+      "element": "Ni",
+      "weight_frac": 0.26775862613470325,
+      "atom_frac": 0.26223,
+      "atom_density": 0.023951460242566534
+    },
+    {
+      "Z": 28,
+      "A": 61,
+      "element": "Ni",
+      "weight_frac": 0.011833591658441098,
+      "atom_frac": 0.011399,
+      "atom_density": 0.0010411573630210726
+    },
+    {
+      "Z": 28,
+      "A": 62,
+      "element": "Ni",
+      "weight_frac": 0.038349280762063044,
+      "atom_frac": 0.036346,
+      "atom_density": 0.003319756602891825
+    },
+    {
+      "Z": 28,
+      "A": 64,
+      "element": "Ni",
+      "weight_frac": 0.010080415654265672,
+      "atom_frac": 0.009255,
+      "atom_density": 0.0008453295372190567
+    }
+  ]
+}

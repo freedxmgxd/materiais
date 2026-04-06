@@ -1,0 +1,56 @@
+{
+  "name": "Silicon Dioxide (Silica)",
+  "density": 2.32,
+  "molecular_weight": 20.028098822473147,
+  "total_atom_density": 0.06975882577293355,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5311223029268827,
+      "atom_frac": 0.66504699919,
+      "atom_density": 0.04639289774730749
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00021502035230116324,
+      "atom_frac": 0.00025333346,
+      "atom_density": 1.7672244698594432e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0012282176150313624,
+      "atom_frac": 0.0013666673500000001,
+      "atom_density": 9.53371095582068e-05
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.42941561562042757,
+      "atom_frac": 0.30740969259,
+      "atom_density": 0.021444539186296872
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.02259404698549946,
+      "atom_frac": 0.015616651050000001,
+      "atom_density": 0.0010893992397536499
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.015424796499857759,
+      "atom_frac": 0.01030665636,
+      "atom_density": 0.0007189802453187375
+    }
+  ]
+}

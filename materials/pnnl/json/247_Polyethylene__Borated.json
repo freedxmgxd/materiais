@@ -1,0 +1,56 @@
+{
+  "name": "Polyethylene, Borated",
+  "density": 1.0,
+  "molecular_weight": 5.047624816060869,
+  "total_atom_density": 0.1193064258824933,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.1253258448204465,
+      "atom_frac": 0.62768618002882,
+      "atom_density": 0.07488699471507376
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.8806115640767376e-05,
+      "atom_frac": 7.21922128077872e-05,
+      "atom_density": 8.612994886645447e-06
+    },
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.01843108605577075,
+      "atom_frac": 0.009291300708699293,
+      "atom_density": 0.0011085118793543896
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.0815696875836281,
+      "atom_frac": 0.03739865260134741,
+      "atom_density": 0.00446189957468777
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.765670864855764,
+      "atom_frac": 0.3220682715317285,
+      "atom_density": 0.038424814366602895
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.008973710568749991,
+      "atom_frac": 0.003483402916597084,
+      "atom_density": 0.00041559235188785094
+    }
+  ]
+}

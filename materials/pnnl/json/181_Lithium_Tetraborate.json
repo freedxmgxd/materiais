@@ -1,0 +1,64 @@
+{
+  "name": "Lithium Tetraborate",
+  "density": 2.44,
+  "molecular_weight": 13.00928851584711,
+  "total_atom_density": 0.11295024656037607,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.00539924529078503,
+      "atom_frac": 0.0116772909,
+      "atom_density": 0.0013189528863122358
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.07667531011338553,
+      "atom_frac": 0.14217370910000002,
+      "atom_density": 0.016058555497248186
+    },
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.047124894920924365,
+      "atom_frac": 0.06122692700000001,
+      "atom_density": 0.006915596500784147
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.2085586787712688,
+      "atom_frac": 0.24644607300000004,
+      "atom_density": 0.027836144709186446
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.6604472136487928,
+      "atom_frac": 0.5371675033200001,
+      "atom_density": 0.06067320194421564
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0002673764437541139,
+      "atom_frac": 0.00020462088000000004,
+      "atom_density": 2.311197884740113e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0015272808110893806,
+      "atom_frac": 0.0011038758000000003,
+      "atom_density": 0.00012468304378203241
+    }
+  ]
+}

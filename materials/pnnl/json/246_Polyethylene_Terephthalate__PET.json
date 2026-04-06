@@ -1,0 +1,64 @@
+{
+  "name": "Polyethylene Terephthalate (PET)",
+  "density": 1.38,
+  "molecular_weight": 8.734971341155521,
+  "total_atom_density": 0.09514117361374906,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.041950370846434756,
+      "atom_frac": 0.36359018232,
+      "atom_density": 0.0345923966603618
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 9.642282767028475e-06,
+      "atom_frac": 4.181768e-05,
+      "atom_density": 3.978583153004202e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.6177764428115624,
+      "atom_frac": 0.4496882936,
+      "atom_density": 0.042783872013468165
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.007240378664567855,
+      "atom_frac": 0.0048637064,
+      "atom_density": 0.0004627387350087024
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.33212068177642284,
+      "atom_frac": 0.18137418712,
+      "atom_density": 0.01725615302583653
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00013445623655518015,
+      "atom_frac": 6.909008000000001e-05,
+      "atom_density": 6.573311296267813e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0007680273816898709,
+      "atom_frac": 0.00037272280000000003,
+      "atom_density": 3.546128462460267e-05
+    }
+  ]
+}

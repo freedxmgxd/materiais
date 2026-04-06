@@ -1,0 +1,24 @@
+{
+  "name": "Silver",
+  "density": 10.5,
+  "molecular_weight": 107.86814981759309,
+  "total_atom_density": 0.058620156261998756,
+  "nuclides": [
+    {
+      "Z": 47,
+      "A": 107,
+      "element": "Ag",
+      "weight_frac": 0.5137617589720803,
+      "atom_frac": 0.51839,
+      "atom_density": 0.030388102804657535
+    },
+    {
+      "Z": 47,
+      "A": 109,
+      "element": "Ag",
+      "weight_frac": 0.4862382410279197,
+      "atom_frac": 0.48161,
+      "atom_density": 0.02823205345734122
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "substitutions": [
+    {
+      "from": "O-18",
+      "to": "O-16",
+      "reason": "No XS for O-18"
+    },
+    {
+      "from": "C-13",
+      "to": "C-12",
+      "reason": "No XS for C-13"
+    },
+    {
+      "from": "Fe-54",
+      "to": "Fe-56",
+      "reason": "Limited XS data"
+    }
+  ]
+}

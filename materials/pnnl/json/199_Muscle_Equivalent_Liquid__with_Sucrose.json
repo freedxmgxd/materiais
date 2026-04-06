@@ -1,0 +1,80 @@
+{
+  "name": "Muscle Equivalent-Liquid, with Sucrose",
+  "density": 1.11,
+  "molecular_weight": 6.3540376499007785,
+  "total_atom_density": 0.10520202447501052,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.09821140981902998,
+      "atom_frac": 0.619193784525,
+      "atom_density": 0.06514043967437344
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.2573869201065367e-05,
+      "atom_frac": 7.1215475e-05,
+      "atom_density": 7.4920121439495e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.15440461974840836,
+      "atom_frac": 0.0817577306,
+      "atom_density": 0.008601078775602516
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0018096318296780556,
+      "atom_frac": 0.0008842693999999998,
+      "atom_density": 9.302693106130286e-05
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.0353126200743107,
+      "atom_frac": 0.01602346152,
+      "atom_density": 0.0016857005910014293
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00013819300783540558,
+      "atom_frac": 5.8538479999999994e-05,
+      "atom_density": 6.1583666056899135e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.708176597604255,
+      "atom_frac": 0.28132571327,
+      "atom_density": 0.029596034572880334
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.000286699279373453,
+      "atom_frac": 0.00010716418,
+      "atom_density": 1.1273888687204433e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0016376547679080688,
+      "atom_frac": 0.0005781225500000001,
+      "atom_density": 6.081966265465551e-05
+    }
+  ]
+}

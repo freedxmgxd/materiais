@@ -1,0 +1,48 @@
+{
+  "name": "Cerium Fluoride",
+  "density": 6.16,
+  "molecular_weight": 49.27773623195775,
+  "total_atom_density": 0.07528021763617894,
+  "nuclides": [
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.28915294128937324,
+      "atom_frac": 0.75,
+      "atom_density": 0.05646016322713421
+    },
+    {
+      "Z": 58,
+      "A": 136,
+      "element": "Ce",
+      "weight_frac": 0.0012755668601540941,
+      "atom_frac": 0.0004625,
+      "atom_density": 3.481710065673276e-05
+    },
+    {
+      "Z": 58,
+      "A": 138,
+      "element": "Ce",
+      "weight_frac": 0.0017560873929072535,
+      "atom_frac": 0.0006275,
+      "atom_density": 4.723833656670229e-05
+    },
+    {
+      "Z": 58,
+      "A": 140,
+      "element": "Ce",
+      "weight_frac": 0.6278005982077567,
+      "atom_frac": 0.221125,
+      "atom_density": 0.016646338124800066
+    },
+    {
+      "Z": 58,
+      "A": 142,
+      "element": "Ce",
+      "weight_frac": 0.08001480624980875,
+      "atom_frac": 0.027785,
+      "atom_density": 0.0020916608470212318
+    }
+  ]
+}

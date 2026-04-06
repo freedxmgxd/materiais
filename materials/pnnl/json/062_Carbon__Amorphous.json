@@ -1,0 +1,40 @@
+{
+  "name": "Carbon, Amorphous",
+  "density": 2.0,
+  "molecular_weight": 12.010734697030113,
+  "total_atom_density": 0.10027930700174555,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 1.6589946292217266e-07,
+      "atom_frac": 1.99e-07,
+      "atom_density": 1.9955582093347364e-08
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 7.342143224715915e-07,
+      "atom_frac": 8.01e-07,
+      "atom_density": 8.032372490839818e-08
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9884148162339711,
+      "atom_frac": 0.9892990106999999,
+      "atom_density": 0.09920621921050844
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.011584283652243628,
+      "atom_frac": 0.010699989299999999,
+      "atom_density": 0.0010729875119300924
+    }
+  ]
+}

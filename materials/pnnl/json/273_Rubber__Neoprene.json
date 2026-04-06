@@ -1,0 +1,56 @@
+{
+  "name": "Rubber, Neoprene",
+  "density": 1.23,
+  "molecular_weight": 8.85374697815294,
+  "total_atom_density": 0.08366212805807209,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.05690691767179867,
+      "atom_frac": 0.499927501725,
+      "atom_density": 0.041824998669069004
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.308004149951695e-05,
+      "atom_frac": 5.7498275e-05,
+      "atom_density": 4.810428046168245e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.536361182911361,
+      "atom_frac": 0.39573385019999996,
+      "atom_density": 0.03310793605234631
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.006286186711134194,
+      "atom_frac": 0.0042801498,
+      "atom_density": 0.00035808644067533165
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.2992254893930715,
+      "atom_frac": 0.0757607576,
+      "atom_density": 0.006338306204107759
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.10120714327113507,
+      "atom_frac": 0.0242402424,
+      "atom_density": 0.002027990263827509
+    }
+  ]
+}

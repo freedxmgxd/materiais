@@ -1,0 +1,16 @@
+{
+  "name": "Beryllium",
+  "density": 1.848,
+  "molecular_weight": 9.012183062,
+  "total_atom_density": 0.12348746189372511,
+  "nuclides": [
+    {
+      "Z": 4,
+      "A": 9,
+      "element": "Be",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 0.12348746189372511
+    }
+  ]
+}

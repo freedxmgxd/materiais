@@ -1,0 +1,64 @@
+{
+  "name": "Mercury",
+  "density": 13.546,
+  "molecular_weight": 200.5991673271867,
+  "total_atom_density": 0.04066613028453195,
+  "nuclides": [
+    {
+      "Z": 80,
+      "A": 196,
+      "element": "Hg",
+      "weight_frac": 0.001465353790268011,
+      "atom_frac": 0.0015,
+      "atom_density": 6.099919542679792e-05
+    },
+    {
+      "Z": 80,
+      "A": 198,
+      "element": "Hg",
+      "weight_frac": 0.09839166906787034,
+      "atom_frac": 0.0997,
+      "atom_density": 0.004054413189367835
+    },
+    {
+      "Z": 80,
+      "A": 199,
+      "element": "Hg",
+      "weight_frac": 0.16732845629882476,
+      "atom_frac": 0.1687,
+      "atom_density": 0.006860376179000539
+    },
+    {
+      "Z": 80,
+      "A": 200,
+      "element": "Hg",
+      "weight_frac": 0.23027355566251456,
+      "atom_frac": 0.231,
+      "atom_density": 0.00939387609572688
+    },
+    {
+      "Z": 80,
+      "A": 201,
+      "element": "Hg",
+      "weight_frac": 0.13204384791545126,
+      "atom_frac": 0.1318,
+      "atom_density": 0.0053597959715013105
+    },
+    {
+      "Z": 80,
+      "A": 202,
+      "element": "Hg",
+      "weight_frac": 0.3006414980865224,
+      "atom_frac": 0.2986,
+      "atom_density": 0.012142906502961239
+    },
+    {
+      "Z": 80,
+      "A": 204,
+      "element": "Hg",
+      "weight_frac": 0.06985561917854857,
+      "atom_frac": 0.0687,
+      "atom_density": 0.002793763150547345
+    }
+  ]
+}

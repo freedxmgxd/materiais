@@ -1,0 +1,40 @@
+{
+  "name": "Benzene",
+  "density": 0.8765,
+  "molecular_weight": 6.509525372748392,
+  "total_atom_density": 0.08108742302837663,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.07740002628512621,
+      "atom_frac": 0.499925501955,
+      "atom_density": 0.04053767065969861
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.7790377642872507e-05,
+      "atom_frac": 5.7498045e-05,
+      "atom_density": 4.662368298219635e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9118947200130132,
+      "atom_frac": 0.4946668181,
+      "atom_density": 0.04011125753737573
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.010687463324217788,
+      "atom_frac": 0.005350181900000001,
+      "atom_density": 0.00043383246300406384
+    }
+  ]
+}

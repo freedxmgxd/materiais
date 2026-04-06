@@ -1,0 +1,80 @@
+{
+  "name": "Xenon",
+  "density": 0.005485,
+  "molecular_weight": 131.29276127759823,
+  "total_atom_density": 2.5158616322159702e-05,
+  "nuclides": [
+    {
+      "Z": 54,
+      "A": 124,
+      "element": "Xe",
+      "weight_frac": 0.0008984379758472992,
+      "atom_frac": 0.000952,
+      "atom_density": 2.3951002738696038e-08
+    },
+    {
+      "Z": 54,
+      "A": 126,
+      "element": "Xe",
+      "weight_frac": 0.000853472983698297,
+      "atom_frac": 0.00089,
+      "atom_density": 2.2391168526722133e-08
+    },
+    {
+      "Z": 54,
+      "A": 128,
+      "element": "Xe",
+      "weight_frac": 0.01860889527097264,
+      "atom_frac": 0.019102,
+      "atom_density": 4.805798889858947e-07
+    },
+    {
+      "Z": 54,
+      "A": 129,
+      "element": "Xe",
+      "weight_frac": 0.25920420321642407,
+      "atom_frac": 0.264006,
+      "atom_density": 6.642025660748095e-06
+    },
+    {
+      "Z": 54,
+      "A": 130,
+      "element": "Xe",
+      "weight_frac": 0.040279234087355474,
+      "atom_frac": 0.04071,
+      "atom_density": 1.0242072704751215e-06
+    },
+    {
+      "Z": 54,
+      "A": 131,
+      "element": "Xe",
+      "weight_frac": 0.21169705634908334,
+      "atom_frac": 0.212324,
+      "atom_density": 5.341778051986237e-06
+    },
+    {
+      "Z": 54,
+      "A": 132,
+      "element": "Xe",
+      "weight_frac": 0.2703390585238913,
+      "atom_frac": 0.269086,
+      "atom_density": 6.769831431664665e-06
+    },
+    {
+      "Z": 54,
+      "A": 134,
+      "element": "Xe",
+      "weight_frac": 0.10643362942825099,
+      "atom_frac": 0.104357,
+      "atom_density": 2.62547772353162e-06
+    },
+    {
+      "Z": 54,
+      "A": 136,
+      "element": "Xe",
+      "weight_frac": 0.09168601216447667,
+      "atom_frac": 0.088573,
+      "atom_density": 2.2283741235026513e-06
+    }
+  ]
+}

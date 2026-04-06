@@ -1,0 +1,56 @@
+{
+  "name": "Sodium Nitrate",
+  "density": 2.261,
+  "molecular_weight": 16.998937453047255,
+  "total_atom_density": 0.08009947854663801,
+  "nuclides": [
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.1641526460511031,
+      "atom_frac": 0.199272,
+      "atom_density": 0.01596158328894565
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0006423977562187577,
+      "atom_frac": 0.000728,
+      "atom_density": 5.8312420381952474e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.563189800096884,
+      "atom_frac": 0.5985419999999999,
+      "atom_density": 0.0479429020882618
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00022800260610770224,
+      "atom_frac": 0.000228,
+      "atom_density": 1.8262681108633468e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.001302373538586292,
+      "atom_frac": 0.00123,
+      "atom_density": 9.852235861236476e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.2704847799511001,
+      "atom_frac": 0.2,
+      "atom_density": 0.016019895709327603
+    }
+  ]
+}

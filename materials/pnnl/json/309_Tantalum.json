@@ -1,0 +1,24 @@
+{
+  "name": "Tantalum",
+  "density": 16.654,
+  "molecular_weight": 180.94787836423424,
+  "total_atom_density": 0.05542631011962373,
+  "nuclides": [
+    {
+      "Z": 73,
+      "A": 180,
+      "element": "Ta",
+      "weight_frac": 0.00011943600031571646,
+      "atom_frac": 0.0001201,
+      "atom_density": 6.65669984536681e-06
+    },
+    {
+      "Z": 73,
+      "A": 181,
+      "element": "Ta",
+      "weight_frac": 0.9998805639996843,
+      "atom_frac": 0.9998799,
+      "atom_density": 0.055419653419778364
+    }
+  ]
+}

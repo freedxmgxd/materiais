@@ -1,0 +1,64 @@
+{
+  "name": "Ferric Oxide",
+  "density": 5.2,
+  "molecular_weight": 31.93805902132005,
+  "total_atom_density": 0.09804957756229263,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.2997516090513706,
+      "atom_frac": 0.59853302187,
+      "atom_density": 0.05868590995143596
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00012135189244715112,
+      "atom_frac": 0.00022799658000000004,
+      "atom_density": 2.235496835464746e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0006931740662029228,
+      "atom_frac": 0.0012299815500000002,
+      "atom_density": 0.00012059917138691393
+    },
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 0.03948694607733814,
+      "atom_frac": 0.02338052605,
+      "atom_density": 0.002292450702386678
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 0.6427904147277718,
+      "atom_frac": 0.36702425786000004,
+      "atom_density": 0.03598657343828696
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 0.01511034969265494,
+      "atom_frac": 0.00847619071,
+      "atom_density": 0.0008310869184529291
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 0.002046154492214421,
+      "atom_frac": 0.00112802538,
+      "atom_density": 0.00011060241198854461
+    }
+  ]
+}

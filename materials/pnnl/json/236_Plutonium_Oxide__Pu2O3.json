@@ -1,0 +1,80 @@
+{
+  "name": "Plutonium Oxide (Pu2O3)",
+  "density": 10.5,
+  "molecular_weight": 105.24816306616904,
+  "total_atom_density": 0.060079412445655726,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.0909623344818248,
+      "atom_frac": 0.5985414014585986,
+      "atom_density": 0.03596001572403195
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 3.6825328363419884e-05,
+      "atom_frac": 0.00022799977200022804,
+      "atom_density": 1.3698092339517168e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.000210349934279322,
+      "atom_frac": 0.0012299987700012303,
+      "atom_density": 7.389760341055315e-05
+    },
+    {
+      "Z": 94,
+      "A": 238,
+      "element": "Pu",
+      "weight_frac": 0.00045461993778627655,
+      "atom_frac": 0.00020099979900020103,
+      "atom_density": 1.2075949825626978e-05
+    },
+    {
+      "Z": 94,
+      "A": 239,
+      "element": "Pu",
+      "weight_frac": 0.8497177911114203,
+      "atom_frac": 0.3741076258923741,
+      "atom_density": 0.022476166355053017
+    },
+    {
+      "Z": 94,
+      "A": 240,
+      "element": "Pu",
+      "weight_frac": 0.05452789456001606,
+      "atom_frac": 0.02390697609302391,
+      "atom_density": 0.0014363170770212146
+    },
+    {
+      "Z": 94,
+      "A": 241,
+      "element": "Pu",
+      "weight_frac": 0.0036348077410033987,
+      "atom_frac": 0.0015869984130015872,
+      "atom_density": 9.534593220532345e-05
+    },
+    {
+      "Z": 94,
+      "A": 242,
+      "element": "Pu",
+      "weight_frac": 0.00045537690530643617,
+      "atom_frac": 0.000197999802000198,
+      "atom_density": 1.1895711768528066e-05
+    },
+    {
+      "Z": 95,
+      "A": 241,
+      "element": "Am",
+      "weight_frac": 0.0,
+      "atom_frac": 0.0,
+      "atom_density": 0.0
+    }
+  ]
+}

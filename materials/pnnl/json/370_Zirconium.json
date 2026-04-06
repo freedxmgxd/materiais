@@ -1,0 +1,48 @@
+{
+  "name": "Zirconium",
+  "density": 6.506,
+  "molecular_weight": 91.2236427902899,
+  "total_atom_density": 0.04294944444898931,
+  "nuclides": [
+    {
+      "Z": 40,
+      "A": 90,
+      "element": "Zr",
+      "weight_frac": 0.5070611750923315,
+      "atom_frac": 0.5145,
+      "atom_density": 0.022097489169004995
+    },
+    {
+      "Z": 40,
+      "A": 91,
+      "element": "Zr",
+      "weight_frac": 0.11180887453100782,
+      "atom_frac": 0.1122,
+      "atom_density": 0.0048189276671766
+    },
+    {
+      "Z": 40,
+      "A": 92,
+      "element": "Zr",
+      "weight_frac": 0.17278101463628157,
+      "atom_frac": 0.1715,
+      "atom_density": 0.007365829723001667
+    },
+    {
+      "Z": 40,
+      "A": 94,
+      "element": "Zr",
+      "weight_frac": 0.17891104342343414,
+      "atom_frac": 0.1738,
+      "atom_density": 0.007464613445234342
+    },
+    {
+      "Z": 40,
+      "A": 96,
+      "element": "Zr",
+      "weight_frac": 0.029437892316944887,
+      "atom_frac": 0.028,
+      "atom_density": 0.0012025844445717007
+    }
+  ]
+}

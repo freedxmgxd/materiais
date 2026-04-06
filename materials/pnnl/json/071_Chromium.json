@@ -1,0 +1,40 @@
+{
+  "name": "Chromium",
+  "density": 7.18,
+  "molecular_weight": 51.9961302836779,
+  "total_atom_density": 0.08315805507236591,
+  "nuclides": [
+    {
+      "Z": 24,
+      "A": 50,
+      "element": "Cr",
+      "weight_frac": 0.041736866227183124,
+      "atom_frac": 0.04345,
+      "atom_density": 0.0036132174928942993
+    },
+    {
+      "Z": 24,
+      "A": 52,
+      "element": "Cr",
+      "weight_frac": 0.836993623513459,
+      "atom_frac": 0.83789,
+      "atom_density": 0.06967730276458468
+    },
+    {
+      "Z": 24,
+      "A": 53,
+      "element": "Cr",
+      "weight_frac": 0.09673586818675181,
+      "atom_frac": 0.09501,
+      "atom_density": 0.007900846812425486
+    },
+    {
+      "Z": 24,
+      "A": 54,
+      "element": "Cr",
+      "weight_frac": 0.024533642072606134,
+      "atom_frac": 0.02365,
+      "atom_density": 0.001966688002461454
+    }
+  ]
+}

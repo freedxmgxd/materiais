@@ -1,0 +1,64 @@
+{
+  "name": "Cellulose Acetate",
+  "density": 1.42,
+  "molecular_weight": 7.721126037718422,
+  "total_atom_density": 0.11075379209490191,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.062147661420331915,
+      "atom_frac": 0.47612423941500004,
+      "atom_density": 0.052732565023512215
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.428462520433988e-05,
+      "atom_frac": 5.4760585000000005e-05,
+      "atom_density": 6.064942446085205e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.43931429455104826,
+      "atom_frac": 0.28266675319999995,
+      "atom_density": 0.03130641481605374
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.005148791091532953,
+      "atom_frac": 0.0030572467999999994,
+      "atom_density": 0.0003386016764700041
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.4920379357182911,
+      "atom_frac": 0.23751842429,
+      "atom_density": 0.02630606618252336
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0001991973782698575,
+      "atom_frac": 9.047686000000001e-05,
+      "atom_density": 1.0020655341839549e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0011378352153215258,
+      "atom_frac": 0.00048809885000000003,
+      "atom_density": 5.4058798554660714e-05
+    }
+  ]
+}

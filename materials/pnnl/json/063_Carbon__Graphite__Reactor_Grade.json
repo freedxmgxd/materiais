@@ -1,0 +1,40 @@
+{
+  "name": "Carbon, Graphite (Reactor Grade)",
+  "density": 1.7,
+  "molecular_weight": 12.010734697030113,
+  "total_atom_density": 0.08523741095148372,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 1.6589946292217266e-07,
+      "atom_frac": 1.99e-07,
+      "atom_density": 1.6962244779345262e-08
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 7.342143224715915e-07,
+      "atom_frac": 8.01e-07,
+      "atom_density": 6.827516617213847e-08
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9884148162339711,
+      "atom_frac": 0.9892990106999999,
+      "atom_density": 0.08432528632893219
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.011584283652243628,
+      "atom_frac": 0.010699989299999999,
+      "atom_density": 0.0009120393851405786
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Plutonium Fluoride (PuF6)",
+  "density": 5.08,
+  "molecular_weight": 50.44464156493251,
+  "total_atom_density": 0.06064563868775094,
+  "nuclides": [
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.32281589267024374,
+      "atom_frac": 0.8571421428578572,
+      "atom_density": 0.051981932699802204
+    },
+    {
+      "Z": 94,
+      "A": 238,
+      "element": "Pu",
+      "weight_frac": 0.0003397695080653287,
+      "atom_frac": 7.199992800007201e-05,
+      "atom_density": 4.3664816190364495e-06
+    },
+    {
+      "Z": 94,
+      "A": 239,
+      "element": "Pu",
+      "weight_frac": 0.6331639274312468,
+      "atom_frac": 0.1336098663901336,
+      "atom_density": 0.008102855682214721
+    },
+    {
+      "Z": 94,
+      "A": 240,
+      "element": "Pu",
+      "weight_frac": 0.04063023011910001,
+      "atom_frac": 0.008537991462008539,
+      "atom_density": 0.0005177919453240723
+    },
+    {
+      "Z": 94,
+      "A": 241,
+      "element": "Pu",
+      "weight_frac": 0.0027094869312746755,
+      "atom_frac": 0.000566999433000567,
+      "atom_density": 3.4386042749912035e-05
+    },
+    {
+      "Z": 94,
+      "A": 242,
+      "element": "Pu",
+      "weight_frac": 0.0003406933400693016,
+      "atom_frac": 7.0999929000071e-05,
+      "atom_density": 4.305836040994276e-06
+    },
+    {
+      "Z": 95,
+      "A": 241,
+      "element": "Am",
+      "weight_frac": 0.0,
+      "atom_frac": 0.0,
+      "atom_density": 0.0
+    }
+  ]
+}

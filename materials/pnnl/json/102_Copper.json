@@ -1,0 +1,24 @@
+{
+  "name": "Copper",
+  "density": 8.96,
+  "molecular_weight": 63.5460394611345,
+  "total_atom_density": 0.08491226466222428,
+  "nuclides": [
+    {
+      "Z": 29,
+      "A": 63,
+      "element": "Cu",
+      "weight_frac": 0.68479195205239,
+      "atom_frac": 0.6915,
+      "atom_density": 0.058716831013928085
+    },
+    {
+      "Z": 29,
+      "A": 65,
+      "element": "Cu",
+      "weight_frac": 0.31520804794761,
+      "atom_frac": 0.3085,
+      "atom_density": 0.026195433648296188
+    }
+  ]
+}

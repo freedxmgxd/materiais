@@ -1,0 +1,48 @@
+{
+  "name": "Kynar",
+  "density": 1.79,
+  "molecular_weight": 10.67235993751064,
+  "total_atom_density": 0.10100513872768034,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.03147411125311,
+      "atom_frac": 0.333295,
+      "atom_density": 0.03366450771224222
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 7.234316989814922e-06,
+      "atom_frac": 3.8333333333333334e-05,
+      "atom_density": 3.8718636512277465e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.3707895932268406,
+      "atom_frac": 0.32976666666666665,
+      "atom_density": 0.033308127914431385
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.004345677293270147,
+      "atom_frac": 0.0035666666666666663,
+      "atom_density": 0.00036025166146205984
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.5933833839097895,
+      "atom_frac": 0.3333333333333333,
+      "atom_density": 0.03366837957589344
+    }
+  ]
+}

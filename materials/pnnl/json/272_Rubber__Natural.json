@@ -1,0 +1,40 @@
+{
+  "name": "Rubber, Natural",
+  "density": 0.92,
+  "molecular_weight": 5.239945849581395,
+  "total_atom_density": 0.10573333500464713,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.1183435833826938,
+      "atom_frac": 0.61529923245,
+      "atom_density": 0.06505763987273809
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.7201244509053605e-05,
+      "atom_frac": 7.076754999999999e-05,
+      "atom_density": 7.482489071608115e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8714161632729047,
+      "atom_frac": 0.380514459,
+      "atom_density": 0.040233062767559065
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.010213052099892456,
+      "atom_frac": 0.004115541,
+      "atom_density": 0.0004351498752783605
+    }
+  ]
+}

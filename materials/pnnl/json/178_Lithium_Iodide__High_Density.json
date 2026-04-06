@@ -1,0 +1,32 @@
+{
+  "name": "Lithium Iodide (High Density)",
+  "density": 4.08,
+  "molecular_weight": 66.92249452524939,
+  "total_atom_density": 0.036714612142154664,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.0034110055535334066,
+      "atom_frac": 0.0379498482,
+      "atom_density": 0.0013933139575166462
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.04844008644356799,
+      "atom_frac": 0.46204815180000003,
+      "atom_density": 0.0169639186843364
+    },
+    {
+      "Z": 53,
+      "A": 127,
+      "element": "I",
+      "weight_frac": 0.9481489080028987,
+      "atom_frac": 0.500002,
+      "atom_density": 0.018357379500301613
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Tungsten",
+  "density": 19.3,
+  "molecular_weight": 183.8417795990884,
+  "total_atom_density": 0.0632213835840046,
+  "nuclides": [
+    {
+      "Z": 74,
+      "A": 180,
+      "element": "W",
+      "weight_frac": 0.001174575531392815,
+      "atom_frac": 0.0012,
+      "atom_density": 7.586566030080551e-05
+    },
+    {
+      "Z": 74,
+      "A": 182,
+      "element": "W",
+      "weight_frac": 0.26227049476287323,
+      "atom_frac": 0.265,
+      "atom_density": 0.01675366664976122
+    },
+    {
+      "Z": 74,
+      "A": 183,
+      "element": "W",
+      "weight_frac": 0.14240602528446925,
+      "atom_frac": 0.1431,
+      "atom_density": 0.009046979990871059
+    },
+    {
+      "Z": 74,
+      "A": 184,
+      "element": "W",
+      "weight_frac": 0.306581920873831,
+      "atom_frac": 0.3064,
+      "atom_density": 0.01937103193013901
+    },
+    {
+      "Z": 74,
+      "A": 186,
+      "element": "W",
+      "weight_frac": 0.28756698354743376,
+      "atom_frac": 0.2843,
+      "atom_density": 0.017973839352932508
+    }
+  ]
+}

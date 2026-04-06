@@ -1,0 +1,112 @@
+{
+  "name": "Photographic Emulsion, Kodak Type AA",
+  "density": 2.2,
+  "molecular_weight": 14.550491172915201,
+  "total_atom_density": 0.09105335012100221,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.030492941550322564,
+      "atom_frac": 0.440242366305,
+      "atom_density": 0.04008554231726767
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 7.008795366863125e-06,
+      "atom_frac": 5.0633695e-05,
+      "atom_density": 4.6103675587550394e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.2082591817959147,
+      "atom_frac": 0.25252278219999996,
+      "atom_density": 0.022993045301186184
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0024408106753197128,
+      "atom_frac": 0.0027312177999999996,
+      "atom_density": 0.00024868653060011335
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.07181878166947962,
+      "atom_frac": 0.07462636764,
+      "atom_density": 0.0067949807809835495
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0002810568413528691,
+      "atom_frac": 0.00027263236,
+      "atom_density": 2.482408972939512e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.1627571512290446,
+      "atom_frac": 0.1480593394,
+      "atom_density": 0.013481298869072497
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 6.589085000563541e-05,
+      "atom_frac": 5.63996e-05,
+      "atom_density": 5.135372525484477e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0003763750816153459,
+      "atom_frac": 0.000304261,
+      "atom_density": 2.7703983361166254e-05
+    },
+    {
+      "Z": 35,
+      "A": 79,
+      "element": "Br",
+      "weight_frac": 0.11154471095192245,
+      "atom_frac": 0.0205659468,
+      "atom_density": 0.001872598354550305
+    },
+    {
+      "Z": 35,
+      "A": 81,
+      "element": "Br",
+      "weight_frac": 0.11125504611342843,
+      "atom_frac": 0.0200060532,
+      "atom_density": 0.0018216181665589965
+    },
+    {
+      "Z": 47,
+      "A": 107,
+      "element": "Ag",
+      "weight_frac": 0.1544886975194354,
+      "atom_frac": 0.02102693518,
+      "atom_density": 0.0019145728909161588
+    },
+    {
+      "Z": 47,
+      "A": 109,
+      "element": "Ag",
+      "weight_frac": 0.14621234692679183,
+      "atom_frac": 0.01953506482,
+      "atom_density": 0.0017787330966919331
+    }
+  ]
+}

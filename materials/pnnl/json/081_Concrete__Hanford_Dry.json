@@ -1,0 +1,216 @@
+{
+  "name": "Concrete, Hanford Dry",
+  "density": 2.18,
+  "molecular_weight": 19.765736095806513,
+  "total_atom_density": 0.06641931670627378,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.0039990771875359835,
+      "atom_frac": 0.0784309794,
+      "atom_density": 0.005209332060351835
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 9.191869409343264e-07,
+      "atom_frac": 9.0206e-06,
+      "atom_density": 5.991420882806132e-07
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.4807955508895468,
+      "atom_frac": 0.59414371387,
+      "atom_density": 0.03946261950057324
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00019464599427927663,
+      "atom_frac": 0.00022632458,
+      "atom_density": 1.5032323957434398e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0011118372577785419,
+      "atom_frac": 0.00122096155,
+      "atom_density": 8.109543187563293e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.00216804118672041,
+      "atom_frac": 0.001864,
+      "atom_density": 0.00012380560634049433
+    },
+    {
+      "Z": 12,
+      "A": 24,
+      "element": "Mg",
+      "weight_frac": 0.010986516266619036,
+      "atom_frac": 0.009053833800000001,
+      "atom_density": 0.0006013494545681662
+    },
+    {
+      "Z": 12,
+      "A": 25,
+      "element": "Mg",
+      "weight_frac": 0.0014489096784260508,
+      "atom_frac": 0.0011462,
+      "atom_density": 7.6129820808731e-05
+    },
+    {
+      "Z": 12,
+      "A": 26,
+      "element": "Mg",
+      "weight_frac": 0.001658888591858619,
+      "atom_frac": 0.0012619662,
+      "atom_density": 8.381893271041284e-05
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.06938768038636438,
+      "atom_frac": 0.050831,
+      "atom_density": 0.0033761602874966025
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.25497359397425906,
+      "atom_frac": 0.1801391859,
+      "atom_density": 0.011964721639502428
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.013415640122897345,
+      "atom_frac": 0.009151210500000001,
+      "atom_density": 0.0006078171484452782
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.00915876287872754,
+      "atom_frac": 0.0060396036,
+      "atom_density": 0.0004011463442887513
+    },
+    {
+      "Z": 19,
+      "A": 39,
+      "element": "K",
+      "weight_frac": 0.012090984809050269,
+      "atom_frac": 0.006133585237,
+      "atom_density": 0.00040738854040122833
+    },
+    {
+      "Z": 19,
+      "A": 40,
+      "element": "K",
+      "weight_frac": 1.555856868415614e-06,
+      "atom_frac": 7.69509e-07,
+      "atom_density": 5.111026197932803e-08
+    },
+    {
+      "Z": 19,
+      "A": 41,
+      "element": "K",
+      "weight_frac": 0.000917322656586577,
+      "atom_frac": 0.00044264525400000004,
+      "atom_density": 2.9400195313955005e-05
+    },
+    {
+      "Z": 20,
+      "A": 40,
+      "element": "Ca",
+      "weight_frac": 0.07754990362445041,
+      "atom_frac": 0.03835664547,
+      "atom_density": 0.0025476221832621917
+    },
+    {
+      "Z": 20,
+      "A": 42,
+      "element": "Ca",
+      "weight_frac": 0.0005434324703164497,
+      "atom_frac": 0.00025599849,
+      "atom_density": 1.700324478363786e-05
+    },
+    {
+      "Z": 20,
+      "A": 43,
+      "element": "Ca",
+      "weight_frac": 0.00011609291081108892,
+      "atom_frac": 5.341545e-05,
+      "atom_density": 3.5478176905581318e-06
+    },
+    {
+      "Z": 20,
+      "A": 44,
+      "element": "Ca",
+      "weight_frac": 0.001835470784729692,
+      "atom_frac": 0.0008253676199999999,
+      "atom_density": 5.4820353351883425e-05
+    },
+    {
+      "Z": 20,
+      "A": 46,
+      "element": "Ca",
+      "weight_frac": 3.6795989857223695e-06,
+      "atom_frac": 1.58268e-06,
+      "atom_density": 1.0512052416468539e-07
+    },
+    {
+      "Z": 20,
+      "A": 48,
+      "element": "Ca",
+      "weight_frac": 0.00017950361373861382,
+      "atom_frac": 7.399029e-05,
+      "atom_density": 4.9143845046990415e-06
+    },
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 0.0032440501054695143,
+      "atom_frac": 0.0011887561,
+      "atom_density": 7.895636789241486e-05
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 0.05280844734379593,
+      "atom_frac": 0.018660928519999998,
+      "atom_density": 0.0012394461214030167
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 0.001241390798319314,
+      "atom_frac": 0.00043096222,
+      "atom_density": 2.862421617861884e-05
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 0.00016810182492397435,
+      "atom_frac": 5.7353159999999996e-05,
+      "atom_density": 3.809357698145593e-06
+    }
+  ]
+}

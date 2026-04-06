@@ -1,0 +1,40 @@
+{
+  "name": "Uranium, HEU, Russian Average",
+  "density": 18.732854,
+  "molecular_weight": 235.30107552074247,
+  "total_atom_density": 0.04794363280102574,
+  "nuclides": [
+    {
+      "Z": 92,
+      "A": 234,
+      "element": "U",
+      "weight_frac": 0.009669935055512034,
+      "atom_frac": 0.009722,
+      "atom_density": 0.00046610799809157223
+    },
+    {
+      "Z": 92,
+      "A": 235,
+      "element": "U",
+      "weight_frac": 0.8979995527808379,
+      "atom_frac": 0.898982,
+      "atom_density": 0.043100462902731715
+    },
+    {
+      "Z": 92,
+      "A": 236,
+      "element": "U",
+      "weight_frac": 0.003810016839819803,
+      "atom_frac": 0.003798,
+      "atom_density": 0.00018208991737829578
+    },
+    {
+      "Z": 92,
+      "A": 238,
+      "element": "U",
+      "weight_frac": 0.08852049532383031,
+      "atom_frac": 0.087498,
+      "atom_density": 0.004194971982824151
+    }
+  ]
+}

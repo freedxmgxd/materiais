@@ -1,0 +1,104 @@
+{
+  "name": "Lithium Gadrium Borate (LGB)",
+  "density": 3.5,
+  "molecular_weight": 19.335658509746697,
+  "total_atom_density": 0.10900840356368148,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.09823868375302405,
+      "atom_frac": 0.315789,
+      "atom_density": 0.03442365475297141
+    },
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.08176564894485207,
+      "atom_frac": 0.157895,
+      "atom_density": 0.017211881880687487
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.3908904448388941,
+      "atom_frac": 0.47253294788,
+      "atom_density": 0.051510062279639106
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00015824867586475307,
+      "atom_frac": 0.00017999992,
+      "atom_density": 1.962150392079038e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0009039321588509305,
+      "atom_frac": 0.0009710522000000001,
+      "atom_density": 0.00010585285009900076
+    },
+    {
+      "Z": 64,
+      "A": 152,
+      "element": "Gd",
+      "weight_frac": 0.000827056686597471,
+      "atom_frac": 0.000105264,
+      "atom_density": 1.1474660592727367e-05
+    },
+    {
+      "Z": 64,
+      "A": 154,
+      "element": "Gd",
+      "weight_frac": 0.009133661609393336,
+      "atom_frac": 0.0011473776,
+      "atom_density": 0.0001250738004607283
+    },
+    {
+      "Z": 64,
+      "A": 155,
+      "element": "Gd",
+      "weight_frac": 0.06241191102826462,
+      "atom_frac": 0.007789536,
+      "atom_density": 0.0008491248838618251
+    },
+    {
+      "Z": 64,
+      "A": 156,
+      "element": "Gd",
+      "weight_frac": 0.08687933898630955,
+      "atom_frac": 0.010773770399999999,
+      "atom_density": 0.001174431511665646
+    },
+    {
+      "Z": 64,
+      "A": 157,
+      "element": "Gd",
+      "weight_frac": 0.06684894036657343,
+      "atom_frac": 0.008236908,
+      "atom_density": 0.0008978921913809164
+    },
+    {
+      "Z": 64,
+      "A": 158,
+      "element": "Gd",
+      "weight_frac": 0.10678025137937557,
+      "atom_frac": 0.0130737888,
+      "atom_density": 0.001425152845616739
+    },
+    {
+      "Z": 64,
+      "A": 160,
+      "element": "Gd",
+      "weight_frac": 0.09516188157199999,
+      "atom_frac": 0.0115053552,
+      "atom_density": 0.0012541804027851012
+    }
+  ]
+}

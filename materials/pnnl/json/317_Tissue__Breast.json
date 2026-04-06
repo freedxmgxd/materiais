@@ -1,0 +1,144 @@
+{
+  "name": "Tissue, Breast",
+  "density": 1.02,
+  "molecular_weight": 5.950480284436409,
+  "total_atom_density": 0.1032283661415708,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10597551763906338,
+      "atom_frac": 0.6257090351850001,
+      "atom_density": 0.0645909213821662
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.435844753789362e-05,
+      "atom_frac": 7.1964815e-05,
+      "atom_density": 7.4288102721304066e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.32815441602373857,
+      "atom_frac": 0.16272303189999998,
+      "atom_density": 0.016797632716639702
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.003845990341827796,
+      "atom_frac": 0.0017599680999999998,
+      "atom_density": 0.00018167863142428466
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.029883226542345865,
+      "atom_frac": 0.0126986082,
+      "atom_density": 0.0013108565767579532
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00011694552686895786,
+      "atom_frac": 4.63918e-05,
+      "atom_density": 4.788949716366524e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5255712167750309,
+      "atom_frac": 0.19552471757,
+      "atom_density": 0.020183697135043182
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0002127730422306811,
+      "atom_frac": 7.448038e-05,
+      "atom_density": 7.688487937003327e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0012153807566341742,
+      "atom_frac": 0.00040180205000000006,
+      "atom_density": 4.1477369133833746e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.0010006503608790643,
+      "atom_frac": 0.000259,
+      "atom_density": 2.6736146830666836e-05
+    },
+    {
+      "Z": 15,
+      "A": 31,
+      "element": "P",
+      "weight_frac": 0.0009994087904314126,
+      "atom_frac": 0.000192,
+      "atom_density": 1.9819846299181594e-05
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.0018935228389452277,
+      "atom_frac": 0.0003524129,
+      "atom_density": 3.6379007874212775e-05
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 1.5417761260917186e-05,
+      "atom_frac": 2.7825e-06,
+      "atom_density": 2.8723292878892076e-07
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 9.000758216051631e-05,
+      "atom_frac": 1.57675e-05,
+      "atom_density": 1.6276532631372177e-06
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 2.2424722541528155e-07,
+      "atom_frac": 3.71e-08,
+      "atom_density": 3.829772383852277e-09
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.0007479604095495701,
+      "atom_frac": 0.0001272768,
+      "atom_density": 1.3138576111727479e-05
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.0002529829142696458,
+      "atom_frac": 4.07232e-05,
+      "atom_density": 4.203789400056416e-06
+    }
+  ]
+}

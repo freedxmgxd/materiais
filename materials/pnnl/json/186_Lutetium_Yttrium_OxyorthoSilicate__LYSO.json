@@ -1,0 +1,80 @@
+{
+  "name": "Lutetium Yttrium OxyorthoSilicate (LYSO)",
+  "density": 7.3,
+  "molecular_weight": 63.582783357524534,
+  "total_atom_density": 0.06914077243332488,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.12547458709863887,
+      "atom_frac": 0.498785,
+      "atom_density": 0.034486380178155945
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 5.079732064369079e-05,
+      "atom_frac": 0.00019,
+      "atom_density": 1.3136746762331728e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00029015934232863664,
+      "atom_frac": 0.001025,
+      "atom_density": 7.086929174415801e-05
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.04057884791352844,
+      "atom_frac": 0.092223,
+      "atom_density": 0.00637636945611852
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.0021350886251563788,
+      "atom_frac": 0.004685000000000001,
+      "atom_density": 0.0003239245188501271
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.0014576099435986104,
+      "atom_frac": 0.003092,
+      "atom_density": 0.00021378326836384053
+    },
+    {
+      "Z": 39,
+      "A": 89,
+      "element": "Y",
+      "weight_frac": 0.27965381023376884,
+      "atom_frac": 0.2,
+      "atom_density": 0.013828154486664976
+    },
+    {
+      "Z": 71,
+      "A": 175,
+      "element": "Lu",
+      "weight_frac": 0.5359754871162661,
+      "atom_frac": 0.19480200000000003,
+      "atom_density": 0.013468760751556555
+    },
+    {
+      "Z": 71,
+      "A": 176,
+      "element": "Lu",
+      "weight_frac": 0.014383612406070426,
+      "atom_frac": 0.005198,
+      "atom_density": 0.00035939373510842276
+    }
+  ]
+}

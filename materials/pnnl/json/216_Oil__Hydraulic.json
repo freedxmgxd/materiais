@@ -1,0 +1,88 @@
+{
+  "name": "Oil, Hydraulic",
+  "density": 0.871,
+  "molecular_weight": 9.77835508574745,
+  "total_atom_density": 0.05364178899174282,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.04048590821320716,
+      "atom_frac": 0.39281182144500004,
+      "atom_density": 0.02107112883941485
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 9.305676378898592e-06,
+      "atom_frac": 4.5178555000000005e-05,
+      "atom_density": 2.4234585142618478e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.5781276251912546,
+      "atom_frac": 0.47109476699999997,
+      "atom_density": 0.02527036608652825
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.006775692034778407,
+      "atom_frac": 0.005095232999999999,
+      "atom_density": 0.00027331741344976474
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.07770335545419334,
+      "atom_frac": 0.04750328583,
+      "atom_density": 0.002548161234907307
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 3.145754334297512e-05,
+      "atom_frac": 1.809522e-05,
+      "atom_density": 9.706599729991647e-07
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0001796886129427367,
+      "atom_frac": 9.761895000000001e-05,
+      "atom_density": 5.236455117495493e-06
+    },
+    {
+      "Z": 15,
+      "A": 31,
+      "element": "P",
+      "weight_frac": 0.03771008859351461,
+      "atom_frac": 0.011905,
+      "atom_density": 0.0006386054979466983
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.1935218984253273,
+      "atom_frac": 0.054114610400000006,
+      "atom_density": 0.002902804512447172
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.06545498025505997,
+      "atom_frac": 0.0173143896,
+      "atom_density": 0.0009287748334440264
+    }
+  ]
+}

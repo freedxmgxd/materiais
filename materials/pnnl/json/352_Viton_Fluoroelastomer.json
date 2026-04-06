@@ -1,0 +1,48 @@
+{
+  "name": "Viton Fluoroelastomer",
+  "density": 1.8,
+  "molecular_weight": 14.270512786659438,
+  "total_atom_density": 0.07595980277690838,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.00941485687678588,
+      "atom_frac": 0.133311667395,
+      "atom_density": 0.010126327963185007
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.16400261512318e-06,
+      "atom_frac": 1.5332605e-05,
+      "atom_density": 1.1646616518562393e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.27730545319292316,
+      "atom_frac": 0.3297742513,
+      "atom_density": 0.025049587089650622
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.003250037307555267,
+      "atom_frac": 0.0035667486999999996,
+      "atom_density": 0.0002709295278067943
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.7100274886201206,
+      "atom_frac": 0.533332,
+      "atom_density": 0.0405117935346141
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Freon-13B1",
+  "density": 1.5,
+  "molecular_weight": 29.78181261370423,
+  "total_atom_density": 0.03033130070747718,
+  "nuclides": [
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.07972502028662386,
+      "atom_frac": 0.19786296789999996,
+      "atom_density": 0.0060014411782488035
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.0009343822391291529,
+      "atom_frac": 0.0021400320999999996,
+      "atom_density": 6.490995714875386e-05
+    },
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.3827505077777024,
+      "atom_frac": 0.599998,
+      "atom_density": 0.018198719761884894
+    },
+    {
+      "Z": 35,
+      "A": 79,
+      "element": "Br",
+      "weight_frac": 0.2686438586973463,
+      "atom_frac": 0.10137949310000001,
+      "atom_density": 0.003074971890787708
+    },
+    {
+      "Z": 35,
+      "A": 81,
+      "element": "Br",
+      "weight_frac": 0.2679462309991983,
+      "atom_frac": 0.0986195069,
+      "atom_density": 0.0029912579194070208
+    }
+  ]
+}

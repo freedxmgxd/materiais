@@ -1,0 +1,56 @@
+{
+  "name": "Lithium Amide",
+  "density": 1.178,
+  "molecular_weight": 5.740744052062337,
+  "total_atom_density": 0.12357425711622662,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.0877665842716805,
+      "atom_frac": 0.499933501035,
+      "atom_density": 0.06177891099791444
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.0173128531847043e-05,
+      "atom_frac": 5.7498965000000004e-05,
+      "atom_density": 7.1053918848269155e-06
+    },
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.01988222814760384,
+      "atom_frac": 0.0189753036,
+      "atom_density": 0.0023448590459248606
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.28234983351551973,
+      "atom_frac": 0.2310286964,
+      "atom_density": 0.02854919953016026
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.6076033755554079,
+      "atom_frac": 0.24909498179999998,
+      "atom_density": 0.030781727327314986
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0023778053812560777,
+      "atom_frac": 0.0009100181999999999,
+      "atom_density": 0.00011245482302724573
+    }
+  ]
+}

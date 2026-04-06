@@ -1,0 +1,64 @@
+{
+  "name": "Calcium Fluoride",
+  "density": 3.18,
+  "molecular_weight": 26.025188869032903,
+  "total_atom_density": 0.0735841254146934,
+  "nuclides": [
+    {
+      "Z": 9,
+      "A": 19,
+      "element": "F",
+      "weight_frac": 0.48665854160544364,
+      "atom_frac": 0.666655,
+      "atom_density": 0.04905522512833243
+    },
+    {
+      "Z": 20,
+      "A": 40,
+      "element": "Ca",
+      "weight_frac": 0.4962050585631989,
+      "atom_frac": 0.32314797645,
+      "atom_density": 0.02377856122660119
+    },
+    {
+      "Z": 20,
+      "A": 42,
+      "element": "Ca",
+      "weight_frac": 0.0034771666779157624,
+      "atom_frac": 0.00215674215,
+      "atom_density": 0.0001587019848527555
+    },
+    {
+      "Z": 20,
+      "A": 43,
+      "element": "Ca",
+      "weight_frac": 0.0007428234841755015,
+      "atom_frac": 0.00045001575000000005,
+      "atom_density": 3.311401538658732e-05
+    },
+    {
+      "Z": 20,
+      "A": 44,
+      "element": "Ca",
+      "weight_frac": 0.011744307157858087,
+      "atom_frac": 0.0069535767,
+      "atom_density": 0.0005116728599734899
+    },
+    {
+      "Z": 20,
+      "A": 46,
+      "element": "Ca",
+      "weight_frac": 2.354400901697311e-05,
+      "atom_frac": 1.3333800000000001e-05,
+      "atom_density": 9.81156011454439e-07
+    },
+    {
+      "Z": 20,
+      "A": 48,
+      "element": "Ca",
+      "weight_frac": 0.0011485585023911235,
+      "atom_frac": 0.00062335515,
+      "atom_density": 4.586904353549502e-05
+    }
+  ]
+}

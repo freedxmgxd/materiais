@@ -1,0 +1,16 @@
+{
+  "name": "Gold",
+  "density": 19.32,
+  "molecular_weight": 196.966570103,
+  "total_atom_density": 0.05906980023176425,
+  "nuclides": [
+    {
+      "Z": 79,
+      "A": 197,
+      "element": "Au",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 0.05906980023176425
+    }
+  ]
+}

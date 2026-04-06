@@ -1,0 +1,72 @@
+{
+  "name": "Salt Water (T = 0\u00b0C)",
+  "density": 1.209865,
+  "molecular_weight": 7.5897958098778044,
+  "total_atom_density": 0.09599701379469264,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.08247252335031367,
+      "atom_frac": 0.621089566485,
+      "atom_density": 0.05962274368160022
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.895628988752234e-05,
+      "atom_frac": 7.1433515e-05,
+      "atom_density": 6.857404124858383e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.652935223847765,
+      "atom_frac": 0.30982628816999996,
+      "atom_density": 0.029742398459413903
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0002643352784997109,
+      "atom_frac": 0.00011802078,
+      "atom_density": 1.1329642445720384e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0015099093730105916,
+      "atom_frac": 0.00063669105,
+      "atom_density": 6.112043950980734e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.10337799006430765,
+      "atom_frac": 0.034129,
+      "atom_density": 0.003276282083799065
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 0.11912826614093222,
+      "atom_frac": 0.0258561304,
+      "atom_density": 0.0024821113066861716
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 0.04029279565528352,
+      "atom_frac": 0.0082728696,
+      "atom_density": 0.0007941707771128933
+    }
+  ]
+}

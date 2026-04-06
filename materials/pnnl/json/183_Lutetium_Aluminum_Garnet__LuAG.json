@@ -1,0 +1,56 @@
+{
+  "name": "Lutetium Aluminum Garnet (LuAG)",
+  "density": 6.73,
+  "molecular_weight": 42.59005010173266,
+  "total_atom_density": 0.0951607411073489,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.22478555820369042,
+      "atom_frac": 0.5985419999999999,
+      "atom_density": 0.056957700303874814
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 9.10025236199223e-05,
+      "atom_frac": 0.000228,
+      "atom_density": 2.169664897247555e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0005198154561934065,
+      "atom_frac": 0.00123,
+      "atom_density": 0.00011704771156203914
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.1583793535318143,
+      "atom_frac": 0.25,
+      "atom_density": 0.023790185276837225
+    },
+    {
+      "Z": 71,
+      "A": 175,
+      "element": "Lu",
+      "weight_frac": 0.6001192743526056,
+      "atom_frac": 0.1461015,
+      "atom_density": 0.013903127016895335
+    },
+    {
+      "Z": 71,
+      "A": 176,
+      "element": "Lu",
+      "weight_frac": 0.016104995932076375,
+      "atom_frac": 0.0038984999999999996,
+      "atom_density": 0.00037098414920699966
+    }
+  ]
+}

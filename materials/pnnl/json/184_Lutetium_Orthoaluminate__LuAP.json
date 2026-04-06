@@ -1,0 +1,56 @@
+{
+  "name": "Lutetium Orthoaluminate (LuAP)",
+  "density": 8.4,
+  "molecular_weight": 49.989314029775414,
+  "total_atom_density": 0.10119359180217834,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.19151349387068453,
+      "atom_frac": 0.5985419999999999,
+      "atom_density": 0.06056861482445942
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 7.753261103059015e-05,
+      "atom_frac": 0.000228,
+      "atom_density": 2.3072138930896662e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00044287397722132067,
+      "atom_frac": 0.00123,
+      "atom_density": 0.00012446811791667935
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.10794922447597034,
+      "atom_frac": 0.2,
+      "atom_density": 0.02023871836043567
+    },
+    {
+      "Z": 71,
+      "A": 175,
+      "element": "Lu",
+      "weight_frac": 0.6817219628570753,
+      "atom_frac": 0.19480200000000003,
+      "atom_density": 0.01971271407024795
+    },
+    {
+      "Z": 71,
+      "A": 176,
+      "element": "Lu",
+      "weight_frac": 0.018294912208017888,
+      "atom_frac": 0.005198,
+      "atom_density": 0.0005260042901877231
+    }
+  ]
+}

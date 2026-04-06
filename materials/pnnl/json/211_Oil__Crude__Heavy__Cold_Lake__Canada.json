@@ -1,0 +1,112 @@
+{
+  "name": "Oil, Crude (Heavy, Cold Lake, Canada)",
+  "density": 0.97,
+  "molecular_weight": 5.707334177142338,
+  "total_atom_density": 0.10235035054710652,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10397565064206551,
+      "atom_frac": 0.58881627834,
+      "atom_density": 0.06026555249594165
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.389877858402214e-05,
+      "atom_frac": 6.772166000000002e-05,
+      "atom_density": 6.931335640631963e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8273024360322548,
+      "atom_frac": 0.39347428900000003,
+      "atom_density": 0.0402722314104235
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009696036449256528,
+      "atom_frac": 0.004255711,
+      "atom_density": 0.0004355735126771772
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.003984684772678296,
+      "atom_frac": 0.0016240668000000002,
+      "atom_density": 0.00016622380629191755
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 1.5593733142813302e-05,
+      "atom_frac": 5.9332e-06,
+      "atom_density": 6.072650998660924e-07
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.010970363114090251,
+      "atom_frac": 0.003914464680000001,
+      "atom_density": 0.0004006468322022673
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 4.44125831030693e-06,
+      "atom_frac": 1.4911200000000006e-06,
+      "atom_density": 1.5261665470780152e-07
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 2.5368908716060575e-05,
+      "atom_frac": 8.044200000000003e-06,
+      "atom_density": 8.233266898710346e-07
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.041676192500884966,
+      "atom_frac": 0.007439616800000002,
+      "atom_density": 0.0007614473874161431
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.0003393429289718001,
+      "atom_frac": 5.874000000000002e-05,
+      "atom_density": 6.012059591137039e-06
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0019810552286501385,
+      "atom_frac": 0.0003328600000000001,
+      "atom_density": 3.406833768310989e-05
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 4.935652394561351e-06,
+      "atom_frac": 7.832000000000003e-07,
+      "atom_density": 8.016079454849386e-08
+    }
+  ]
+}

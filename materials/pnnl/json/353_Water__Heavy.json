@@ -1,0 +1,40 @@
+{
+  "name": "Water, Heavy",
+  "density": 1.10534,
+  "molecular_weight": 6.675864831464066,
+  "total_atom_density": 0.09971012349269776,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 0.20113277063392165,
+      "atom_frac": 0.666667,
+      "atom_density": 0.06647344889850633
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.7967023211477527,
+      "atom_frac": 0.33252300080999997,
+      "atom_density": 0.03315590947492753
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0003225381664982114,
+      "atom_frac": 0.00012666654,
+      "atom_density": 1.262993634579274e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0018423700518273149,
+      "atom_frac": 0.00068333265,
+      "atom_density": 6.813518291809241e-05
+    }
+  ]
+}

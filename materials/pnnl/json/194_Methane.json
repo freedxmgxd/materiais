@@ -1,0 +1,40 @@
+{
+  "name": "Methane",
+  "density": 0.000667,
+  "molecular_weight": 3.208499782326655,
+  "total_atom_density": 0.00012519146515282685,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.2512598910107672,
+      "atom_frac": 0.7999080000000001,
+      "atom_density": 0.00010014165450746743
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 5.7752026221824766e-05,
+      "atom_frac": 9.200000000000001e-05,
+      "atom_density": 1.1517614794060071e-08
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.7400094003678733,
+      "atom_frac": 0.19786,
+      "atom_density": 2.477038329513832e-05
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.008672956595137626,
+      "atom_frac": 0.00214,
+      "atom_density": 2.6790973542704946e-07
+    }
+  ]
+}

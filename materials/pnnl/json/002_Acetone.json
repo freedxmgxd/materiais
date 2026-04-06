@@ -1,0 +1,64 @@
+{
+  "name": "Acetone",
+  "density": 0.7899,
+  "molecular_weight": 5.808098732921645,
+  "total_atom_density": 0.08190096630694059,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10409781089766046,
+      "atom_frac": 0.599916001725,
+      "atom_density": 0.04913370024427374
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3926857089731918e-05,
+      "atom_frac": 6.8998275e-05,
+      "atom_density": 5.651025396012022e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.6132186270546389,
+      "atom_frac": 0.29680286089999997,
+      "atom_density": 0.02430844111037447
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.007186960777972387,
+      "atom_frac": 0.0032101390999999995,
+      "atom_density": 0.00026291349426969254
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.27472615104199866,
+      "atom_frac": 0.09975899513999999,
+      "atom_density": 0.008170358099775388
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00011122054837061757,
+      "atom_frac": 3.800076e-05,
+      "atom_density": 3.112298964398136e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0006353028222691698,
+      "atom_frac": 0.0002050041,
+      "atom_density": 1.679003388688468e-05
+    }
+  ]
+}

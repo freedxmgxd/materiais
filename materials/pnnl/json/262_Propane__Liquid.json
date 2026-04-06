@@ -1,0 +1,40 @@
+{
+  "name": "Propane (Liquid)",
+  "density": 0.43,
+  "molecular_weight": 4.008843101029519,
+  "total_atom_density": 0.06459520768310888,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.182812478533812,
+      "atom_frac": 0.7271763651,
+      "atom_density": 0.04697210832588271
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 4.201940473463414e-05,
+      "atom_frac": 8.36349e-05,
+      "atom_density": 5.402413735056043e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8076794482598929,
+      "atom_frac": 0.26982168199999995,
+      "atom_density": 0.017429187586195757
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009466053801560423,
+      "atom_frac": 0.0029183179999999996,
+      "atom_density": 0.0001885093572953549
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Indium",
+  "density": 7.31,
+  "molecular_weight": 114.81808656602908,
+  "total_atom_density": 0.03834051783321098,
+  "nuclides": [
+    {
+      "Z": 49,
+      "A": 113,
+      "element": "In",
+      "weight_frac": 0.042184853782269514,
+      "atom_frac": 0.0429,
+      "atom_density": 0.0016448082150447509
+    },
+    {
+      "Z": 49,
+      "A": 115,
+      "element": "In",
+      "weight_frac": 0.9578151462177306,
+      "atom_frac": 0.9571,
+      "atom_density": 0.036695709618166227
+    }
+  ]
+}

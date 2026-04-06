@@ -1,0 +1,80 @@
+{
+  "name": "Tissue Equivalent-Gas, Methane Based (TEG: MB)",
+  "density": 0.001064,
+  "molecular_weight": 5.988631253122668,
+  "total_atom_density": 0.00010699536334448526,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.1018454666293803,
+      "atom_frac": 0.6051793963650001,
+      "atom_density": 6.475138940266944e-05
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3409156295072573e-05,
+      "atom_frac": 6.9603635e-05,
+      "atom_density": 7.447266216921932e-09
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.450894835943022,
+      "atom_frac": 0.22502024219999997,
+      "atom_density": 2.4076122574053075e-05
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.005284515763126114,
+      "atom_frac": 0.0024337577999999998,
+      "atom_density": 2.604008001034751e-07
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.03503500437110408,
+      "atom_frac": 0.01498326168,
+      "atom_density": 1.6031395275371028e-06
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0001371065818220503,
+      "atom_frac": 5.473832e-05,
+      "atom_density": 5.8567464372667044e-09
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.4056772998611208,
+      "atom_frac": 0.15188901063,
+      "atom_density": 1.6251419880391233e-05
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0001642350085018578,
+      "atom_frac": 5.785842e-05,
+      "atom_density": 6.190582670437834e-09
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0009381266856277772,
+      "atom_frac": 0.00031213095000000003,
+      "atom_density": 3.339656440630937e-08
+    }
+  ]
+}

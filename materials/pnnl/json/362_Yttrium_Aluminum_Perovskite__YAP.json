@@ -1,0 +1,48 @@
+{
+  "name": "Yttrium Aluminum Perovskite (YAP)",
+  "density": 5.37,
+  "molecular_weight": 32.77711826720441,
+  "total_atom_density": 0.09866302344693043,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.2920826690130396,
+      "atom_frac": 0.5985419999999999,
+      "atom_density": 0.059053963379972624
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00011824718722251391,
+      "atom_frac": 0.000228,
+      "atom_density": 2.2495169345900137e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.000675439681501337,
+      "atom_frac": 0.00123,
+      "atom_density": 0.00012135551883972442
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.1646364283036849,
+      "atom_frac": 0.2,
+      "atom_density": 0.019732604689386087
+    },
+    {
+      "Z": 39,
+      "A": 89,
+      "element": "Y",
+      "weight_frac": 0.5424872158145517,
+      "atom_frac": 0.2,
+      "atom_density": 0.019732604689386087
+    }
+  ]
+}

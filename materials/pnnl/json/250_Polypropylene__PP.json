@@ -1,0 +1,40 @@
+{
+  "name": "Polypropylene (PP)",
+  "density": 0.9,
+  "molecular_weight": 4.67568950626219,
+  "total_atom_density": 0.11591716423301948,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.1436777003880062,
+      "atom_frac": 0.666576334905,
+      "atom_density": 0.07726763848702708
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 3.302428528055057e-05,
+      "atom_frac": 7.666509500000001e-05,
+      "atom_density": 8.886800408055042e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8463697685442697,
+      "atom_frac": 0.3297801871,
+      "atom_density": 0.038227184108866594
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.009919506782443584,
+      "atom_frac": 0.0035668129,
+      "atom_density": 0.0004134548367177525
+    }
+  ]
+}

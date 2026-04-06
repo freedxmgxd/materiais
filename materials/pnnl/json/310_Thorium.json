@@ -1,0 +1,16 @@
+{
+  "name": "Thorium",
+  "density": 11.72,
+  "molecular_weight": 232.038053606,
+  "total_atom_density": 0.030417204682747334,
+  "nuclides": [
+    {
+      "Z": 90,
+      "A": 232,
+      "element": "Th",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 0.030417204682747334
+    }
+  ]
+}

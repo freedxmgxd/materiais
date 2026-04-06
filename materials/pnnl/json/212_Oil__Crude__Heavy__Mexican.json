@@ -1,0 +1,72 @@
+{
+  "name": "Oil, Crude (Heavy, Mexican)",
+  "density": 0.975,
+  "molecular_weight": 5.694206378106098,
+  "total_atom_density": 0.10311511123966145,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10401503184709307,
+      "atom_frac": 0.58768440852,
+      "atom_density": 0.06059914315835445
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.3907830344636416e-05,
+      "atom_frac": 6.759148e-05,
+      "atom_density": 6.969702979053352e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.8438433575001819,
+      "atom_frac": 0.4004181857,
+      "atom_density": 0.041289165760838915
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.00988989708651816,
+      "atom_frac": 0.0043308143,
+      "atom_density": 0.00044657239830281657
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.039996207138427164,
+      "atom_frac": 0.0071233000999999995,
+      "atom_density": 0.0007345198822049915
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.00032566386859424575,
+      "atom_frac": 5.6242499999999996e-05,
+      "atom_density": 5.799451643896659e-06
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0019011980347310431,
+      "atom_frac": 0.0003187075,
+      "atom_density": 3.2863559315414405e-05
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 4.736694109759619e-06,
+      "atom_frac": 7.499e-07,
+      "atom_density": 7.732602191862213e-08
+    }
+  ]
+}

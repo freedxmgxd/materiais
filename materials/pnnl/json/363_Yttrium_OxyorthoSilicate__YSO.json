@@ -1,0 +1,64 @@
+{
+  "name": "Yttrium OxyorthoSilicate (YSO)",
+  "density": 4.45,
+  "molecular_weight": 35.73677495469191,
+  "total_atom_density": 0.07498865360955466,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.2790551014494999,
+      "atom_frac": 0.62348125,
+      "atom_density": 0.04675401948830215
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00011297308716739885,
+      "atom_frac": 0.00023750000000000003,
+      "atom_density": 1.7809805232269235e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0006453134979944972,
+      "atom_frac": 0.00128125,
+      "atom_density": 9.607921243724191e-05
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.09024723478318061,
+      "atom_frac": 0.11527875,
+      "atom_density": 0.008644598252292449
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.004748430631840266,
+      "atom_frac": 0.00585625,
+      "atom_density": 0.0004391523027009545
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.0032417200971934694,
+      "atom_frac": 0.003865,
+      "atom_density": 0.00028983114620092875
+    },
+    {
+      "Z": 39,
+      "A": 89,
+      "element": "Y",
+      "weight_frac": 0.6219492264531238,
+      "atom_frac": 0.25,
+      "atom_density": 0.018747163402388665
+    }
+  ]
+}

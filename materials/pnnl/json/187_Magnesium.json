@@ -1,0 +1,32 @@
+{
+  "name": "Magnesium",
+  "density": 1.74,
+  "molecular_weight": 24.3050516129583,
+  "total_atom_density": 0.043112539274812095,
+  "nuclides": [
+    {
+      "Z": 12,
+      "A": 24,
+      "element": "Mg",
+      "weight_frac": 0.7794998641368902,
+      "atom_frac": 0.7899,
+      "atom_density": 0.034054594773174074
+    },
+    {
+      "Z": 12,
+      "A": 25,
+      "element": "Mg",
+      "weight_frac": 0.10280100352750841,
+      "atom_frac": 0.1,
+      "atom_density": 0.00431125392748121
+    },
+    {
+      "Z": 12,
+      "A": 26,
+      "element": "Mg",
+      "weight_frac": 0.11769913233560135,
+      "atom_frac": 0.1101,
+      "atom_density": 0.004746690574156812
+    }
+  ]
+}

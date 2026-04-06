@@ -1,0 +1,96 @@
+{
+  "name": "Monosodium Titanate, MST",
+  "density": 1.0,
+  "molecular_weight": 22.19201847080532,
+  "total_atom_density": 0.02713651652697757,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.005045398169395847,
+      "atom_frac": 0.111098222235,
+      "atom_density": 0.003014818743797904
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.1596835698938081e-06,
+      "atom_frac": 1.2777765e-05,
+      "atom_density": 3.4674403110033556e-07
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.3994444059186753,
+      "atom_frac": 0.55420599892,
+      "atom_density": 0.015039220249042692
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00016171167433950964,
+      "atom_frac": 0.00021111128000000004,
+      "atom_density": 5.72882473875139e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.000923713150194324,
+      "atom_frac": 0.0011388898000000002,
+      "atom_density": 3.090550188010618e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.11510517883027205,
+      "atom_frac": 0.111111,
+      "atom_density": 0.003015165487829005
+    },
+    {
+      "Z": 22,
+      "A": 46,
+      "element": "Ti",
+      "weight_frac": 0.037962476246590764,
+      "atom_frac": 0.018333315000000003,
+      "atom_density": 0.0004975023054917859
+    },
+    {
+      "Z": 22,
+      "A": 47,
+      "element": "Ti",
+      "weight_frac": 0.03497961584416915,
+      "atom_frac": 0.0165333168,
+      "atom_density": 0.0004486566245889559
+    },
+    {
+      "Z": 22,
+      "A": 48,
+      "element": "Ti",
+      "weight_frac": 0.35395294700573415,
+      "atom_frac": 0.1638220584,
+      "atom_density": 0.004445559995255084
+    },
+    {
+      "Z": 22,
+      "A": 49,
+      "element": "Ti",
+      "weight_frac": 0.026516808974535004,
+      "atom_frac": 0.012022210200000001,
+      "atom_density": 0.0003262409057830983
+    },
+    {
+      "Z": 22,
+      "A": 50,
+      "element": "Ti",
+      "weight_frac": 0.025906584502523932,
+      "atom_frac": 0.0115110996,
+      "atom_density": 0.0003123711445390849
+    }
+  ]
+}

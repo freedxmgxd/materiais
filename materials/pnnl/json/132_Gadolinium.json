@@ -1,0 +1,64 @@
+{
+  "name": "Gadolinium",
+  "density": 7.9004,
+  "molecular_weight": 157.2521295106064,
+  "total_atom_density": 0.030255438198752652,
+  "nuclides": [
+    {
+      "Z": 64,
+      "A": 152,
+      "element": "Gd",
+      "weight_frac": 0.001932181127044811,
+      "atom_frac": 0.002,
+      "atom_density": 6.05108763975053e-05
+    },
+    {
+      "Z": 64,
+      "A": 154,
+      "element": "Gd",
+      "weight_frac": 0.021338184998040858,
+      "atom_frac": 0.0218,
+      "atom_density": 0.0006595685527328078
+    },
+    {
+      "Z": 64,
+      "A": 155,
+      "element": "Gd",
+      "weight_frac": 0.1458075589567231,
+      "atom_frac": 0.148,
+      "atom_density": 0.004477804853415392
+    },
+    {
+      "Z": 64,
+      "A": 156,
+      "element": "Gd",
+      "weight_frac": 0.2029686983247577,
+      "atom_frac": 0.2047,
+      "atom_density": 0.006193288199284668
+    },
+    {
+      "Z": 64,
+      "A": 157,
+      "element": "Gd",
+      "weight_frac": 0.1561734074971593,
+      "atom_frac": 0.1565,
+      "atom_density": 0.00473497607810479
+    },
+    {
+      "Z": 64,
+      "A": 158,
+      "element": "Gd",
+      "weight_frac": 0.24946148166110596,
+      "atom_frac": 0.2484,
+      "atom_density": 0.007515450848570159
+    },
+    {
+      "Z": 64,
+      "A": 160,
+      "element": "Gd",
+      "weight_frac": 0.22231848743516824,
+      "atom_frac": 0.2186,
+      "atom_density": 0.00661383879024733
+    }
+  ]
+}

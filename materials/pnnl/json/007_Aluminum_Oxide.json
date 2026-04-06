@@ -1,0 +1,40 @@
+{
+  "name": "Aluminum Oxide",
+  "density": 3.97,
+  "molecular_weight": 20.392258317604405,
+  "total_atom_density": 0.1172400743695983,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.46947366186393946,
+      "atom_frac": 0.5985419999999999,
+      "atom_density": 0.07017310859332809
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00019006242369000713,
+      "atom_frac": 0.000228,
+      "atom_density": 2.6730736956268413e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0010856554471860471,
+      "atom_frac": 0.00123,
+      "atom_density": 0.0001442052914746059
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.5292506202651845,
+      "atom_frac": 0.4,
+      "atom_density": 0.046896029747839324
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Water, Liquid",
+  "density": 0.998207,
+  "molecular_weight": 6.005240394638617,
+  "total_atom_density": 0.10010162235943379,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.11186835208535213,
+      "atom_frac": 0.6665803344450001,
+      "atom_density": 0.06672577291083848
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.571291413458715e-05,
+      "atom_frac": 7.6665555e-05,
+      "atom_density": 7.674346434586401e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.8856991923444753,
+      "atom_frac": 0.33253297650999997,
+      "atom_density": 0.03328709043666248
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0003585677937478411,
+      "atom_frac": 0.00012667034,
+      "atom_density": 1.267990653882108e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.002048174862290226,
+      "atom_frac": 0.0006833531500000001,
+      "atom_density": 6.840475895942953e-05
+    }
+  ]
+}

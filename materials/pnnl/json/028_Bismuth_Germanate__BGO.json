@@ -1,0 +1,80 @@
+{
+  "name": "Bismuth Germanate (BGO)",
+  "density": 7.13,
+  "molecular_weight": 65.56750798591092,
+  "total_atom_density": 0.06548649618958592,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.15371316547335506,
+      "atom_frac": 0.6301120977899999,
+      "atom_density": 0.04126383349093682
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 6.222946920373983e-05,
+      "atom_frac": 0.00024002586,
+      "atom_density": 1.5718452566292084e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.00035546091070966706,
+      "atom_frac": 0.00129487635,
+      "atom_density": 8.479691516025993e-05
+    },
+    {
+      "Z": 32,
+      "A": 70,
+      "element": "Ge",
+      "weight_frac": 0.034617159504346746,
+      "atom_frac": 0.0324602828,
+      "atom_density": 0.0021257101858950813
+    },
+    {
+      "Z": 32,
+      "A": 72,
+      "element": "Ge",
+      "weight_frac": 0.04751534555360361,
+      "atom_frac": 0.043317198,
+      "atom_density": 0.002836691521770539
+    },
+    {
+      "Z": 32,
+      "A": 73,
+      "element": "Ge",
+      "weight_frac": 0.013601859746474678,
+      "atom_frac": 0.01222981,
+      "atom_density": 0.0008008874059643598
+    },
+    {
+      "Z": 32,
+      "A": 74,
+      "element": "Ge",
+      "weight_frac": 0.06493682818137834,
+      "atom_frac": 0.05759846,
+      "atom_density": 0.003771921331316017
+    },
+    {
+      "Z": 32,
+      "A": 76,
+      "element": "Ge",
+      "weight_frac": 0.01412449883335676,
+      "atom_frac": 0.012198249199999999,
+      "atom_density": 0.0007988205997554195
+    },
+    {
+      "Z": 83,
+      "A": 209,
+      "element": "Bi",
+      "weight_frac": 0.6710734523275714,
+      "atom_frac": 0.210549,
+      "atom_density": 0.013788116286221124
+    }
+  ]
+}

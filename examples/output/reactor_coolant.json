@@ -1,0 +1,16 @@
+{
+  "name": "Na_800K",
+  "density": 0.7727,
+  "molecular_weight": 22.98976928195,
+  "total_atom_density": 0.020240778009483814,
+  "nuclides": [
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 0.020240778009483814
+    }
+  ]
+}

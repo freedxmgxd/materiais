@@ -1,0 +1,40 @@
+{
+  "name": "Polystyrene (PS)",
+  "density": 1.06,
+  "molecular_weight": 6.509404342001818,
+  "total_atom_density": 0.09806533547794498,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.07740316829049933,
+      "atom_frac": 0.49993650069,
+      "atom_density": 0.04902644065783472
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.7791099832060634e-05,
+      "atom_frac": 5.749931e-05,
+      "atom_density": 5.638689124900357e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9118916136917311,
+      "atom_frac": 0.49465593579999995,
+      "atom_density": 0.048508600290383806
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.010687426917937492,
+      "atom_frac": 0.005350064199999999,
+      "atom_density": 0.0005246558406015432
+    }
+  ]
+}

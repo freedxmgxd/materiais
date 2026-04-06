@@ -1,0 +1,136 @@
+{
+  "name": "Aluminum, Alloy 3003",
+  "density": 2.73,
+  "molecular_weight": 27.241397692982385,
+  "total_atom_density": 0.06035095724561591,
+  "nuclides": [
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.9785000626840717,
+      "atom_frac": 0.987924,
+      "atom_density": 0.05962215908591786
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.0030497604866155936,
+      "atom_frac": 0.0029695806,
+      "atom_density": 0.00017921703182801046
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.000160465593757123,
+      "atom_frac": 0.000150857,
+      "atom_density": 9.10436435720188e-06
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.00010954872894267167,
+      "atom_frac": 9.956240000000001e-05,
+      "atom_density": 6.00868614567091e-06
+    },
+    {
+      "Z": 25,
+      "A": 55,
+      "element": "Mn",
+      "weight_frac": 0.012499578567866113,
+      "atom_frac": 0.006198,
+      "atom_density": 0.00037405523300832746
+    },
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 0.00021908544723005612,
+      "atom_frac": 0.00011064585,
+      "atom_density": 6.677582962754832e-06
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 0.0035663944537521037,
+      "atom_frac": 0.00173690322,
+      "atom_density": 0.0001048237719699926
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 8.383676250207017e-05,
+      "atom_frac": 4.011267e-05,
+      "atom_density": 2.4208380321775e-06
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 1.1352680228817637e-05,
+      "atom_frac": 5.33826e-06,
+      "atom_density": 3.221691010259816e-07
+    },
+    {
+      "Z": 29,
+      "A": 63,
+      "element": "Cu",
+      "weight_frac": 0.0008562144225288124,
+      "atom_frac": 0.000370644,
+      "atom_density": 2.2368720197344063e-05
+    },
+    {
+      "Z": 29,
+      "A": 65,
+      "element": "Cu",
+      "weight_frac": 0.00039411338865917263,
+      "atom_frac": 0.000165356,
+      "atom_density": 9.979392886306065e-06
+    },
+    {
+      "Z": 30,
+      "A": 64,
+      "element": "Zn",
+      "weight_frac": 0.00026424402648887285,
+      "atom_frac": 0.0001125993,
+      "atom_density": 6.7954755401862805e-06
+    },
+    {
+      "Z": 30,
+      "A": 66,
+      "element": "Zn",
+      "weight_frac": 0.0001536784293344883,
+      "atom_frac": 6.35017e-05,
+      "atom_density": 3.832388381723928e-06
+    },
+    {
+      "Z": 30,
+      "A": 67,
+      "element": "Zn",
+      "weight_frac": 2.272948763627066e-05,
+      "atom_frac": 9.2516e-06,
+      "atom_density": 5.583429160535402e-07
+    },
+    {
+      "Z": 30,
+      "A": 68,
+      "element": "Zn",
+      "weight_frac": 0.00010534916980281873,
+      "atom_frac": 4.22505e-05,
+      "atom_density": 2.549858119105895e-06
+    },
+    {
+      "Z": 30,
+      "A": 70,
+      "element": "Zn",
+      "weight_frac": 3.5856705832946437e-06,
+      "atom_frac": 1.3969000000000001e-06,
+      "atom_density": 8.430425217640087e-08
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Toluene",
+  "density": 0.8669,
+  "molecular_weight": 6.142758199451151,
+  "total_atom_density": 0.08498778000590117,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.08748975520624801,
+      "atom_frac": 0.5332556685450001,
+      "atom_density": 0.04532021544520222
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.0109499436962436e-05,
+      "atom_frac": 6.133145500000001e-05,
+      "atom_density": 5.2124242049818285e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.90191958122249,
+      "atom_frac": 0.46168949189999997,
+      "atom_density": 0.039237964968633486
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.010570554071824948,
+      "atom_frac": 0.0049935081,
+      "atom_density": 0.0004243871678604856
+    }
+  ]
+}

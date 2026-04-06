@@ -1,0 +1,80 @@
+{
+  "name": "Eye Lens (ICRP)",
+  "density": 1.1,
+  "molecular_weight": 6.278287476570715,
+  "total_atom_density": 0.10551212987173235,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.09924613713813639,
+      "atom_frac": 0.618257892165,
+      "atom_density": 0.06523370701233698
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.28117010293969e-05,
+      "atom_frac": 7.1107835e-05,
+      "atom_density": 7.502739121417716e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.1914666389020774,
+      "atom_frac": 0.1001735501,
+      "atom_density": 0.010569524627863687
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.002244001019161511,
+      "atom_frac": 0.0010834498999999999,
+      "atom_density": 0.00011431710655831542
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.05306134199078147,
+      "atom_frac": 0.02379008772,
+      "atom_density": 0.002510142825172545
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00020765115797294275,
+      "atom_frac": 8.691227999999999e-05,
+      "atom_density": 9.170299774808365e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.6519797697295857,
+      "atom_frac": 0.25591361509,
+      "atom_density": 0.027001990591320604
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00026394847101682734,
+      "atom_frac": 9.748406000000001e-05,
+      "atom_density": 1.028575079914375e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0015076998902382904,
+      "atom_frac": 0.0005259008500000001,
+      "atom_density": 5.5488918784854446e-05
+    }
+  ]
+}

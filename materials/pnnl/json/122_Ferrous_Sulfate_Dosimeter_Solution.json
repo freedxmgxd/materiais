@@ -1,0 +1,152 @@
+{
+  "name": "Ferrous Sulfate Dosimeter Solution",
+  "density": 1.024,
+  "molecular_weight": 6.145065026125724,
+  "total_atom_density": 0.10035161730628421,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.10823419493031215,
+      "atom_frac": 0.65994209793,
+      "atom_density": 0.0662262568557777
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.4877603976376873e-05,
+      "atom_frac": 7.590207e-05,
+      "atom_density": 7.616895481394795e-06
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 2.7245477967553886e-05,
+      "atom_frac": 1.195632e-05,
+      "atom_density": 1.199836049031472e-06
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 1.0662291674552387e-07,
+      "atom_frac": 4.368e-08,
+      "atom_density": 4.383358643938494e-09
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.8762542433977706,
+      "atom_frac": 0.33664695519,
+      "atom_density": 0.033783066414552684
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0003547440864043622,
+      "atom_frac": 0.00012823746000000002,
+      "atom_density": 1.2868836510249931e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0020263334660515675,
+      "atom_frac": 0.0006918073500000001,
+      "atom_density": 6.942398643687464e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 2.244705549986118e-05,
+      "atom_frac": 6e-06,
+      "atom_density": 6.021097038377053e-07
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.012281419585047018,
+      "atom_frac": 0.0023605015,
+      "atom_density": 0.00023688014317890983
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 9.999984748685927e-05,
+      "atom_frac": 1.86375e-05,
+      "atom_density": 1.8703032675458719e-06
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0005837906253957094,
+      "atom_frac": 0.0001056125,
+      "atom_density": 1.0598385182759941e-05
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 1.4544711103890503e-06,
+      "atom_frac": 2.485e-07,
+      "atom_density": 2.4937376900611624e-08
+    },
+    {
+      "Z": 17,
+      "A": 35,
+      "element": "Cl",
+      "weight_frac": 2.5867003218037925e-05,
+      "atom_frac": 4.5456e-06,
+      "atom_density": 4.561583116274455e-07
+    },
+    {
+      "Z": 17,
+      "A": 37,
+      "element": "Cl",
+      "weight_frac": 8.749005661225243e-06,
+      "atom_frac": 1.4544e-06,
+      "atom_density": 1.4595139221025976e-07
+    },
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 3.078343436799831e-06,
+      "atom_frac": 3.5070000000000004e-07,
+      "atom_density": 3.519331218931388e-08
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 5.011098226081062e-05,
+      "atom_frac": 5.5052400000000005e-06,
+      "atom_density": 5.524597376592481e-07
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 1.177980330842296e-06,
+      "atom_frac": 1.2714e-07,
+      "atom_density": 1.2758704624320975e-08
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 1.5951515317113023e-07,
+      "atom_frac": 1.6920000000000002e-08,
+      "atom_density": 1.6979493648223291e-09
+    }
+  ]
+}

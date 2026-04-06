@@ -1,0 +1,72 @@
+{
+  "name": "Kernite",
+  "density": 1.95,
+  "molecular_weight": 10.931225210071483,
+  "total_atom_density": 0.10742779749135922,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.02949961381722163,
+      "atom_frac": 0.3199632,
+      "atom_density": 0.03437294185428727
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 6.7804792235338555e-06,
+      "atom_frac": 3.68e-05,
+      "atom_density": 3.953342947682019e-06
+    },
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 0.029165249417086633,
+      "atom_frac": 0.03184,
+      "atom_density": 0.0034205010721248775
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 0.12907542594352361,
+      "atom_frac": 0.12816,
+      "atom_density": 0.013767946526492597
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.6422574354515175,
+      "atom_frac": 0.4389308,
+      "atom_density": 0.0471533690951203
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.0002600124665784151,
+      "atom_frac": 0.0001672,
+      "atom_density": 1.7961927740555263e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0014852170418364397,
+      "atom_frac": 0.0009020000000000001,
+      "atom_density": 9.689987333720603e-05
+    },
+    {
+      "Z": 11,
+      "A": 23,
+      "element": "Na",
+      "weight_frac": 0.1682502653830122,
+      "atom_frac": 0.08,
+      "atom_density": 0.008594223799308739
+    }
+  ]
+}

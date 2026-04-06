@@ -1,0 +1,40 @@
+{
+  "name": "Anthracene",
+  "density": 1.25,
+  "molecular_weight": 7.426234252883775,
+  "total_atom_density": 0.10136599107517828,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.05653998064335909,
+      "atom_frac": 0.416619083295,
+      "atom_density": 0.04223100627902993
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.2995701110754727e-05,
+      "atom_frac": 4.7916705e-05,
+      "atom_density": 4.857124291381951e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9325178558851449,
+      "atom_frac": 0.5770913368999999,
+      "atom_density": 0.0584974353057681
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.010929167770385237,
+      "atom_frac": 0.006241663099999999,
+      "atom_density": 0.0006326923660888695
+    }
+  ]
+}

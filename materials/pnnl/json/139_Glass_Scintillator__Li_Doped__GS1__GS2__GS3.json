@@ -1,0 +1,136 @@
+{
+  "name": "Glass Scintillator, Li Doped (GS1, GS2, GS3)",
+  "density": 2.66,
+  "molecular_weight": 19.45588625138937,
+  "total_atom_density": 0.08233443706763073,
+  "nuclides": [
+    {
+      "Z": 3,
+      "A": 6,
+      "element": "Li",
+      "weight_frac": 0.0018334529159044694,
+      "atom_frac": 0.005930294699999999,
+      "atom_density": 0.000488267475769654
+    },
+    {
+      "Z": 3,
+      "A": 7,
+      "element": "Li",
+      "weight_frac": 0.02603707802370029,
+      "atom_frac": 0.0722027053,
+      "atom_density": 0.0059447690956355385
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.4766462243261406,
+      "atom_frac": 0.57978269615,
+      "atom_density": 0.04773608190906344
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00019296617466982034,
+      "atom_frac": 0.00022085410000000002,
+      "atom_density": 1.8183897997578226e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0011022419612760062,
+      "atom_frac": 0.00119144975,
+      "atom_density": 9.809734446061938e-05
+    },
+    {
+      "Z": 12,
+      "A": 24,
+      "element": "Mg",
+      "weight_frac": 0.11281649578994755,
+      "atom_frac": 0.09151307460000001,
+      "atom_density": 0.007534677481519097
+    },
+    {
+      "Z": 12,
+      "A": 25,
+      "element": "Mg",
+      "weight_frac": 0.014878320722358507,
+      "atom_frac": 0.011585400000000001,
+      "atom_density": 0.0009538773872033292
+    },
+    {
+      "Z": 12,
+      "A": 26,
+      "element": "Mg",
+      "weight_frac": 0.017034516974961254,
+      "atom_frac": 0.0127555254,
+      "atom_density": 0.0010502190033108653
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.058218112900765624,
+      "atom_frac": 0.04198,
+      "atom_density": 0.0034563996680991383
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.2361796066534365,
+      "atom_frac": 0.16424547408,
+      "atom_density": 0.013523058649282936
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.012426779408183862,
+      "atom_frac": 0.008343797600000001,
+      "atom_density": 0.0006869818784022484
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.008483674644160772,
+      "atom_frac": 0.00550672832,
+      "atom_density": 0.00045339337631157995
+    },
+    {
+      "Z": 58,
+      "A": 136,
+      "element": "Ce",
+      "weight_frac": 6.128081020924809e-05,
+      "atom_frac": 8.7727e-06,
+      "atom_density": 7.222953160632041e-07
+    },
+    {
+      "Z": 58,
+      "A": 138,
+      "element": "Ce",
+      "weight_frac": 8.436598785782374e-05,
+      "atom_frac": 1.190242e-05,
+      "atom_density": 9.799790504425092e-07
+    },
+    {
+      "Z": 58,
+      "A": 140,
+      "element": "Ce",
+      "weight_frac": 0.03016080968376236,
+      "atom_frac": 0.004194298999999999,
+      "atom_density": 0.00034533524705832643
+    },
+    {
+      "Z": 58,
+      "A": 142,
+      "element": "Ce",
+      "weight_frac": 0.0038440730226653405,
+      "atom_frac": 0.0005270258799999999,
+      "atom_density": 4.33923791498727e-05
+    }
+  ]
+}

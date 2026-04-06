@@ -1,0 +1,64 @@
+{
+  "name": "Molybdenum",
+  "density": 10.22,
+  "molecular_weight": 95.9597870802268,
+  "total_atom_density": 0.06413757308125796,
+  "nuclides": [
+    {
+      "Z": 42,
+      "A": 92,
+      "element": "Mo",
+      "weight_frac": 0.13916307534286518,
+      "atom_frac": 0.1453,
+      "atom_density": 0.009319189368706782
+    },
+    {
+      "Z": 42,
+      "A": 94,
+      "element": "Mo",
+      "weight_frac": 0.08954079004922583,
+      "atom_frac": 0.0915,
+      "atom_density": 0.005868587936935103
+    },
+    {
+      "Z": 42,
+      "A": 95,
+      "element": "Mo",
+      "weight_frac": 0.15666025433439165,
+      "atom_frac": 0.1584,
+      "atom_density": 0.010159391576071262
+    },
+    {
+      "Z": 42,
+      "A": 96,
+      "element": "Mo",
+      "weight_frac": 0.1666042596654875,
+      "atom_frac": 0.1667,
+      "atom_density": 0.0106917334326457
+    },
+    {
+      "Z": 42,
+      "A": 97,
+      "element": "Mo",
+      "weight_frac": 0.09694662634995513,
+      "atom_frac": 0.096,
+      "atom_density": 0.006157207015800765
+    },
+    {
+      "Z": 42,
+      "A": 98,
+      "element": "Mo",
+      "weight_frac": 0.24884515344194177,
+      "atom_frac": 0.2439,
+      "atom_density": 0.015643154074518818
+    },
+    {
+      "Z": 42,
+      "A": 100,
+      "element": "Mo",
+      "weight_frac": 0.10223984081613295,
+      "atom_frac": 0.0982,
+      "atom_density": 0.006298309676579531
+    }
+  ]
+}

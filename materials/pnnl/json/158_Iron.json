@@ -1,0 +1,40 @@
+{
+  "name": "Iron",
+  "density": 7.874,
+  "molecular_weight": 55.84514363816803,
+  "total_atom_density": 0.0849104026868889,
+  "nuclides": [
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 0.056455582227068556,
+      "atom_frac": 0.05845,
+      "atom_density": 0.004963013037048656
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 0.9190152877956245,
+      "atom_frac": 0.91754,
+      "atom_density": 0.07790869088132804
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 0.021603686136746365,
+      "atom_frac": 0.02119,
+      "atom_density": 0.001799251432935176
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 0.0029254438405605884,
+      "atom_frac": 0.00282,
+      "atom_density": 0.0002394473355770267
+    }
+  ]
+}

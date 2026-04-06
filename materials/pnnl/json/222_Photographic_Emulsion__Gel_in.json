@@ -1,0 +1,112 @@
+{
+  "name": "Photographic Emulsion, Gel in",
+  "density": 1.2914,
+  "molecular_weight": 6.791015446215934,
+  "total_atom_density": 0.1145188468360423,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.08116143006026555,
+      "atom_frac": 0.5468891005200001,
+      "atom_density": 0.06262910913875083
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.8654935406464822e-05,
+      "atom_frac": 6.289948e-05,
+      "atom_density": 7.203175916186706e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.41124135789680233,
+      "atom_frac": 0.2327288678,
+      "atom_density": 0.026651841565913735
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.004819774512852618,
+      "atom_frac": 0.0025171322,
+      "atom_density": 0.0002882590768778702
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.11080709787469918,
+      "atom_frac": 0.05373768024,
+      "atom_density": 0.006153977172728777
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00043363438092651246,
+      "atom_frac": 0.00019631976,
+      "atom_density": 2.2482312526328583e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.379607850131707,
+      "atom_frac": 0.16117139948,
+      "atom_density": 0.018457162811400706
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00015368101324647927,
+      "atom_frac": 6.139432000000001e-05,
+      "atom_density": 7.03080672868297e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0008778412161692511,
+      "atom_frac": 0.0003312062000000001,
+      "atom_density": 3.79293520889476e-05
+    },
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.010303776154483073,
+      "atom_frac": 0.0021885696,
+      "atom_density": 0.00025063246681241835
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 8.389714534641883e-05,
+      "atom_frac": 1.728e-05,
+      "atom_density": 1.978885673326811e-06
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.0004897844164926023,
+      "atom_frac": 9.792000000000001e-05,
+      "atom_density": 1.1213685482185263e-05
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 1.220261602564069e-06,
+      "atom_frac": 2.3040000000000002e-07,
+      "atom_density": 2.638514231102415e-08
+    }
+  ]
+}

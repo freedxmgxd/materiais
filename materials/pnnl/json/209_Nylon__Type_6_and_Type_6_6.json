@@ -1,0 +1,80 @@
+{
+  "name": "Nylon, Type 6 and Type 6/6",
+  "density": 1.14,
+  "molecular_weight": 5.955853067612949,
+  "total_atom_density": 0.11526880177303507,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.09795323299539273,
+      "atom_frac": 0.57886542282,
+      "atom_density": 0.0667251236763027
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.2514527319523572e-05,
+      "atom_frac": 6.657718000000001e-05,
+      "atom_density": 7.674271764027677e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.6294794133164535,
+      "atom_frac": 0.31242390789999996,
+      "atom_density": 0.03601272950888206
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.007377538213044727,
+      "atom_frac": 0.0033790921,
+      "atom_density": 0.0003895038974477288
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.12329502877524608,
+      "atom_frac": 0.052440419519999996,
+      "atom_density": 0.006044744322545679
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.00048250486205070217,
+      "atom_frac": 0.00019158047999999998,
+      "atom_density": 2.2083252372702907e-05
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.1410066049300799,
+      "atom_frac": 0.052505101809999996,
+      "atom_density": 0.006052200172609915
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 5.708532611373064e-05,
+      "atom_frac": 2.0000540000000002e-05,
+      "atom_density": 2.305438280613659e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0003260770542989873,
+      "atom_frac": 0.00010789765,
+      "atom_density": 1.2437232829626318e-05
+    }
+  ]
+}

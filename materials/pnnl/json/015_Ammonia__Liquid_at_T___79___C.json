@@ -1,0 +1,40 @@
+{
+  "name": "Ammonia (Liquid at T= -79 \u00b0 C)",
+  "density": 0.771,
+  "molecular_weight": 4.257735358208556,
+  "total_atom_density": 0.10905023763415803,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.17750605046045762,
+      "atom_frac": 0.74990575092,
+      "atom_density": 0.08177740034104772
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 4.07997235033649e-05,
+      "atom_frac": 8.624908e-05,
+      "atom_density": 9.405482669727507e-06
+    },
+    {
+      "Z": 7,
+      "A": 14,
+      "element": "N",
+      "weight_frac": 0.8192470943071452,
+      "atom_frac": 0.24909797088000002,
+      "atom_density": 0.02716419291865058
+    },
+    {
+      "Z": 7,
+      "A": 15,
+      "element": "N",
+      "weight_frac": 0.0032060555088938843,
+      "atom_frac": 0.00091002912,
+      "atom_density": 9.923889179000371e-05
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Carbon, Activated",
+  "density": 0.32,
+  "molecular_weight": 12.010734697030113,
+  "total_atom_density": 0.016044689120279287,
+  "nuclides": [
+    {
+      "Z": 5,
+      "A": 10,
+      "element": "B",
+      "weight_frac": 1.6589946292217266e-07,
+      "atom_frac": 1.99e-07,
+      "atom_density": 3.192893134935578e-09
+    },
+    {
+      "Z": 5,
+      "A": 11,
+      "element": "B",
+      "weight_frac": 7.342143224715915e-07,
+      "atom_frac": 8.01e-07,
+      "atom_density": 1.285179598534371e-08
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.9884148162339711,
+      "atom_frac": 0.9892990106999999,
+      "atom_density": 0.01587299507368135
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.011584283652243628,
+      "atom_frac": 0.010699989299999999,
+      "atom_density": 0.00017167800190881477
+    }
+  ]
+}

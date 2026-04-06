@@ -1,0 +1,19 @@
+# IDE / AI tools
+.kilo/
+.kilocode/
+
+# Project folders (context, plans, references)
+brain/
+plans/
+refs/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Local scripts
+commit.sh

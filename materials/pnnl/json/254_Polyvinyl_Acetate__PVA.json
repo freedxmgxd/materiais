@@ -1,0 +1,64 @@
+{
+  "name": "Polyvinyl Acetate (PVA)",
+  "density": 1.19,
+  "molecular_weight": 7.174271017334988,
+  "total_atom_density": 0.09988955654287601,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.07022887213284289,
+      "atom_frac": 0.49992900153900155,
+      "atom_density": 0.049937686266653646
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.6142089565625562e-05,
+      "atom_frac": 5.7498447498447495e-05,
+      "atom_density": 5.743494422523759e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.5516020303359664,
+      "atom_frac": 0.32977853827853826,
+      "atom_density": 0.03294143194600105
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.006464810399050869,
+      "atom_frac": 0.0035667950667950666,
+      "atom_density": 0.00035628557750147705
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.3706808803929836,
+      "atom_frac": 0.16626316302316305,
+      "atom_density": 0.016607953623799656
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00015006700538496725,
+      "atom_frac": 6.333390333390335e-05,
+      "atom_density": 6.326395518152982e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0008571976442056361,
+      "atom_frac": 0.00034166974166974175,
+      "atom_density": 3.4129238979509506e-05
+    }
+  ]
+}

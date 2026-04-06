@@ -1,0 +1,64 @@
+{
+  "name": "Glycerol",
+  "density": 1.2613,
+  "molecular_weight": 6.578279601686797,
+  "total_atom_density": 0.11546675727556961,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.08753384835503779,
+      "atom_frac": 0.5713512870449999,
+      "atom_density": 0.06597208038030931
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.011963423673038e-05,
+      "atom_frac": 6.5712955e-05,
+      "atom_density": 7.5876618248454285e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.38672917608240104,
+      "atom_frac": 0.2120010542,
+      "atom_density": 0.024479074267476277
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.004532490204271214,
+      "atom_frac": 0.0022929458,
+      "atom_density": 0.0002647590161346368
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.5197719704283866,
+      "atom_frac": 0.21376827773,
+      "atom_density": 0.024683129837866465
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00021042526661353039,
+      "atom_frac": 8.142982000000001e-05,
+      "atom_density": 9.402437260933325e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0012019700290529687,
+      "atom_frac": 0.00043929245,
+      "atom_density": 5.07236746971403e-05
+    }
+  ]
+}

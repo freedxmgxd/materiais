@@ -1,0 +1,40 @@
+{
+  "name": "Sulphur",
+  "density": 2.0,
+  "molecular_weight": 32.064787405596995,
+  "total_atom_density": 0.03756233081370013,
+  "nuclides": [
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.9471533375095583,
+      "atom_frac": 0.9499,
+      "atom_density": 0.035680458039933756
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.007712071771649594,
+      "atom_frac": 0.0075,
+      "atom_density": 0.00028171748110275097
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.04502242069178697,
+      "atom_frac": 0.0425,
+      "atom_density": 0.0015963990595822557
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 0.00011217002700514352,
+      "atom_frac": 0.0001,
+      "atom_density": 3.7562330813700134e-06
+    }
+  ]
+}

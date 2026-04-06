@@ -1,0 +1,80 @@
+{
+  "name": "Zinc Sulfide",
+  "density": 4.09,
+  "molecular_weight": 48.7212848502856,
+  "total_atom_density": 0.050553994592069176,
+  "nuclides": [
+    {
+      "Z": 16,
+      "A": 32,
+      "element": "S",
+      "weight_frac": 0.3116735375623783,
+      "atom_frac": 0.47495,
+      "atom_density": 0.024010619731503254
+    },
+    {
+      "Z": 16,
+      "A": 33,
+      "element": "S",
+      "weight_frac": 0.002537760883918894,
+      "atom_frac": 0.00375,
+      "atom_density": 0.0001895774797202594
+    },
+    {
+      "Z": 16,
+      "A": 34,
+      "element": "S",
+      "weight_frac": 0.01481523273045454,
+      "atom_frac": 0.02125,
+      "atom_density": 0.00107427238508147
+    },
+    {
+      "Z": 16,
+      "A": 36,
+      "element": "S",
+      "weight_frac": 3.6911055201563684e-05,
+      "atom_frac": 5e-05,
+      "atom_density": 2.527699729603459e-06
+    },
+    {
+      "Z": 30,
+      "A": 64,
+      "element": "Zn",
+      "weight_frac": 0.32258959413582605,
+      "atom_frac": 0.24585,
+      "atom_density": 0.012428699570460208
+    },
+    {
+      "Z": 30,
+      "A": 66,
+      "element": "Zn",
+      "weight_frac": 0.18761090952620407,
+      "atom_frac": 0.13865,
+      "atom_density": 0.007009311350190391
+    },
+    {
+      "Z": 30,
+      "A": 67,
+      "element": "Zn",
+      "weight_frac": 0.027748200362094414,
+      "atom_frac": 0.0202,
+      "atom_density": 0.0010211906907597974
+    },
+    {
+      "Z": 30,
+      "A": 68,
+      "element": "Zn",
+      "weight_frac": 0.12861046049292085,
+      "atom_frac": 0.09225,
+      "atom_density": 0.004663606001118381
+    },
+    {
+      "Z": 30,
+      "A": 70,
+      "element": "Zn",
+      "weight_frac": 0.004377393251001257,
+      "atom_frac": 0.00305,
+      "atom_density": 0.000154189683505811
+    }
+  ]
+}

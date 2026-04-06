@@ -1,0 +1,64 @@
+{
+  "name": "Ethyl Acetate",
+  "density": 0.901,
+  "molecular_weight": 6.293228962189186,
+  "total_atom_density": 0.08621883706059391,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.09150059930448849,
+      "atom_frac": 0.5713632856649999,
+      "atom_density": 0.049262278029156205
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 2.1031390999525077e-05,
+      "atom_frac": 6.5714335e-05,
+      "atom_density": 5.665813541910284e-06
+    },
+    {
+      "Z": 6,
+      "A": 12,
+      "element": "C",
+      "weight_frac": 0.538973290623783,
+      "atom_frac": 0.2826568602,
+      "atom_density": 0.024370345773642874
+    },
+    {
+      "Z": 6,
+      "A": 13,
+      "element": "C",
+      "weight_frac": 0.006316800777388483,
+      "atom_frac": 0.0030571398000000002,
+      "atom_density": 0.0002635830382876567
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.36220404765990405,
+      "atom_frac": 0.14250985749,
+      "atom_density": 0.012287034182458769
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00014663523166614503,
+      "atom_frac": 5.4285660000000005e-05,
+      "atom_density": 4.680446474266801e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0008375950117703794,
+      "atom_frac": 0.00029285685000000005,
+      "atom_density": 2.5249777032228798e-05
+    }
+  ]
+}

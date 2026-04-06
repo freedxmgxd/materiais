@@ -1,0 +1,24 @@
+{
+  "name": "Hydrogen",
+  "density": 8.4e-05,
+  "molecular_weight": 1.0079407537237837,
+  "total_atom_density": 5.018745615465271e-05,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.9997702030564829,
+      "atom_frac": 0.999885,
+      "atom_density": 5.0181684597194925e-05
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 0.0002297969435171124,
+      "atom_frac": 0.000115,
+      "atom_density": 5.771557457785062e-09
+    }
+  ]
+}

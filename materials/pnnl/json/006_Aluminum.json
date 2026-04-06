@@ -1,0 +1,16 @@
+{
+  "name": "Aluminum",
+  "density": 2.6989,
+  "molecular_weight": 26.981538408,
+  "total_atom_density": 0.060238061490018514,
+  "nuclides": [
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 1.0,
+      "atom_frac": 1.0,
+      "atom_density": 0.060238061490018514
+    }
+  ]
+}

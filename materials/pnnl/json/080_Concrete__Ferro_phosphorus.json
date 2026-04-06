@@ -1,0 +1,192 @@
+{
+  "name": "Concrete, Ferro-phosphorus",
+  "density": 4.8,
+  "molecular_weight": 31.98052978538847,
+  "total_atom_density": 0.0903871069115526,
+  "nuclides": [
+    {
+      "Z": 1,
+      "A": 1,
+      "element": "H",
+      "weight_frac": 0.004998854018484202,
+      "atom_frac": 0.158624756055,
+      "atom_density": 0.014337632784362238
+    },
+    {
+      "Z": 1,
+      "A": 2,
+      "element": "H",
+      "weight_frac": 1.1489854078707787e-06,
+      "atom_frac": 1.8243945e-05,
+      "atom_density": 1.6490174072034856e-06
+    },
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.10371807546121921,
+      "atom_frac": 0.20737584917000002,
+      "atom_density": 0.0187441030498028
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 4.1989381735189805e-05,
+      "atom_frac": 7.899478000000001e-05,
+      "atom_density": 7.140109625314579e-06
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0002398475201975439,
+      "atom_frac": 0.00042615605000000003,
+      "atom_density": 3.851901245235496e-05
+    },
+    {
+      "Z": 12,
+      "A": 24,
+      "element": "Mg",
+      "weight_frac": 0.0015592394796071904,
+      "atom_frac": 0.0020790167999999998,
+      "atom_density": 0.00018791631377251396
+    },
+    {
+      "Z": 12,
+      "A": 25,
+      "element": "Mg",
+      "weight_frac": 0.00020563362563355103,
+      "atom_frac": 0.0002632,
+      "atom_density": 2.3789886539120647e-05
+    },
+    {
+      "Z": 12,
+      "A": 26,
+      "element": "Mg",
+      "weight_frac": 0.0002354344654779211,
+      "atom_frac": 0.00028978319999999996,
+      "atom_density": 2.619266507957183e-05
+    },
+    {
+      "Z": 13,
+      "A": 27,
+      "element": "Al",
+      "weight_frac": 0.003999917276253907,
+      "atom_frac": 0.004741,
+      "atom_density": 0.00042852527386767097
+    },
+    {
+      "Z": 14,
+      "A": 28,
+      "element": "Si",
+      "weight_frac": 0.031234377703745427,
+      "atom_frac": 0.03570413445,
+      "atom_density": 0.0032271934177165985
+    },
+    {
+      "Z": 14,
+      "A": 29,
+      "element": "Si",
+      "weight_frac": 0.0016434218312755971,
+      "atom_frac": 0.00181379775,
+      "atom_density": 0.00016394393114518358
+    },
+    {
+      "Z": 14,
+      "A": 30,
+      "element": "Si",
+      "weight_frac": 0.0011219524916062438,
+      "atom_frac": 0.0011970678,
+      "atom_density": 0.00010819949521897708
+    },
+    {
+      "Z": 15,
+      "A": 31,
+      "element": "P",
+      "weight_frac": 0.19699974183956678,
+      "atom_frac": 0.203403,
+      "atom_density": 0.018385008707130536
+    },
+    {
+      "Z": 20,
+      "A": 40,
+      "element": "Ca",
+      "weight_frac": 0.04059772929554586,
+      "atom_frac": 0.03248880674,
+      "atom_density": 0.002936569248237151
+    },
+    {
+      "Z": 20,
+      "A": 42,
+      "element": "Ca",
+      "weight_frac": 0.0002844893841152512,
+      "atom_frac": 0.00021683558,
+      "atom_density": 1.959914075168852e-05
+    },
+    {
+      "Z": 20,
+      "A": 43,
+      "element": "Ca",
+      "weight_frac": 6.077516987080508e-05,
+      "atom_frac": 4.52439e-05,
+      "atom_density": 4.089465226395595e-06
+    },
+    {
+      "Z": 20,
+      "A": 44,
+      "element": "Ca",
+      "weight_frac": 0.000960877352075075,
+      "atom_frac": 0.00069910204,
+      "atom_density": 6.318981083156452e-05
+    },
+    {
+      "Z": 20,
+      "A": 46,
+      "element": "Ca",
+      "weight_frac": 1.9262869011667396e-06,
+      "atom_frac": 1.3405600000000003e-06,
+      "atom_density": 1.21169340041351e-07
+    },
+    {
+      "Z": 20,
+      "A": 48,
+      "element": "Ca",
+      "weight_frac": 9.397096292244574e-05,
+      "atom_frac": 6.267118e-05,
+      "atom_density": 5.664666646933157e-06
+    },
+    {
+      "Z": 26,
+      "A": 54,
+      "element": "Fe",
+      "weight_frac": 0.034550850053390016,
+      "atom_frac": 0.02048502995,
+      "atom_density": 0.0018515825921770071
+    },
+    {
+      "Z": 26,
+      "A": 56,
+      "element": "Fe",
+      "weight_frac": 0.5624379052134778,
+      "atom_frac": 0.32157116133999997,
+      "atom_density": 0.029065886939710708
+    },
+    {
+      "Z": 26,
+      "A": 57,
+      "element": "Fe",
+      "weight_frac": 0.013221468823207676,
+      "atom_frac": 0.00742648049,
+      "atom_density": 0.0006712580860261895
+    },
+    {
+      "Z": 26,
+      "A": 58,
+      "element": "Fe",
+      "weight_frac": 0.0017903733782832101,
+      "atom_frac": 0.00098832822,
+      "atom_density": 8.933212848484447e-05
+    }
+  ]
+}

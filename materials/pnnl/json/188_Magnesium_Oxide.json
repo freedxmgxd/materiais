@@ -1,0 +1,56 @@
+{
+  "name": "Magnesium Oxide",
+  "density": 3.58,
+  "molecular_weight": 20.152228268482823,
+  "total_atom_density": 0.10698203510585337,
+  "nuclides": [
+    {
+      "Z": 8,
+      "A": 16,
+      "element": "O",
+      "weight_frac": 0.39588790788187267,
+      "atom_frac": 0.498785,
+      "atom_density": 0.05336103438027307
+    },
+    {
+      "Z": 8,
+      "A": 17,
+      "element": "O",
+      "weight_frac": 0.00016027185632279766,
+      "atom_frac": 0.00019,
+      "atom_density": 2.032658667011214e-05
+    },
+    {
+      "Z": 8,
+      "A": 18,
+      "element": "O",
+      "weight_frac": 0.0009154887666341654,
+      "atom_frac": 0.001025,
+      "atom_density": 0.00010965658598349971
+    },
+    {
+      "Z": 12,
+      "A": 24,
+      "element": "Mg",
+      "weight_frac": 0.47006673847009395,
+      "atom_frac": 0.39495,
+      "atom_density": 0.04225255476505679
+    },
+    {
+      "Z": 12,
+      "A": 25,
+      "element": "Mg",
+      "weight_frac": 0.06199274004125074,
+      "atom_frac": 0.05,
+      "atom_density": 0.005349101755292669
+    },
+    {
+      "Z": 12,
+      "A": 26,
+      "element": "Mg",
+      "weight_frac": 0.07097685298382563,
+      "atom_frac": 0.05505,
+      "atom_density": 0.005889361032577228
+    }
+  ]
+}
