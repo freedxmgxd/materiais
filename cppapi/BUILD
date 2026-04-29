@@ -9,7 +9,6 @@ cc_library(
         "material.cpp",
         "nuclear_data_manager.cpp",
         "material_factory.cpp",
-        "materiais.cpp",
     ],
     hdrs = [
         "material.hpp",
@@ -18,14 +17,14 @@ cc_library(
         "material_factory.hpp",
         "json.hpp",
     ],
-    copts = ["-std=c++20", "-fmodules-ts"],
+    copts = ["-std=c++20"],
     visibility = ["//visibility:public"],
 )
 
 cc_binary(
     name = "material_example",
     srcs = ["example.cpp"],
-    copts = ["-std=c++20", "-fmodules-ts"],
+    copts = ["-std=c++20"],
     deps = [":materiais_cppapi"],
     visibility = ["//visibility:public"],
 )

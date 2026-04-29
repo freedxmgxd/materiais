@@ -1,4 +1,5 @@
-export module materiais.factory;
+#include "material_factory.hpp"
+#include "material.hpp"
 
 #include <cmath>
 #include <filesystem>
@@ -9,9 +10,7 @@ export module materiais.factory;
 #include <string>
 #include <vector>
 
-import materiais.material;
-
-export namespace materiais {
+namespace materiais {
 
 namespace {
 
@@ -162,8 +161,8 @@ Material create_beo(const std::map<std::string, double>& params) {
     return Material::from_atom_fractions("BeO_" + std::to_string(static_cast<int>(temperature)) + "K", rho, {"Be", "O"}, {0.5, 0.5});
 }
 
-std::map<std::string, MaterialCreator>& registry() {
-    static std::map<std::string, MaterialCreator> instance;
+std::map<std::string, MaterialFactory::MaterialCreator>& registry() {
+    static std::map<std::string, MaterialFactory::MaterialCreator> instance;
     return instance;
 }
 

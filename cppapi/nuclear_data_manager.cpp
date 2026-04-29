@@ -1,17 +1,10 @@
-export module materiais.nuclear_data_manager;
+#include "nuclear_data_manager.hpp"
+#include "json.hpp"
 
-#include <filesystem>
-#include <fstream>
 #include <stdexcept>
 #include <string>
-#include <map>
-#include <array>
-#include <vector>
 
-import materiais.models;
-import materiais.json;
-
-export namespace materiais {
+namespace materiais {
 
 NuclearDataManager::NuclearDataManager(std::string data_dir)
     : data_dir_(std::move(data_dir)) {

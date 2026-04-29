@@ -1,6 +1,14 @@
 #pragma once
 
-import materiais.nuclear_data_manager;
+#include <array>
+#include <map>
+#include <string>
+#include "models.hpp"
+
+namespace materiais {
+
+class NuclearDataManager {
+public:
     explicit NuclearDataManager(std::string data_dir = {});
 
     const ElementData* get_element(const std::string& symbol) const noexcept;

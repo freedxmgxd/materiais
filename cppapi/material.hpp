@@ -1,6 +1,14 @@
 #pragma once
 
-import materiais.material;
+#include <map>
+#include <string>
+#include <vector>
+#include "models.hpp"
+#include "nuclear_data_manager.hpp"
+namespace materiais {
+
+class Material {
+public:
     Material(std::string name, double density = 0.0);
 
     static Material from_weight_fractions(

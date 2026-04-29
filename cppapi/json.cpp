@@ -1,44 +1,20 @@
-export module materiais.json;
+#include "json.hpp"
 
 #include <cctype>
 #include <charconv>
 #include <fstream>
-#include <map>
 #include <sstream>
-#include <string>
-#include <variant>
-#include <vector>
 
-export namespace materiais {
+namespace materiais {
 
-export struct JsonValue;
-export using JsonObject = std::map<std::string, JsonValue>;
-export using JsonArray = std::vector<JsonValue>;
 
-export struct JsonValue {
-    std::variant<std::nullptr_t, bool, double, std::string, JsonArray, JsonObject> value;
-
-    bool is_null() const noexcept { return std::holds_alternative<std::nullptr_t>(value); }
-    bool is_bool() const noexcept { return std::holds_alternative<bool>(value); }
-    bool is_number() const noexcept { return std::holds_alternative<double>(value); }
-    bool is_string() const noexcept { return std::holds_alternative<std::string>(value); }
-    bool is_array() const noexcept { return std::holds_alternative<JsonArray>(value); }
-    bool is_object() const noexcept { return std::holds_alternative<JsonObject>(value); }
-
-    const JsonObject& as_object() const { return std::get<JsonObject>(value); }
-    const JsonArray& as_array() const { return std::get<JsonArray>(value); }
-    const std::string& as_string() const { return std::get<std::string>(value); }
-    double as_number() const { return std::get<double>(value); }
-    bool as_bool() const { return std::get<bool>(value); }
-};
-
-export inline void skip_space(const std::string& text, size_t& index) {
+inline void skip_space(const std::string& text, size_t& index) {
     while (index < text.size() && std::isspace(static_cast<unsigned char>(text[index]))) {
         ++index;
     }
 }
 
-export inline std::string parse_string(const std::string& text, size_t& index) {
+inline std::string parse_string(const std::string& text, size_t& index) {
     std::string value;
     ++index;
     while (index < text.size()) {
@@ -66,7 +42,7 @@ export inline std::string parse_string(const std::string& text, size_t& index) {
     return value;
 }
 
-export inline double parse_number(const std::string& text, size_t& index) {
+inline double parse_number(const std::string& text, size_t& index) {
     size_t start = index;
     if (text[index] == '-') {
         ++index;
@@ -82,7 +58,7 @@ export inline double parse_number(const std::string& text, size_t& index) {
     }
     if (index < text.size() && (text[index] == 'e' || text[index] == 'E')) {
         ++index;
-        if (text[index] == '+' || text[index] == '-') {
+        if (index < text.size() && (text[index] == '+' || text[index] == '-')) {
             ++index;
         }
         while (index < text.size() && std::isdigit(static_cast<unsigned char>(text[index]))) {
@@ -94,9 +70,9 @@ export inline double parse_number(const std::string& text, size_t& index) {
     return value;
 }
 
-export inline JsonValue parse_value(const std::string& text, size_t& index);
+JsonValue parse_value(const std::string& text, size_t& index);
 
-export inline JsonArray parse_array(const std::string& text, size_t& index) {
+inline JsonArray parse_array(const std::string& text, size_t& index) {
     JsonArray array;
     ++index;
     skip_space(text, index);
@@ -121,7 +97,7 @@ export inline JsonArray parse_array(const std::string& text, size_t& index) {
     return array;
 }
 
-export inline JsonObject parse_object(const std::string& text, size_t& index) {
+inline JsonObject parse_object(const std::string& text, size_t& index) {
     JsonObject object;
     ++index;
     skip_space(text, index);
@@ -151,7 +127,7 @@ export inline JsonObject parse_object(const std::string& text, size_t& index) {
     return object;
 }
 
-export inline JsonValue parse_value(const std::string& text, size_t& index) {
+inline JsonValue parse_value(const std::string& text, size_t& index) {
     skip_space(text, index);
     if (index >= text.size()) {
         return JsonValue{nullptr};
@@ -184,12 +160,12 @@ export inline JsonValue parse_value(const std::string& text, size_t& index) {
     return JsonValue{nullptr};
 }
 
-export inline JsonValue parse_json(const std::string& text) {
+JsonValue parse_json(const std::string& text) {
     size_t index = 0;
     return parse_value(text, index);
 }
 
-export inline JsonValue parse_json_file(const std::string& path) {
+JsonValue parse_json_file(const std::string& path) {
     std::ifstream stream(path);
     std::ostringstream buffer;
     buffer << stream.rdbuf();

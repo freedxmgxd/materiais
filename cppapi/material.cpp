@@ -1,4 +1,4 @@
-export module materiais.material;
+#include "material.hpp"
 
 #include <cmath>
 #include <fstream>
@@ -6,13 +6,11 @@ export module materiais.material;
 #include <sstream>
 #include <string>
 #include <vector>
+
+#include "json.hpp"
 #include <map>
 
-import materiais.models;
-import materiais.nuclear_data_manager;
-import materiais.json;
-
-export namespace materiais {
+namespace materiais {
 
 Material::Material(std::string name, double density)
     : name_(std::move(name)),
