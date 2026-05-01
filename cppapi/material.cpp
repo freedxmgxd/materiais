@@ -6,6 +6,7 @@
 #include <sstream>
 #include <string>
 #include <vector>
+#include <algorithm>
 
 #include "json.hpp"
 #include <map>
@@ -13,10 +14,12 @@
 namespace materiais {
 
 Material::Material(std::string name, double density)
-    : name_(std::move(name)),
-      density_(density),
-      molecular_weight_(0.0),
-      total_atom_density_(0.0) {}
+        : description_(std::move(name)),
+            name_("material"),
+            density_(density),
+            molecular_weight_(0.0),
+            total_atom_density_(0.0) {  // Will be set to compact name after nuclides are added
+}
 
 Material Material::from_weight_fractions(
     std::string name,
@@ -200,6 +203,9 @@ void Material::calculate_properties(bool based_on_atom) {
             nuclide.atom_density = nuclide.atom_frac * total_atom_density_;
         }
     }
+    
+    // Generate compact isotope-based name after properties are calculated
+    name_ = generate_compact_isotope_name();
 }
 
 int Material::find_nuclide(int z, int a) const noexcept {
@@ -507,6 +513,8 @@ Material Material::from_json_file(const std::string& filepath) {
             0.0
         });
     }
+    // Generate compact isotope-based name from loaded nuclides
+    material.name_ = material.generate_compact_isotope_name();
     return material;
 }
 
@@ -540,15 +548,122 @@ std::string Material::nuclide_name(const NuclideComponent& nuc) const {
     return std::to_string(nuc.Z) + "_" + std::to_string(nuc.A);
 }
 
+std::string Material::generate_compact_isotope_name() const {
+    if (nuclides_.empty()) {
+        return "empty";
+    }
+
+    // Group nuclides by element (Z) and sum atom fractions
+    std::map<int, std::pair<std::string, double>> element_fracs;
+    for (const auto& nuc : nuclides_) {
+        std::string symbol = data_manager_.get_symbol(nuc.Z);
+        if (symbol.empty()) symbol = "X";  // fallback
+        auto &entry = element_fracs[nuc.Z];
+        if (entry.first.empty()) entry.first = symbol;
+        entry.second += nuc.atom_frac;
+    }
+
+    // Sort elements by total atom fraction (descending)
+    std::vector<std::pair<double, std::string>> sorted_elements;
+    for (const auto& kv : element_fracs) {
+        sorted_elements.push_back({kv.second.second, kv.second.first});
+    }
+    std::sort(sorted_elements.begin(), sorted_elements.end(),
+              [](const auto& a, const auto& b) { return a.first > b.first; });
+
+    // Build base name from top elements (up to 3)
+    std::ostringstream base_ss;
+    const int max_elements = 3;
+    int taken = std::min(static_cast<int>(sorted_elements.size()), max_elements);
+    for (int i = 0; i < taken; ++i) {
+        if (i) base_ss << '_';
+        base_ss << sorted_elements[i].second;
+    }
+    std::string base = base_ss.str();
+
+    // Build a simple fingerprint from density and nuclide composition
+    std::ostringstream fp_ss;
+    fp_ss << std::fixed << std::setprecision(4) << density_;
+    for (const auto& nuc : nuclides_) {
+        fp_ss << "_" << nuc.Z << nuc.A << std::setprecision(2) << nuc.atom_frac;
+    }
+    std::string fp = fp_ss.str();
+
+    // Simple hash: CRC16-like
+    unsigned short tag = 0xFFFF;
+    for (char c : fp) {
+        tag ^= static_cast<unsigned char>(c);
+        for (int i = 0; i < 8; ++i) {
+            if (tag & 1) tag = (tag >> 1) ^ 0xA001;
+            else tag >>= 1;
+        }
+    }
+    std::ostringstream tag_ss;
+    tag_ss << std::hex << std::nouppercase << std::setfill('0') << std::setw(4) << tag;
+
+    std::string compact = base + "_" + tag_ss.str();
+
+    // Ensure compact name length stays small (under 20-22 chars)
+    if (compact.length() > 22) {
+        compact = compact.substr(0, 22);
+    }
+    return compact;
+}
+
 std::string Material::to_openmc_xml(int material_id) const {
     std::ostringstream output;
-    output << "<material id=\"" << material_id << "\" name=\"" << name_ << "\" density=\"" << density_ << "\" target=\"g/cm3\">\n";
+    output << "<material id=\"" << material_id << "\" name=\"" << name_ << "\" target=\"g/cm3\">\n";
+    if (!description_.empty()) {
+        output << "  <description>" << description_ << "</description>\n";
+    }
+    output << "  <density units=\"g/cm3\" value=\"" << density_ << "\" />\n";
     output << std::fixed << std::setprecision(8);
     for (const auto& nuclide : nuclides_) {
-        output << "  <nuclide name=\"" << nuclide_name(nuclide) << "\">" << nuclide.atom_frac << "</nuclide>\n";
+        output << "  <nuclide name=\"" << nuclide_name(nuclide) << "\" ao=\"" << (nuclide.atom_frac * 100.0) << "\" />\n";
     }
     output << "</material>\n";
     return output.str();
+}
+
+std::string Material::to_openmc_materials_xml(const std::vector<Material>& materials,
+                                              const std::string& cross_sections_xml,
+                                              int starting_id) {
+    std::ostringstream output;
+    output << "<?xml version=\"1.0\"?>\n";
+    output << "<materials cross_sections=\"" << cross_sections_xml << "\">\n";
+    int id = starting_id;
+    for (const auto& material : materials) {
+        output << material.to_openmc_xml(id++);
+    }
+    output << "</materials>\n";
+    return output.str();
+}
+
+bool Material::write_openmc_materials_xml_file(const std::filesystem::path& filepath,
+                                              const std::vector<Material>& materials,
+                                              const std::string& cross_sections_xml,
+                                              int starting_id) {
+    // Deduplicate materials: keep only unique compositions
+    std::vector<Material> unique_materials;
+    for (const auto& mat : materials) {
+        bool is_duplicate = false;
+        for (const auto& unique : unique_materials) {
+            if (mat.is_same_composition(unique)) {
+                is_duplicate = true;
+                break;
+            }
+        }
+        if (!is_duplicate) {
+            unique_materials.push_back(mat);
+        }
+    }
+    
+    std::ofstream out(filepath);
+    if (!out) {
+        return false;
+    }
+    out << to_openmc_materials_xml(unique_materials, cross_sections_xml, starting_id);
+    return static_cast<bool>(out);
 }
 
 const std::vector<NuclideComponent>& Material::nuclides() const noexcept {
@@ -561,6 +676,34 @@ double Material::total_atom_density() const noexcept {
 
 double Material::density() const noexcept {
     return density_;
+}
+
+std::string Material::name() const noexcept {
+    return name_;
+}
+
+bool Material::is_same_composition(const Material& other) const noexcept {
+    // Check density (within 1e-6 tolerance)
+    if (std::abs(density_ - other.density_) > 1e-6) {
+        return false;
+    }
+    
+    // Check number of nuclides
+    if (nuclides_.size() != other.nuclides_.size()) {
+        return false;
+    }
+    
+    // Check each nuclide (Z, A, and atom fraction within 1e-8 tolerance)
+    for (size_t i = 0; i < nuclides_.size(); ++i) {
+        const auto& n1 = nuclides_[i];
+        const auto& n2 = other.nuclides_[i];
+        if (n1.Z != n2.Z || n1.A != n2.A || 
+            std::abs(n1.atom_frac - n2.atom_frac) > 1e-8) {
+            return false;
+        }
+    }
+    
+    return true;
 }
 
 } // namespace materiais

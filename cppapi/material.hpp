@@ -1,5 +1,6 @@
 #pragma once
 
+#include <filesystem>
 #include <map>
 #include <string>
 #include <vector>
@@ -44,11 +45,23 @@ public:
     std::string to_openmc_xml(int material_id = 1) const;
 
     const std::vector<NuclideComponent>& nuclides() const noexcept;
+    std::string name() const noexcept;
+    static std::string to_openmc_materials_xml(const std::vector<Material>& materials,
+                                               const std::string& cross_sections_xml,
+                                               int starting_id = 1);
+    static bool write_openmc_materials_xml_file(const std::filesystem::path& filepath,
+                                               const std::vector<Material>& materials,
+                                               const std::string& cross_sections_xml,
+                                               int starting_id = 1);
     double total_atom_density() const noexcept;
     double density() const noexcept;
+    
+    // Check if two materials have identical composition and density (within tolerance)
+    bool is_same_composition(const Material& other) const noexcept;
 
 private:
-    std::string name_;
+    std::string description_;    // Full original material name
+    std::string name_;           // Compact isotope-based name (e.g., "U_O")
     double density_;
     double molecular_weight_;
     double total_atom_density_;
@@ -58,6 +71,7 @@ private:
     static constexpr double AVOGADRO = 6.02214076e23;
     int find_nuclide(int z, int a) const noexcept;
     std::string nuclide_name(const NuclideComponent& nuc) const;
+    std::string generate_compact_isotope_name() const;
 };
 
 } // namespace materiais
