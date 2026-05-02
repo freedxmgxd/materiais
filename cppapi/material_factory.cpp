@@ -34,6 +34,8 @@ Material create_uo2(const std::map<std::string, double>& params) {
     double enrichment_w_percent = get_param(params, "enrichment_w_percent", 0.711);
     double theoretical_density_frac = get_param(params, "theoretical_density_frac", 1.0);
     double dishing_percent = get_param(params, "dishing_percent", 0.0);
+    double pu239_atom_fraction = get_param(params, "pu239_atom_fraction", 0.0);
+    double xe135_atom_fraction = get_param(params, "xe135_atom_fraction", 0.0);
 
     const double MASS_O = 15.999;
     const double M35 = 235.0439;
@@ -67,7 +69,17 @@ Material create_uo2(const std::map<std::string, double>& params) {
     double N_U238 = (1.0 - eta - enr_frac) * u_density * AVOGADRO / M38;
     double N_O = 2.0 * (N_U234 + N_U235 + N_U238);
 
-    double total_atoms = N_U234 + N_U235 + N_U238 + N_O;
+    // Convert provided trace fractions (which are expressed relative to base U atoms)
+    // into absolute atom counts consistent with the other nuclide counts.
+    double base_u_atoms = N_U234 + N_U235 + N_U238;
+    double N_PU239 = 0.0;
+    double N_XE135 = 0.0;
+    if (base_u_atoms > 0.0) {
+        N_PU239 = std::max(0.0, pu239_atom_fraction) * base_u_atoms;
+        N_XE135 = std::max(0.0, xe135_atom_fraction) * base_u_atoms;
+    }
+
+    double total_atoms = N_U234 + N_U235 + N_U238 + N_O + N_PU239 + N_XE135;
     double total_mass = N_U234 * M34 + N_U235 * M35 + N_U238 * M38 + N_O * MASS_O;
 
     Material material("UO2_" + std::to_string(enrichment_w_percent) + "%_" + std::to_string(static_cast<int>(temperature)) + "K", rho);
@@ -75,6 +87,12 @@ Material create_uo2(const std::map<std::string, double>& params) {
     material.add_nuclide({92, 234, "U", N_U234 * M34 / total_mass, N_U234 / total_atoms, N_U234, M34});
     material.add_nuclide({92, 238, "U", N_U238 * M38 / total_mass, N_U238 / total_atoms, N_U238, M38});
     material.add_nuclide({8, 16, "O", N_O * MASS_O / total_mass, N_O / total_atoms, N_O, MASS_O});
+    if (N_PU239 > 0.0) {
+        material.add_nuclide({94, 239, "Pu", 0.0, N_PU239 / total_atoms, N_PU239, 0.0});
+    }
+    if (N_XE135 > 0.0) {
+        material.add_nuclide({54, 135, "Xe", 0.0, N_XE135 / total_atoms, N_XE135, 0.0});
+    }
     material.calculate_properties(true);
     return material;
 }
