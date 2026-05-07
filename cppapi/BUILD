@@ -4,7 +4,6 @@ load("@rules_cc//cc:cc_library.bzl", "cc_library")
 cc_library(
     name = "materiais_cppapi",
     srcs = [
-        "models.cpp",
         "json.cpp",
         "material.cpp",
         "nuclear_data_manager.cpp",
